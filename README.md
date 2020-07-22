@@ -2,27 +2,27 @@
 
 #### 📝 Blog
 
-- [Weeknote 29 (2020)](https://ricard.blog/weeknote/week-29-2020/) (5 days ago)
-- [Work from home: good or bad?](https://ricard.blog/rant/work-from-home-good-or-bad/) (1 month ago)
-- [Weeknote 20 (2020)](https://ricard.blog/weeknote/weeknote-20-2020/) (2 months ago)
+- [Weeknote 29 (2020)](https://ricard.blog/weeknote/week-29-2020/)
+- [Work from home: good or bad?](https://ricard.blog/rant/work-from-home-good-or-bad/)
+- [Weeknote 20 (2020)](https://ricard.blog/weeknote/weeknote-20-2020/)
 
 #### 🎙 Podcast
 
-- [Episode 15: Wear a mask](https://anchor.fm/quicoto/episodes/Episode-15-Wear-a-mask-egbalg) (2 weeks ago)
-- [Episode 14: Digital monopoly and privacy](https://anchor.fm/quicoto/episodes/Episode-14-Digital-monopoly-and-privacy-eeg61m) (1 month ago)
-- [Episode 13: Outside the box](https://anchor.fm/quicoto/episodes/Episode-13-Outside-the-box-ed6vpi) (2 months ago)
+- [Episode 15: Wear a mask](https://anchor.fm/quicoto/episodes/Episode-15-Wear-a-mask-egbalg)
+- [Episode 14: Digital monopoly and privacy](https://anchor.fm/quicoto/episodes/Episode-14-Digital-monopoly-and-privacy-eeg61m)
+- [Episode 13: Outside the box](https://anchor.fm/quicoto/episodes/Episode-13-Outside-the-box-ed6vpi)
 
 #### 👨🏻‍💻 Code
 
-- [Get elements by XPath – JavaScript](https://ricard.dev/get-elements-by-xpath-javascript/) (1 day ago)
-- [How to create gradient text in CSS](https://ricard.dev/how-to-create-gradient-text-in-css/) (3 weeks ago)
-- [How to sort by multiple fields in GraphQL](https://ricard.dev/how-to-sort-by-multiple-fields-in-graphql/) (1 month ago)
+- [Get elements by XPath – JavaScript](https://ricard.dev/get-elements-by-xpath-javascript/)
+- [How to create gradient text in CSS](https://ricard.dev/how-to-create-gradient-text-in-css/)
+- [How to sort by multiple fields in GraphQL](https://ricard.dev/how-to-sort-by-multiple-fields-in-graphql/)
 
 #### ✈️ Travel Blog
 
-- [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/) (3 weeks ago)
-- [Google Photos y la fotografía móvil](https://www.quicoto.com/google-photos-y-la-fotografia-movil/) (2 months ago)
-- [Pies, jóvenes bomberos y mercados en Corea del Sur](https://www.quicoto.com/pies-jovenes-bomberos-mercados-corea-del-sur/) (3 months ago)
+- [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/)
+- [Google Photos y la fotografía móvil](https://www.quicoto.com/google-photos-y-la-fotografia-movil/)
+- [Pies, jóvenes bomberos y mercados en Corea del Sur](https://www.quicoto.com/pies-jovenes-bomberos-mercados-corea-del-sur/)
 
 #### 📫 How to reach me
 
