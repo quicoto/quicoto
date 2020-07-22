@@ -1,32 +1,29 @@
 ### Hi there 👋
 
-#### 📝 Blog
+#### 📝 [Blog](https://ricard.blog)
 {{range rss "https://ricard.blog/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 🎙 Podcast
+#### 🎙 [Podcast](https://ricard.blog/podcast)
 {{range rss "https://ricard.blog/podcast/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 👨🏻‍💻 Code
+#### 👨🏻‍💻 [Code](https://ricard.dev)
 {{range rss "https://ricard.dev/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### ✈️ Travel Blog
+#### ✈️ [Travel Blog](https://www.quicoto.com/)
 {{range rss "https://www.quicoto.com/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
+
+#### 📷 Instagram
+- [@ricard.torres](https://www.instagram.com/ricard.torres/)
 
 #### 📫 How to reach me
 
 - Twitter: https://twitter.com/ricard_dev
 - Fediverse: https://mastodon.social/@ricard_dev
-- Instagram: https://www.instagram.com/ricard.torres/
-
-- Blog: https://ricard.blog
-- Podcast: https://ricard.blog/podcast
-- Code: https://ricard.dev
-- Travel Blog: https://www.quicoto.com/
