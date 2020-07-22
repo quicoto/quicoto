@@ -24,6 +24,7 @@
 
 - Twitter: https://twitter.com/ricard_dev
 - Fediverse: https://mastodon.social/@ricard_dev
+- Instagram: https://www.instagram.com/ricard.torres/
 
 - Blog: https://ricard.blog
 - Podcast: https://ricard.blog/podcast
