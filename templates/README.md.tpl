@@ -2,22 +2,22 @@
 
 #### 📝 Blog
 {{range rss "https://ricard.blog/feed/" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 🎙 Podcast
 {{range rss "https://ricard.blog/podcast/feed/" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 👨🏻‍💻 Code
 {{range rss "https://ricard.dev/feed/" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### ✈️ Travel Blog
 {{range rss "https://www.quicoto.com/feed/" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 📫 How to reach me
