@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-#### 📝 [Blog](https://ricard.blog)
+#### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 {{range rss "https://ricard.blog/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 🎙 [Podcast](https://ricard.blog/podcast)
+#### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 {{range rss "https://ricard.blog/podcast/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 👨🏻‍💻 [Code](https://ricard.dev)
+#### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 {{range rss "https://ricard.dev/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
@@ -20,10 +20,10 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 📷 Instagram
+#### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
 
-#### 📫 How to reach me
+#### 📫 &nbsp;&nbsp;How to reach me
 
 - Twitter: https://twitter.com/ricard_dev
 - Fediverse: https://mastodon.social/@ricard_dev
