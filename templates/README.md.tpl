@@ -15,7 +15,7 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### ✈️ [Travel Blog](https://www.quicoto.com/)
+#### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 {{range rss "https://www.quicoto.com/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
