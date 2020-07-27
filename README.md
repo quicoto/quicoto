@@ -18,7 +18,7 @@
 - [How to create gradient text in CSS](https://ricard.dev/how-to-create-gradient-text-in-css/)
 - [How to sort by multiple fields in GraphQL](https://ricard.dev/how-to-sort-by-multiple-fields-in-graphql/)
 
-#### ✈️ [Travel Blog](https://www.quicoto.com/)
+#### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
 - [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/)
 - [Google Photos y la fotografía móvil](https://www.quicoto.com/google-photos-y-la-fotografia-movil/)
