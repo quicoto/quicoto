@@ -15,6 +15,16 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
+#### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
+{{range rss "https://quicoto.github.io/reviews/rss-all-movies.xml" 1}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
+#### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
+{{range rss "https://quicoto.github.io/reviews/rss-all-shows.xml" 1}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 {{range rss "https://www.quicoto.com/feed/" 3}}
 - [{{.Title}}]({{.URL}})
