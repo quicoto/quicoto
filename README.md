@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 31 (2020)](https://ricard.blog/weeknote/week-31-2020/)
 - [Weeknote 29 (2020)](https://ricard.blog/weeknote/week-29-2020/)
 - [Work from home: good or bad?](https://ricard.blog/rant/work-from-home-good-or-bad/)
-- [Weeknote 20 (2020)](https://ricard.blog/weeknote/weeknote-20-2020/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -17,6 +17,14 @@
 - [Get elements by XPath – JavaScript](https://ricard.dev/get-elements-by-xpath-javascript/)
 - [How to create gradient text in CSS](https://ricard.dev/how-to-create-gradient-text-in-css/)
 - [How to sort by multiple fields in GraphQL](https://ricard.dev/how-to-sort-by-multiple-fields-in-graphql/)
+
+#### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
+
+- [Master Z: Ip Man Legacy](https://quicoto.github.io/reviews/movies/master-z-ip-man-legacy/)
+
+#### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
+
+- [The God of High School 1x4](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x4/)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
