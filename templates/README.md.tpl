@@ -25,7 +25,7 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 📚 &nbsp;&nbsp;[Latest read Book](https://quicoto.github.io/reviews/tv-shows)
+#### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 {{range rss "https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
