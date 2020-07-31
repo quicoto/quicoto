@@ -25,6 +25,11 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
+#### 📚 &nbsp;&nbsp;[Latest read Book](https://quicoto.github.io/reviews/tv-shows)
+{{range rss "https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read" 1}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 {{range rss "https://www.quicoto.com/feed/" 3}}
 - [{{.Title}}]({{.URL}})
