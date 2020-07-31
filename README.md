@@ -26,7 +26,7 @@
 
 - [The God of High School 1x4](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x4/)
 
-#### 📚 &nbsp;&nbsp;[Latest read Book](https://quicoto.github.io/reviews/tv-shows)
+#### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
 - [Black Ops (Expeditionary Force, #4)](https://www.goodreads.com/review/show/3103430584?utm_medium=api&amp;utm_source=rss)
 
