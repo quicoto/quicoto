@@ -26,6 +26,10 @@
 
 - [The God of High School 1x4](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x4/)
 
+#### 📚 &nbsp;&nbsp;[Latest read Book](https://quicoto.github.io/reviews/tv-shows)
+
+- [Black Ops (Expeditionary Force, #4)](https://www.goodreads.com/review/show/3103430584?utm_medium=api&amp;utm_source=rss)
+
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
 - [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/)
