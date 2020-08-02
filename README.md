@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The God of High School 1x4](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x4/)
+- [Major 2nd 2x11](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x11/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
