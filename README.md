@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Major 2nd 2x11](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x11/)
+- [Suits 3x6](https://quicoto.github.io/reviews/tv-shows/suits/3x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
