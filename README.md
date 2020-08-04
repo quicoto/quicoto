@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Is blogging dead?](https://ricard.blog/rant/is-blogging-dead/)
 - [Weeknote 31 (2020)](https://ricard.blog/weeknote/week-31-2020/)
 - [Weeknote 29 (2020)](https://ricard.blog/weeknote/week-29-2020/)
-- [Work from home: good or bad?](https://ricard.blog/rant/work-from-home-good-or-bad/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Suits 3x6](https://quicoto.github.io/reviews/tv-shows/suits/3x6/)
+- [Sword Art Online - Alicization 1x4](https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
