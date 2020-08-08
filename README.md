@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sword Art Online - Alicization 1x11](https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x11/)
+- [Sword Art Online - Alicization 1x16](https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x16/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Patas de gallo en el mercado de Daejeon – Viaje a Corea del Sur](https://www.quicoto.com/patas-de-gallo-viaje-a-corea-del-sur/)
 - [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/)
 - [Google Photos y la fotografía móvil](https://www.quicoto.com/google-photos-y-la-fotografia-movil/)
-- [Pies, jóvenes bomberos y mercados en Corea del Sur](https://www.quicoto.com/pies-jovenes-bomberos-mercados-corea-del-sur/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
