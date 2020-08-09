@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sword Art Online - Alicization 1x16](https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x16/)
+- [Sword Art Online - Alicization 1x19](https://quicoto.github.io/reviews/tv-shows/sword-art-online-alicization/1x19/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
