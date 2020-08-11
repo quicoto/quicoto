@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Major 2nd 2x12](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x12/)
+- [The God of High School 1x6](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Black Ops (Expeditionary Force, #4)](https://www.goodreads.com/review/show/3103430584?utm_medium=api&amp;utm_source=rss)
+- [Zero Hour (Expeditionary Force, #5)](https://www.goodreads.com/review/show/3162770886?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
