@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to export Chrome CSS code coverage](https://ricard.dev/how-to-export-chrome-css-code-coverage/)
 - [Get elements by XPath – JavaScript](https://ricard.dev/get-elements-by-xpath-javascript/)
 - [How to create gradient text in CSS](https://ricard.dev/how-to-create-gradient-text-in-css/)
-- [How to sort by multiple fields in GraphQL](https://ricard.dev/how-to-sort-by-multiple-fields-in-graphql/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sword Art Online 1x11](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x11/)
+- [Sword Art Online 1x12](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
