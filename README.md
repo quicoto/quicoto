@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Creating a To Do list WordPress theme](https://ricard.dev/creating-a-to-do-list-wordpress-theme/)
 - [How to export Chrome CSS code coverage](https://ricard.dev/how-to-export-chrome-css-code-coverage/)
 - [Get elements by XPath – JavaScript](https://ricard.dev/get-elements-by-xpath-javascript/)
-- [How to create gradient text in CSS](https://ricard.dev/how-to-create-gradient-text-in-css/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sword Art Online 1x12](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x12/)
+- [Sword Art Online 1x14](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
