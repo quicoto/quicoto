@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sword Art Online 1x14](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x14/)
+- [Sword Art Online 1x19](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x19/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
