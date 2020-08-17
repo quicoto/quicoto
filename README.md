@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sword Art Online 1x21](https://quicoto.github.io/reviews/tv-shows/sword-art-online/1x21/)
+- [Major 2nd 2x13](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
