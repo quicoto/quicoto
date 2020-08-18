@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Master Z: Ip Man Legacy](https://quicoto.github.io/reviews/movies/master-z-ip-man-legacy/)
+- [A Few Good Men](https://quicoto.github.io/reviews/movies/a-few-good-men/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Major 2nd 2x13](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x13/)
+- [Boruto - Naruto Next Generations 1x161](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x161/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
