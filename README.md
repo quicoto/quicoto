@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x161](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x161/)
+- [Fugou Keiji Balance - UNLIMITED 1x3](https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
