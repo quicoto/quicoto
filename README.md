@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fugou Keiji Balance - UNLIMITED 1x3](https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x3/)
+- [Mob Psycho 100 2x1](https://quicoto.github.io/reviews/tv-shows/mob-psycho-100/2x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Castillo de Dunstaffnage – Viaje a Escocia](https://www.quicoto.com/castillo-de-dunstaffnage-viaje-a-escocia/)
 - [Patas de gallo en el mercado de Daejeon – Viaje a Corea del Sur](https://www.quicoto.com/patas-de-gallo-viaje-a-corea-del-sur/)
 - [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/)
-- [Google Photos y la fotografía móvil](https://www.quicoto.com/google-photos-y-la-fotografia-movil/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
