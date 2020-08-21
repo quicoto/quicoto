@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mob Psycho 100 2x1](https://quicoto.github.io/reviews/tv-shows/mob-psycho-100/2x1/)
+- [Great Pretender 1x3](https://quicoto.github.io/reviews/tv-shows/great-pretender/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
