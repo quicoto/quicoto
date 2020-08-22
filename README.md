@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Great Pretender 1x3](https://quicoto.github.io/reviews/tv-shows/great-pretender/1x3/)
+- [Great Pretender 1x6](https://quicoto.github.io/reviews/tv-shows/great-pretender/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
