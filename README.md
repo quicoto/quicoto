@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mob Psycho 100 1x5](https://quicoto.github.io/reviews/tv-shows/mob-psycho-100/1x5/)
+- [The God of High School 1x8](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
