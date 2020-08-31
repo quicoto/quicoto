@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
+- [Episode 16: The Korean Age System](https://anchor.fm/quicoto/episodes/Episode-16-The-Korean-Age-System-eis6p9)
 - [Episode 15: Wear a mask](https://anchor.fm/quicoto/episodes/Episode-15-Wear-a-mask-egbalg)
 - [Episode 14: Digital monopoly and privacy](https://anchor.fm/quicoto/episodes/Episode-14-Digital-monopoly-and-privacy-eeg61m)
-- [Episode 13: Outside the box](https://anchor.fm/quicoto/episodes/Episode-13-Outside-the-box-ed6vpi)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 1x4](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/1x4/)
+- [Fugou Keiji Balance - UNLIMITED 1x7](https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
