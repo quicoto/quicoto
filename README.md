@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The God of High School 1x9](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x9/)
+- [Fugou Keiji Balance - UNLIMITED 1x8](https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
