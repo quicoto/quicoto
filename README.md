@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [A Few Good Men](https://quicoto.github.io/reviews/movies/a-few-good-men/)
+- [Mulan 2020](https://quicoto.github.io/reviews/movies/mulan-2020/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Suits 9x10](https://quicoto.github.io/reviews/tv-shows/suits/9x10/)
+- [Lost 1x2](https://quicoto.github.io/reviews/tv-shows/lost/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
