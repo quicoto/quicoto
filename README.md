@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lost 1x2](https://quicoto.github.io/reviews/tv-shows/lost/1x2/)
+- [Fugou Keiji Balance - UNLIMITED 1x9](https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
