@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fugou Keiji Balance - UNLIMITED 1x9](https://quicoto.github.io/reviews/tv-shows/fugou-keiji-balance-unlimited/1x9/)
+- [Major 2nd S2 2x17](https://quicoto.github.io/reviews/tv-shows/major-2nd-s2/2x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
