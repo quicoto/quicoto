@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The God of High School 1x10](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x10/)
+- [Star Trek: Lower Decks 1x7](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
