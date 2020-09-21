@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 1x7](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/1x7/)
+- [Raised by Wolves 1x2](https://quicoto.github.io/reviews/tv-shows/raised-by-wolves/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
