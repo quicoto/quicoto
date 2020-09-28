@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Raised by Wolves 1x4](https://quicoto.github.io/reviews/tv-shows/raised-by-wolves/1x4/)
+- [Major 2nd 2x19](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x19/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
