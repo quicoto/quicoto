@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The God of High School 1x13](https://quicoto.github.io/reviews/tv-shows/the-god-of-high-school/1x13/)
+- [The Comey Rule 1x1](https://quicoto.github.io/reviews/tv-shows/the-comey-rule/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
