@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Comey Rule 1x1](https://quicoto.github.io/reviews/tv-shows/the-comey-rule/1x1/)
+- [South Park 24x0](https://quicoto.github.io/reviews/tv-shows/south-park/24x0/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
