@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Mulan 2020](https://quicoto.github.io/reviews/movies/mulan-2020/)
+- [Se7en](https://quicoto.github.io/reviews/movies/se7en/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!!: To the Top 2x1](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x1/)
+- [Boruto - Naruto Next Generations 1x168](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x168/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
