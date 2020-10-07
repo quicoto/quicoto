@@ -28,7 +28,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Zero Hour (Expeditionary Force, #5)](https://www.goodreads.com/review/show/3162770886?utm_medium=api&amp;utm_source=rss)
+- [The Last Human](https://www.goodreads.com/review/show/3243205340?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
