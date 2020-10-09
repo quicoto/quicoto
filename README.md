@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x168](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x168/)
+- [Star Trek: Lower Decks 1x10](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/1x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
