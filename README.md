@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Se7en](https://quicoto.github.io/reviews/movies/se7en/)
+- [Mission: Impossible - Rogue Nation](https://quicoto.github.io/reviews/movies/mission-impossible-rogue-nation/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 1x10](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/1x10/)
+- [Major 2nd 2x21](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x21/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
