@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Major 2nd 2x21](https://quicoto.github.io/reviews/tv-shows/major-2nd/2x21/)
+- [Boruto - Naruto Next Generations 1x169](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x169/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
