@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Parada técnica en Hondarribia – País Vasco](https://www.quicoto.com/parada-tecnica-en-hondarribia-pais-vasco/)
 - [Castillo de Dunstaffnage – Viaje a Escocia](https://www.quicoto.com/castillo-de-dunstaffnage-viaje-a-escocia/)
 - [Patas de gallo en el mercado de Daejeon – Viaje a Corea del Sur](https://www.quicoto.com/patas-de-gallo-viaje-a-corea-del-sur/)
-- [Llegando a San Sebastián – País Vasco](https://www.quicoto.com/llegando-a-san-sebastian-pais-vasco/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
