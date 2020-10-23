@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 3x1](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x1/)
+- [Star Trek: Discovery 3x2](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
