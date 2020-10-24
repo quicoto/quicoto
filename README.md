@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [33](https://ricard.blog/personal/33/)
 - [Weeknote 40 (2020)](https://ricard.blog/weeknote/week-40-2020/)
 - [Is blogging dead?](https://ricard.blog/rant/is-blogging-dead/)
-- [Weeknote 31 (2020)](https://ricard.blog/weeknote/week-31-2020/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
