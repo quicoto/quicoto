@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
+- [Episode 17: Living in Hong Kong](https://anchor.fm/quicoto/episodes/Episode-17-Living-in-Hong-Kong-eli831)
 - [Episode 16: The Korean Age System](https://anchor.fm/quicoto/episodes/Episode-16-The-Korean-Age-System-eis6p9)
 - [Episode 15: Wear a mask](https://anchor.fm/quicoto/episodes/Episode-15-Wear-a-mask-egbalg)
-- [Episode 14: Digital monopoly and privacy](https://anchor.fm/quicoto/episodes/Episode-14-Digital-monopoly-and-privacy-eeg61m)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!!: To the Top 2x4](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x4/)
+- [Boruto - Naruto Next Generations 1x171](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x171/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
