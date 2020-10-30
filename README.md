@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x171](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x171/)
+- [Star Trek: Discovery 3x3](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
