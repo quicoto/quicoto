@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 44 (2020)](https://ricard.blog/weeknote/week-44-2020/)
 - [33](https://ricard.blog/personal/33/)
 - [Weeknote 40 (2020)](https://ricard.blog/weeknote/week-40-2020/)
-- [Is blogging dead?](https://ricard.blog/rant/is-blogging-dead/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 3x3](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x3/)
+- [Haikyuu!!: To the Top 2x5](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
