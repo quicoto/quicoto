@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Mandalorian 2x1](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x1/)
+- [Boruto - Naruto Next Generations 1x172](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x172/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
