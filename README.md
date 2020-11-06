@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Good Doctor 4x1](https://quicoto.github.io/reviews/tv-shows/the-good-doctor/4x1/)
+- [Star Trek: Discovery 3x4](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
