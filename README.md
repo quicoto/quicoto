@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Mandalorian 2x2](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x2/)
+- [The Queen&#39;s Gambit 1x3](https://quicoto.github.io/reviews/tv-shows/the-queen-s-gambit/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
