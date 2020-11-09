@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Queen&#39;s Gambit 1x3](https://quicoto.github.io/reviews/tv-shows/the-queen-s-gambit/1x3/)
+- [Boruto - Naruto Next Generations 1x173](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x173/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
