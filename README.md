@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x173](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x173/)
+- [Star Trek: Discovery 3x5](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Carpintero de barrio](https://www.quicoto.com/carpintero-de-barrio/)
 - [Parada técnica en Hondarribia – País Vasco](https://www.quicoto.com/parada-tecnica-en-hondarribia-pais-vasco/)
 - [Castillo de Dunstaffnage – Viaje a Escocia](https://www.quicoto.com/castillo-de-dunstaffnage-viaje-a-escocia/)
-- [Patas de gallo en el mercado de Daejeon – Viaje a Corea del Sur](https://www.quicoto.com/patas-de-gallo-viaje-a-corea-del-sur/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
