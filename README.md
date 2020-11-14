@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 3x5](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x5/)
+- [Grey&#39;s Anatomy 17x1](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/17x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
