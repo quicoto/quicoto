@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 17x1](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/17x1/)
+- [Haikyuu!!: To the Top 2x7](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
