@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 17x2](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/17x2/)
+- [The Good Doctor 4x2](https://quicoto.github.io/reviews/tv-shows/the-good-doctor/4x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
