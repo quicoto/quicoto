@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 3x6](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/3x6/)
+- [The Mandalorian 2x4](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
