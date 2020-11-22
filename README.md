@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Mandalorian 2x4](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x4/)
+- [Haikyuu!!: To the Top 2x8](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
