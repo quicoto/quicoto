@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x175](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x175/)
+- [The Good Doctor 4x4](https://quicoto.github.io/reviews/tv-shows/the-good-doctor/4x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
