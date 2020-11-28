@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Giri/Haji 1x1](https://quicoto.github.io/reviews/tv-shows/giri-haji/1x1/)
+- [The Mandalorian 2x5](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
