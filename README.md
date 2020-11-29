@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Mandalorian 2x5](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x5/)
+- [Haikyuu! Riku vs Kuu 1x2](https://quicoto.github.io/reviews/tv-shows/haikyuu-riku-vs-kuu/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
