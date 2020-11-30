@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu! Riku vs Kuu 1x2](https://quicoto.github.io/reviews/tv-shows/haikyuu-riku-vs-kuu/1x2/)
+- [Boruto - Naruto Next Generations 1x176](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x176/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
