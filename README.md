@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x176](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x176/)
+- [Black Clover 1x1](https://quicoto.github.io/reviews/tv-shows/black-clover/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
