@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Good Doctor 4x5](https://quicoto.github.io/reviews/tv-shows/the-good-doctor/4x5/)
+- [Black Clover 1x2](https://quicoto.github.io/reviews/tv-shows/black-clover/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
