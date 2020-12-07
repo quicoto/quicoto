@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Mission: Impossible - Rogue Nation](https://quicoto.github.io/reviews/movies/mission-impossible-rogue-nation/)
+- [Oblivion (2013)](https://quicoto.github.io/reviews/movies/oblivion-2013/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!!: To the Top 2x10](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x10/)
+- [The Mandalorian 2x6](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
