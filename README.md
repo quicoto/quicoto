@@ -20,7 +20,7 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Oblivion (2013)](https://quicoto.github.io/reviews/movies/oblivion-2013/)
+- [Tenet (2020)](https://quicoto.github.io/reviews/movies/tenet-2020/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
