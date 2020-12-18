@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Añorando Corea del Sur](https://www.quicoto.com/anorando-corea-del-sur/)
 - [Carpintero de barrio](https://www.quicoto.com/carpintero-de-barrio/)
 - [Parada técnica en Hondarribia – País Vasco](https://www.quicoto.com/parada-tecnica-en-hondarribia-pais-vasco/)
-- [Castillo de Dunstaffnage – Viaje a Escocia](https://www.quicoto.com/castillo-de-dunstaffnage-viaje-a-escocia/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
