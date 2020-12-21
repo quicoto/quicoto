@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 51 (2020)](https://ricard.blog/weeknote/week-51-2020/)
 - [Weeknote 44 (2020)](https://ricard.blog/weeknote/week-44-2020/)
 - [33](https://ricard.blog/personal/33/)
-- [Weeknote 40 (2020)](https://ricard.blog/weeknote/week-40-2020/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!!: To the Top 2x11](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x11/)
+- [The Mandalorian 2x8](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/2x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
