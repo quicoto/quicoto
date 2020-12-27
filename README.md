@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
+- [Episode 18: Christmas time in South Korea](https://anchor.fm/quicoto/episodes/Episode-18-Christmas-time-in-South-Korea-eo8amu)
 - [Episode 17: Living in Hong Kong](https://anchor.fm/quicoto/episodes/Episode-17-Living-in-Hong-Kong-eli831)
 - [Episode 16: The Korean Age System](https://anchor.fm/quicoto/episodes/Episode-16-The-Korean-Age-System-eis6p9)
-- [Episode 15: Wear a mask](https://anchor.fm/quicoto/episodes/Episode-15-Wear-a-mask-egbalg)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
