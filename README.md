@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to create a Firefox custom Start Page](https://ricard.dev/how-to-create-a-firefox-custom-start-page/)
 - [How To Shuffle An Array in JavaScript](https://ricard.dev/how-to-shuffle-an-array-in-javascript/)
 - [Creating a To Do list WordPress theme](https://ricard.dev/creating-a-to-do-list-wordpress-theme/)
-- [How to export Chrome CSS code coverage](https://ricard.dev/how-to-export-chrome-css-code-coverage/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
