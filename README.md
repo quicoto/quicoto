@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!!: To the Top 2x12](https://quicoto.github.io/reviews/tv-shows/haikyuu-to-the-top/2x12/)
+- [Cobra Kai 3x10](https://quicoto.github.io/reviews/tv-shows/cobra-kai/3x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
