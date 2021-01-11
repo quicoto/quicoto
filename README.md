@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Tenet (2020)](https://quicoto.github.io/reviews/movies/tenet-2020/)
+- [Soul](https://quicoto.github.io/reviews/movies/soul/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cobra Kai 3x10](https://quicoto.github.io/reviews/tv-shows/cobra-kai/3x10/)
+- [Lupin 1x2](https://quicoto.github.io/reviews/tv-shows/lupin/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
