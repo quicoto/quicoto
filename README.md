@@ -28,7 +28,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [The Last Human](https://www.goodreads.com/review/show/3243205340?utm_medium=api&amp;utm_source=rss)
+- [American Assassin (Mitch Rapp, #1)](https://www.goodreads.com/review/show/3583714743?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
