@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Enforced IoT](https://ricard.blog/rant/enforced-iot/)
 - [Weeknote 51 (2020)](https://ricard.blog/weeknote/week-51-2020/)
 - [Weeknote 44 (2020)](https://ricard.blog/weeknote/week-44-2020/)
-- [33](https://ricard.blog/personal/33/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
