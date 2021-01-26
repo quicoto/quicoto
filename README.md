@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to add PurgeCSS to Hugo](https://ricard.dev/how-to-add-purgecss-to-hugo/)
 - [How to add custom meta data to WordPress REST API](https://ricard.dev/how-to-add-custom-meta-data-to-wordpress-rest-api/)
 - [How to create a Firefox custom Start Page](https://ricard.dev/how-to-create-a-firefox-custom-start-page/)
-- [How To Shuffle An Array in JavaScript](https://ricard.dev/how-to-shuffle-an-array-in-javascript/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
