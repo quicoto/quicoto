@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to add a class to Tag Cloud items – WordPress](https://ricard.dev/how-to-add-a-class-to-tag-cloud-items-wordpress/)
 - [How to add PurgeCSS to Hugo](https://ricard.dev/how-to-add-purgecss-to-hugo/)
 - [How to add custom meta data to WordPress REST API](https://ricard.dev/how-to-add-custom-meta-data-to-wordpress-rest-api/)
-- [How to create a Firefox custom Start Page](https://ricard.dev/how-to-create-a-firefox-custom-start-page/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
