@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Barcelona’s absurd water pricing](https://ricard.blog/rant/barcelonas-absurd-water-pricing/)
 - [Enforced IoT](https://ricard.blog/rant/enforced-iot/)
 - [Weeknote 51 (2020)](https://ricard.blog/weeknote/week-51-2020/)
-- [Weeknote 44 (2020)](https://ricard.blog/weeknote/week-44-2020/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
