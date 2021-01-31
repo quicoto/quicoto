@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
+- [Episode 19: Baja California, Food and Skulls](https://anchor.fm/quicoto/episodes/Episode-19-Baja-California--Food-and-Skulls-epmne0)
 - [Episode 18: Christmas time in South Korea](https://anchor.fm/quicoto/episodes/Episode-18-Christmas-time-in-South-Korea-eo8amu)
 - [Episode 17: Living in Hong Kong](https://anchor.fm/quicoto/episodes/Episode-17-Living-in-Hong-Kong-eli831)
-- [Episode 16: The Korean Age System](https://anchor.fm/quicoto/episodes/Episode-16-The-Korean-Age-System-eis6p9)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Soul](https://quicoto.github.io/reviews/movies/soul/)
+- [Palmer (2021)](https://quicoto.github.io/reviews/movies/palmer-2021/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lupin 1x2](https://quicoto.github.io/reviews/tv-shows/lupin/1x2/)
+- [Black Clover 1x10](https://quicoto.github.io/reviews/tv-shows/black-clover/1x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
