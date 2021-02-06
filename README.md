@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Creating a Link Manager with WordPress](https://ricard.dev/creating-a-link-manager-with-wordpress/)
 - [How to add a class to Tag Cloud items – WordPress](https://ricard.dev/how-to-add-a-class-to-tag-cloud-items-wordpress/)
 - [How to add PurgeCSS to Hugo](https://ricard.dev/how-to-add-purgecss-to-hugo/)
-- [How to add custom meta data to WordPress REST API](https://ricard.dev/how-to-add-custom-meta-data-to-wordpress-rest-api/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
