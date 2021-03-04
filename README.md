@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x10](https://quicoto.github.io/reviews/tv-shows/black-clover/1x10/)
+- [Debris 1x1](https://quicoto.github.io/reviews/tv-shows/debris/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
