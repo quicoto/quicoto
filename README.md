@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 9 (2021)](https://ricard.blog/weeknote/week-9-2021/)
 - [Catalan elections during a pandemic](https://ricard.blog/story/catalan-elections-during-a-pandemic/)
 - [Barcelona’s absurd water pricing](https://ricard.blog/rant/barcelonas-absurd-water-pricing/)
-- [Enforced IoT](https://ricard.blog/rant/enforced-iot/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
