@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Debris 1x1](https://quicoto.github.io/reviews/tv-shows/debris/1x1/)
+- [Final Space 3x1](https://quicoto.github.io/reviews/tv-shows/final-space/3x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
