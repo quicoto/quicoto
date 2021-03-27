@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 12 (2021)](https://ricard.blog/weeknote/week-12-2021/)
 - [Weeknote 11 (2021)](https://ricard.blog/weeknote/week-11-2021/)
 - [Weeknote 9 (2021)](https://ricard.blog/weeknote/week-9-2021/)
-- [Catalan elections during a pandemic](https://ricard.blog/story/catalan-elections-during-a-pandemic/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -28,7 +28,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [American Assassin (Mitch Rapp, #1)](https://www.goodreads.com/review/show/3583714743?utm_medium=api&amp;utm_source=rss)
+- [The Android&#39;s Dream (The Android&#39;s Dream #1)](https://www.goodreads.com/review/show/3014755882?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
