@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Masks and my first trip to Japan](https://ricard.blog/story/masks-and-my-first-trip-to-japan/)
 - [Weeknote 16 (2021)](https://ricard.blog/weeknote/week-16-2021/)
 - [Weeknote 12 (2021)](https://ricard.blog/weeknote/week-12-2021/)
-- [Weeknote 11 (2021)](https://ricard.blog/weeknote/week-11-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
