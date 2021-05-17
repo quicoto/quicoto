@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
+- [Episode 21: 5 things we didn&#39;t know we needed](https://anchor.fm/quicoto/episodes/Episode-21-5-things-we-didnt-know-we-needed-e1104tq)
 - [Episode 20: Lunar New Year in South Korea](https://anchor.fm/quicoto/episodes/Episode-20-Lunar-New-Year-in-South-Korea-ert212)
 - [Episode 19: Baja California, Food and Skulls](https://anchor.fm/quicoto/episodes/Episode-19-Baja-California--Food-and-Skulls-epmne0)
-- [Episode 18: Christmas time in South Korea](https://anchor.fm/quicoto/episodes/Episode-18-Christmas-time-in-South-Korea-eo8amu)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
