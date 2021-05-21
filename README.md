@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 1x11](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/1x11/)
+- [Kimetsu no Yaiba 1x1](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [The Android&#39;s Dream (The Android&#39;s Dream #1)](https://www.goodreads.com/review/show/3014755882?utm_medium=api&amp;utm_source=rss)
+- [Kill Shot (Mitch Rapp, #2)](https://www.goodreads.com/review/show/3605037732?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
