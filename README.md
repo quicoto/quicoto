@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 1x1](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x1/)
+- [Stargate SG-1 1x12](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/1x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
