@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 1x12](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/1x12/)
+- [Stargate SG-1 1x17](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/1x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
