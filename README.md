@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Final Space 3x10](https://quicoto.github.io/reviews/tv-shows/final-space/3x10/)
+- [Boku no Hero Academia 5x9](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
