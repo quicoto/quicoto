@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 5x9](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x9/)
+- [Kimetsu no Yaiba 1x6](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
