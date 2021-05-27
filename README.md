@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 1x6](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x6/)
+- [Hataraku Saibou 1x2](https://quicoto.github.io/reviews/tv-shows/hataraku-saibou/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
