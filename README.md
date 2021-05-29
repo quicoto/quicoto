@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Creating a custom RSS Reader with PHP](https://ricard.dev/creating-custom-rss-reader/)
 - [Creating a Kanban board with WordPress](https://ricard.dev/creating-kanban-board-wordpress/)
 - [Creating a Link Manager with WordPress](https://ricard.dev/creating-a-link-manager-with-wordpress/)
-- [How to add a class to Tag Cloud items – WordPress](https://ricard.dev/how-to-add-a-class-to-tag-cloud-items-wordpress/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 1x8](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x8/)
+- [Stargate SG-1 2x5](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
