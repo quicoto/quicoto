@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 2x5](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x5/)
+- [Boku no Hero Academia 5x10](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
