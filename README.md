@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 5x10](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x10/)
+- [Boruto - Naruto Next Generations 1x200](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x200/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
