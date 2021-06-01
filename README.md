@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x200](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x200/)
+- [Tokyo Revengers 1x2](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Port Askaig hasta Kennacraig en ferri – Viaje a Escocia](https://www.quicoto.com/port-askaig-hasta-kennacraig-en-ferri/)
 - [Soñando con Japón](https://www.quicoto.com/sonando-con-japon/)
 - [Las entrañables calles de Edimburgo – Viaje a Escocia](https://www.quicoto.com/las-entranables-calles-de-edimburgo-viaje-a-escocia/)
-- [Añorando Corea del Sur](https://www.quicoto.com/anorando-corea-del-sur/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
