@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lucifer 5x16](https://quicoto.github.io/reviews/tv-shows/lucifer/5x16/)
+- [Tokyo Revengers 1x5](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
