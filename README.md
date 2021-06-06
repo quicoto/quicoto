@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Revengers 1x6](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x6/)
+- [Luther 1x1](https://quicoto.github.io/reviews/tv-shows/luther/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
