@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Luther 1x1](https://quicoto.github.io/reviews/tv-shows/luther/1x1/)
+- [Stargate SG-1 2x8](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [[Video] Paseo de domingo por Barcelona](https://www.quicoto.com/video-paseo-de-domingo-por-barcelona/)
 - [Port Askaig hasta Kennacraig en ferri – Viaje a Escocia](https://www.quicoto.com/port-askaig-hasta-kennacraig-en-ferri/)
 - [Soñando con Japón](https://www.quicoto.com/sonando-con-japon/)
-- [Las entrañables calles de Edimburgo – Viaje a Escocia](https://www.quicoto.com/las-entranables-calles-de-edimburgo-viaje-a-escocia/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
