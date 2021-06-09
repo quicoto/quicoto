@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 2x8](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/2x8/)
+- [Final Space 3x12](https://quicoto.github.io/reviews/tv-shows/final-space/3x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
