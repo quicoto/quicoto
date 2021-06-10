@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Final Space 3x12](https://quicoto.github.io/reviews/tv-shows/final-space/3x12/)
+- [Kimetsu no Yaiba 1x12](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
