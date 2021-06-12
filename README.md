@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 1x12](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x12/)
+- [Grey&#39;s Anatomy 17x17](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/17x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
