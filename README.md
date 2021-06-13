@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 17x17](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/17x17/)
+- [Arrow 1x1](https://quicoto.github.io/reviews/tv-shows/arrow/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
