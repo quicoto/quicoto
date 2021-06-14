@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Arrow 1x1](https://quicoto.github.io/reviews/tv-shows/arrow/1x1/)
+- [Boku no Hero Academia 5x12](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
