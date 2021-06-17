@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Community 2x14](https://quicoto.github.io/reviews/tv-shows/community/2x14/)
+- [Kimetsu no Yaiba 1x16](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x16/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
