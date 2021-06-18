@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 1x16](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x16/)
+- [Boruto - Naruto Next Generations 1x202](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x202/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
