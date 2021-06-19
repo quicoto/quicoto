@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x202](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x202/)
+- [Record of Ragnarok 1x1](https://quicoto.github.io/reviews/tv-shows/record-of-ragnarok/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
