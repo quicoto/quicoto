@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Record of Ragnarok 1x1](https://quicoto.github.io/reviews/tv-shows/record-of-ragnarok/1x1/)
+- [Record of Ragnarok 1x2](https://quicoto.github.io/reviews/tv-shows/record-of-ragnarok/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
