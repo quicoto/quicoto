@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Snowden’s blog](https://ricard.blog/other/snowdens-blog/)
 - [Masks and my first trip to Japan](https://ricard.blog/story/masks-and-my-first-trip-to-japan/)
 - [Weeknote 16 (2021)](https://ricard.blog/weeknote/week-16-2021/)
-- [Weeknote 12 (2021)](https://ricard.blog/weeknote/week-12-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Record of Ragnarok 1x2](https://quicoto.github.io/reviews/tv-shows/record-of-ragnarok/1x2/)
+- [Boku no Hero Academia 5x13](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
