@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [10 thousand steps are a lot of steps](https://ricard.blog/personal/10-thousand-steps-are-a-lot-of-steps/)
 - [Snowden’s blog](https://ricard.blog/other/snowdens-blog/)
 - [Masks and my first trip to Japan](https://ricard.blog/story/masks-and-my-first-trip-to-japan/)
-- [Weeknote 16 (2021)](https://ricard.blog/weeknote/week-16-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 5x13](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x13/)
+- [Kimetsu no Yaiba 1x24](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x24/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
