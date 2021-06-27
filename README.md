@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 1x25](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/1x25/)
+- [Loki 1x3](https://quicoto.github.io/reviews/tv-shows/loki/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
