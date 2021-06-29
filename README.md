@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 5x14](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x14/)
+- [Rick and Morty 5x2](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/5x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
