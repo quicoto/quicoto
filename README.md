@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 5x2](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/5x2/)
+- [Stargate SG-1 3x1](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
