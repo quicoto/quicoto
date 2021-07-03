@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 3x1](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/3x1/)
+- [Loki 1x4](https://quicoto.github.io/reviews/tv-shows/loki/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
