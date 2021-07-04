@@ -20,7 +20,7 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Kimetsu no Yaiba: Infinity Train](https://quicoto.github.io/reviews/movies/kimetsu-no-yaiba-infinity-train/)
+- [The Tomorrow War](https://quicoto.github.io/reviews/movies/the-tomorrow-war/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -28,7 +28,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Kill Shot (Mitch Rapp, #2)](https://www.goodreads.com/review/show/3605037732?utm_medium=api&amp;utm_source=rss)
+- [A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/review/show/3578089635?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
