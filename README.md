@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: A Higher Loyalty](https://ricard.blog/review/a-higher-loyalty/)
 - [Disgusting meat bags](https://ricard.blog/rant/disgusting-meat-bags/)
 - [10 thousand steps are a lot of steps](https://ricard.blog/personal/10-thousand-steps-are-a-lot-of-steps/)
-- [Snowden’s blog](https://ricard.blog/other/snowdens-blog/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Loki 1x4](https://quicoto.github.io/reviews/tv-shows/loki/1x4/)
+- [Boruto - Naruto Next Generations 1x206](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x206/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
