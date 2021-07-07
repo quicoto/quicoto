@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Viajando en tren](https://www.quicoto.com/viajando-en-tren/)
 - [[Video] Paseo de domingo por Barcelona](https://www.quicoto.com/video-paseo-de-domingo-por-barcelona/)
 - [Port Askaig hasta Kennacraig en ferri – Viaje a Escocia](https://www.quicoto.com/port-askaig-hasta-kennacraig-en-ferri/)
-- [Soñando con Japón](https://www.quicoto.com/sonando-con-japon/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
