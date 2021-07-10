@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Loki 1x5](https://quicoto.github.io/reviews/tv-shows/loki/1x5/)
+- [Atypical 4x1](https://quicoto.github.io/reviews/tv-shows/atypical/4x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Playa de La Barceloneta (2021)](https://www.quicoto.com/playa-de-la-barceloneta-2021/)
 - [Viajando en tren](https://www.quicoto.com/viajando-en-tren/)
 - [[Video] Paseo de domingo por Barcelona](https://www.quicoto.com/video-paseo-de-domingo-por-barcelona/)
-- [Port Askaig hasta Kennacraig en ferri – Viaje a Escocia](https://www.quicoto.com/port-askaig-hasta-kennacraig-en-ferri/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
