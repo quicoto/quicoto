@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Atypical 4x1](https://quicoto.github.io/reviews/tv-shows/atypical/4x1/)
+- [Atypical 4x2](https://quicoto.github.io/reviews/tv-shows/atypical/4x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
