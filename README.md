@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to DELETE with LIMIT and OFFSET in MySQL](https://ricard.dev/how-to-delete-with-limit-and-offset-in-mysql/)
 - [Creating a custom RSS Reader with PHP](https://ricard.dev/creating-custom-rss-reader/)
 - [Creating a Kanban board with WordPress](https://ricard.dev/creating-kanban-board-wordpress/)
-- [Creating a Link Manager with WordPress](https://ricard.dev/creating-a-link-manager-with-wordpress/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Atypical 4x2](https://quicoto.github.io/reviews/tv-shows/atypical/4x2/)
+- [Atypical 4x6](https://quicoto.github.io/reviews/tv-shows/atypical/4x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
