@@ -41,4 +41,4 @@
 #### 📫 &nbsp;&nbsp;How to reach me
 
 - Twitter: https://twitter.com/ricard_dev
-- Fediverse: https://mastodon.social/@ricard_dev
+- Fediverse: https://mastodon.technology/@ricard_dev
