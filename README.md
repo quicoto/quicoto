@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Prejudice is bad even when you’re right](https://ricard.blog/rant/prejudice-is-bad-even-when-youre-right/)
 - [Review: A Higher Loyalty](https://ricard.blog/review/a-higher-loyalty/)
 - [Disgusting meat bags](https://ricard.blog/rant/disgusting-meat-bags/)
-- [10 thousand steps are a lot of steps](https://ricard.blog/personal/10-thousand-steps-are-a-lot-of-steps/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Atypical 4x10](https://quicoto.github.io/reviews/tv-shows/atypical/4x10/)
+- [Boku no Hero Academia 5x15](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x15/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
