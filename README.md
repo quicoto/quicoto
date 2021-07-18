@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Revengers 1x14](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x14/)
+- [Boku no Hero Academia 5x16](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x16/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
