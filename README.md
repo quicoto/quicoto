@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Tomorrow War](https://quicoto.github.io/reviews/movies/the-tomorrow-war/)
+- [The Hitman&#39;s Wife&#39;s Bodyguard](https://quicoto.github.io/reviews/movies/the-hitman-s-wife-s-bodyguard/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 5x16](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/5x16/)
+- [Beastars 1x1](https://quicoto.github.io/reviews/tv-shows/beastars/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
