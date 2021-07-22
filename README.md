@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Stop blindly preloading fonts](https://ricard.dev/stop-blindly-preloading-fonts/)
 - [How to DELETE with LIMIT and OFFSET in MySQL](https://ricard.dev/how-to-delete-with-limit-and-offset-in-mysql/)
 - [Creating a custom RSS Reader with PHP](https://ricard.dev/creating-custom-rss-reader/)
-- [Creating a Kanban board with WordPress](https://ricard.dev/creating-kanban-board-wordpress/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Defending Jacob 1x3](https://quicoto.github.io/reviews/tv-shows/defending-jacob/1x3/)
+- [Beastars 1x5](https://quicoto.github.io/reviews/tv-shows/beastars/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
