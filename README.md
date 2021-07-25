@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Defending Jacob 1x6](https://quicoto.github.io/reviews/tv-shows/defending-jacob/1x6/)
+- [Defending Jacob 1x7](https://quicoto.github.io/reviews/tv-shows/defending-jacob/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
