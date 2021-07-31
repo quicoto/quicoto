@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Beastars 2x14](https://quicoto.github.io/reviews/tv-shows/beastars/2x14/)
+- [Beastars 2x15](https://quicoto.github.io/reviews/tv-shows/beastars/2x15/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
