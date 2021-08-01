@@ -14,17 +14,17 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to remove client-side JavaScript from Gatsby](https://ricard.dev/how-to-remove-client-side-javascript-from-gatsby/)
 - [How to set docs as homepage for Docusaurus](https://ricard.dev/how-to-set-docs-as-homepage-for-docusaurus/)
 - [Stop blindly preloading fonts](https://ricard.dev/stop-blindly-preloading-fonts/)
-- [How to DELETE with LIMIT and OFFSET in MySQL](https://ricard.dev/how-to-delete-with-limit-and-offset-in-mysql/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Hitman&#39;s Wife&#39;s Bodyguard](https://quicoto.github.io/reviews/movies/the-hitman-s-wife-s-bodyguard/)
+- [The Spy Gone North](https://quicoto.github.io/reviews/movies/the-spy-gone-north/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Beastars 2x15](https://quicoto.github.io/reviews/tv-shows/beastars/2x15/)
+- [Beastars 2x17](https://quicoto.github.io/reviews/tv-shows/beastars/2x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
