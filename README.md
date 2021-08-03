@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [2x20](https://quicoto.github.io/reviews/tv-shows/beastars/2x20/)
+- [Boruto - Naruto Next Generations 1x209](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x209/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
