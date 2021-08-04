@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boruto - Naruto Next Generations 1x209](https://quicoto.github.io/reviews/tv-shows/boruto-naruto-next-generations/1x209/)
+- [Rick and Morty 5x7](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/5x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
