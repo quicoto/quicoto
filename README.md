@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Blocking ads and trackers](https://ricard.blog/rant/blocking-ads-and-trackers/)
 - [Prejudice is bad even when you’re right](https://ricard.blog/rant/prejudice-is-bad-even-when-youre-right/)
 - [Review: A Higher Loyalty](https://ricard.blog/review/a-higher-loyalty/)
-- [Disgusting meat bags](https://ricard.blog/rant/disgusting-meat-bags/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to do multiple StaticQuery in Gatsby](https://ricard.dev/how-to-do-multiple-staticquery-in-gatsby/)
 - [How to remove client-side JavaScript from Gatsby](https://ricard.dev/how-to-remove-client-side-javascript-from-gatsby/)
 - [How to set docs as homepage for Docusaurus](https://ricard.dev/how-to-set-docs-as-homepage-for-docusaurus/)
-- [Stop blindly preloading fonts](https://ricard.dev/stop-blindly-preloading-fonts/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Odd Taxi 1x3](https://quicoto.github.io/reviews/tv-shows/odd-taxi/1x3/)
+- [Odd Taxi 1x4](https://quicoto.github.io/reviews/tv-shows/odd-taxi/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
