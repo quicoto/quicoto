@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Mechanical keyboards in Spanish ISO? Good luck](https://ricard.blog/rant/mechanical-keyboards-in-spanish-iso-good-luck/)
 - [Blocking ads and trackers](https://ricard.blog/rant/blocking-ads-and-trackers/)
 - [Prejudice is bad even when you’re right](https://ricard.blog/rant/prejudice-is-bad-even-when-youre-right/)
-- [Review: A Higher Loyalty](https://ricard.blog/review/a-higher-loyalty/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to create custom commands for Mac’s Spotlight](https://ricard.dev/how-to-create-custom-commands-for-macs-spotlight/)
 - [How to do multiple StaticQuery in Gatsby](https://ricard.dev/how-to-do-multiple-staticquery-in-gatsby/)
 - [How to remove client-side JavaScript from Gatsby](https://ricard.dev/how-to-remove-client-side-javascript-from-gatsby/)
-- [How to set docs as homepage for Docusaurus](https://ricard.dev/how-to-set-docs-as-homepage-for-docusaurus/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Odd Taxi 1x4](https://quicoto.github.io/reviews/tv-shows/odd-taxi/1x4/)
+- [86 - Eighty Six 1x4](https://quicoto.github.io/reviews/tv-shows/86-eighty-six/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
