@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [86 - Eighty Six 1x4](https://quicoto.github.io/reviews/tv-shows/86-eighty-six/1x4/)
+- [86 - Eighty Six 1x5](https://quicoto.github.io/reviews/tv-shows/86-eighty-six/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
