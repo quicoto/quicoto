@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Spy Gone North](https://quicoto.github.io/reviews/movies/the-spy-gone-north/)
+- [Words Bubble Up Like Soda Pop](https://quicoto.github.io/reviews/movies/words-bubble-up-like-soda-pop/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [86 - Eighty Six 1x5](https://quicoto.github.io/reviews/tv-shows/86-eighty-six/1x5/)
+- [86 - Eighty Six 1x6](https://quicoto.github.io/reviews/tv-shows/86-eighty-six/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
