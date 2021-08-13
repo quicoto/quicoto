@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My First First Love 1x2](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x2/)
+- [Star Trek: Lower Decks 2x1](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/2x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
