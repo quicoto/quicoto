@@ -20,7 +20,7 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Words Bubble Up Like Soda Pop](https://quicoto.github.io/reviews/movies/words-bubble-up-like-soda-pop/)
+- [Beckett (2021)](https://quicoto.github.io/reviews/movies/beckett-2021/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
