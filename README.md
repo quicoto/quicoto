@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to defer scripts in WordPress](https://ricard.dev/how-to-defer-scripts-in-wordpress/)
 - [How to create custom commands for Mac’s Spotlight](https://ricard.dev/how-to-create-custom-commands-for-macs-spotlight/)
 - [How to do multiple StaticQuery in Gatsby](https://ricard.dev/how-to-do-multiple-staticquery-in-gatsby/)
-- [How to remove client-side JavaScript from Gatsby](https://ricard.dev/how-to-remove-client-side-javascript-from-gatsby/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My First First Love 1x3](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x3/)
+- [Odd Taxi 1x7](https://quicoto.github.io/reviews/tv-shows/odd-taxi/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
