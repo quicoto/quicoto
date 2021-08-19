@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Odd Taxi 1x9](https://quicoto.github.io/reviews/tv-shows/odd-taxi/1x9/)
+- [Racket Boys 1x1](https://quicoto.github.io/reviews/tv-shows/racket-boys/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
