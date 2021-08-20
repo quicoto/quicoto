@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Racket Boys 1x1](https://quicoto.github.io/reviews/tv-shows/racket-boys/1x1/)
+- [ookiku-furikabutte 1x2](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Playa de La Concha en San Sebastián – País Vasco](https://www.quicoto.com/playa-de-la-concha-en-san-sebastian-pais-vasco/)
 - [Playa de La Barceloneta (2021)](https://www.quicoto.com/playa-de-la-barceloneta-2021/)
 - [Viajando en tren](https://www.quicoto.com/viajando-en-tren/)
-- [[Video] Paseo de domingo por Barcelona](https://www.quicoto.com/video-paseo-de-domingo-por-barcelona/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
