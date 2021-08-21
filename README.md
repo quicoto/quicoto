@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 33 (2021)](https://ricard.blog/weeknote/week-33-2021/)
 - [Mechanical keyboards in Spanish ISO? Good luck](https://ricard.blog/rant/mechanical-keyboards-in-spanish-iso-good-luck/)
 - [Blocking ads and trackers](https://ricard.blog/rant/blocking-ads-and-trackers/)
-- [Prejudice is bad even when you’re right](https://ricard.blog/rant/prejudice-is-bad-even-when-youre-right/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [ookiku-furikabutte 1x2](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x2/)
+- [Ookiku Furikabutte 1x10](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
