@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ookiku Furikabutte 1x10](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x10/)
+- [Racket Boys 1x5](https://quicoto.github.io/reviews/tv-shows/racket-boys/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
