@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Beckett (2021)](https://quicoto.github.io/reviews/movies/beckett-2021/)
+- [Burn After Reading](https://quicoto.github.io/reviews/movies/burn-after-reading/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Racket Boys 1x5](https://quicoto.github.io/reviews/tv-shows/racket-boys/1x5/)
+- [Ookiku Furikabutte 1x17](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/1x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
