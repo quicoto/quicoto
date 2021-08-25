@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ookiku Furikabutte 2x1](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/2x1/)
+- [Ookiku Furikabutte 2x6](https://quicoto.github.io/reviews/tv-shows/ookiku-furikabutte/2x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
