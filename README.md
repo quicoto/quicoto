@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Racket Boys 1x12](https://quicoto.github.io/reviews/tv-shows/racket-boys/1x12/)
+- [Re-main 1x3](https://quicoto.github.io/reviews/tv-shows/re-main/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
