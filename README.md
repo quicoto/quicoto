@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Racket Boys 1x14](https://quicoto.github.io/reviews/tv-shows/racket-boys/1x14/)
+- [Tokyo Revengers 1x21](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x21/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
