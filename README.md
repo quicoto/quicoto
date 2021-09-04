@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Manager 1x2](https://quicoto.github.io/reviews/tv-shows/the-night-manager/1x2/)
+- [The Night Manager 1x3](https://quicoto.github.io/reviews/tv-shows/the-night-manager/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
