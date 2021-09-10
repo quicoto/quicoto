@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [D.P 1x3](https://quicoto.github.io/reviews/tv-shows/d-p/1x3/)
+- [Prison Playbook 1x2](https://quicoto.github.io/reviews/tv-shows/prison-playbook/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [A Higher Loyalty: Truth, Lies, and Leadership](https://www.goodreads.com/review/show/3578089635?utm_medium=api&amp;utm_source=rss)
+- [The Collapsing Empire (The Interdependency, #1)](https://www.goodreads.com/review/show/3758663519?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
