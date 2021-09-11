@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Prison Playbook 1x2](https://quicoto.github.io/reviews/tv-shows/prison-playbook/1x2/)
+- [Star Trek: Lower Decks 2x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/2x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
