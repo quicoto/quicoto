@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 2x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/2x5/)
+- [Into the Night 2x1](https://quicoto.github.io/reviews/tv-shows/into-the-night/2x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
