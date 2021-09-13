@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Into the Night 2x1](https://quicoto.github.io/reviews/tv-shows/into-the-night/2x1/)
+- [Re-Main 1x9](https://quicoto.github.io/reviews/tv-shows/re-main/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
