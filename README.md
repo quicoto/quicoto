@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Re-Main 1x9](https://quicoto.github.io/reviews/tv-shows/re-main/1x9/)
+- [Lucifer 6x3](https://quicoto.github.io/reviews/tv-shows/lucifer/6x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
