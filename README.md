@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lucifer 6x4](https://quicoto.github.io/reviews/tv-shows/lucifer/6x4/)
+- [Sex Education 3x1](https://quicoto.github.io/reviews/tv-shows/sex-education/3x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
