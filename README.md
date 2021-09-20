@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Burn After Reading](https://quicoto.github.io/reviews/movies/burn-after-reading/)
+- [The Matrix](https://quicoto.github.io/reviews/movies/the-matrix/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sex Education 3x2](https://quicoto.github.io/reviews/tv-shows/sex-education/3x2/)
+- [Sex Education 3x3](https://quicoto.github.io/reviews/tv-shows/sex-education/3x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
