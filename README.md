@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Squid Game 1x3](https://quicoto.github.io/reviews/tv-shows/squid-game/1x3/)
+- [Lucifer 6x7](https://quicoto.github.io/reviews/tv-shows/lucifer/6x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
