@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lucifer 6x10](https://quicoto.github.io/reviews/tv-shows/lucifer/6x10/)
+- [Stargate SG-1 4x4](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/4x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
