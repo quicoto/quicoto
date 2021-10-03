@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Re-Main 1x11](https://quicoto.github.io/reviews/tv-shows/re-main/1x11/)
+- [Sex Education 3x6](https://quicoto.github.io/reviews/tv-shows/sex-education/3x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
