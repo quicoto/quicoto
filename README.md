@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 4x8](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/4x8/)
+- [Stargate SG-1 4x9](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/4x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
