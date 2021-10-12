@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stargate SG-1 4x9](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/4x9/)
+- [Grey&#39;s Anatomy 18x1](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
