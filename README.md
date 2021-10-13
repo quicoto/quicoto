@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 18x1](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x1/)
+- [Star Trek: Lower Decks 2x9](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/2x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
