@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 2x9](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/2x9/)
+- [South Park 20x4](https://quicoto.github.io/reviews/tv-shows/south-park/20x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
