@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [South Park 20x4](https://quicoto.github.io/reviews/tv-shows/south-park/20x4/)
+- [South Park 21x1](https://quicoto.github.io/reviews/tv-shows/south-park/21x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
