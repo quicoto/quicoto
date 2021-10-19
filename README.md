@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Matrix](https://quicoto.github.io/reviews/movies/the-matrix/)
+- [Free Guy](https://quicoto.github.io/reviews/movies/free-guy/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 2x10](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/2x10/)
+- [Grey&#39;s Anatomy 18x2](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
