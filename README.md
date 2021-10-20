@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 18x2](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x2/)
+- [White Collar 1x5](https://quicoto.github.io/reviews/tv-shows/white-collar/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
