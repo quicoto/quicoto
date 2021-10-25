@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Another Life 1x1](https://quicoto.github.io/reviews/tv-shows/another-life/1x1/)
+- [Inside Job 1x-4](https://quicoto.github.io/reviews/tv-shows/inside-job/1x-4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
