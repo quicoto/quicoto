@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Inside Job 1x5](https://quicoto.github.io/reviews/tv-shows/inside-job/1x5/)
+- [Kanata no Astra 1x1](https://quicoto.github.io/reviews/tv-shows/kanata-no-astra/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
