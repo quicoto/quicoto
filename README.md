@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kanata no Astra 1x1](https://quicoto.github.io/reviews/tv-shows/kanata-no-astra/1x1/)
+- [White Collar 1x6](https://quicoto.github.io/reviews/tv-shows/white-collar/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
