@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [White Collar 1x6](https://quicoto.github.io/reviews/tv-shows/white-collar/1x6/)
+- [Big Mouth 1x1](https://quicoto.github.io/reviews/tv-shows/big-mouth/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
