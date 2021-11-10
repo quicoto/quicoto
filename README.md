@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Big Mouth 1x1](https://quicoto.github.io/reviews/tv-shows/big-mouth/1x1/)
+- [Inside Job 1x9](https://quicoto.github.io/reviews/tv-shows/inside-job/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
