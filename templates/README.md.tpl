@@ -5,8 +5,8 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
-{{range rss "https://ricard.blog/podcast/feed/" 3}}
+#### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
+{{range rss "https://anchor.fm/s/67fb8abc/podcast/rss" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
