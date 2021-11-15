@@ -6,11 +6,11 @@
 - [Weeknote 33 (2021)](https://ricard.blog/weeknote/week-33-2021/)
 - [Mechanical keyboards in Spanish ISO? Good luck](https://ricard.blog/rant/mechanical-keyboards-in-spanish-iso-good-luck/)
 
-#### 🎙 &nbsp;&nbsp;[Podcast](https://ricard.blog/podcast)
+#### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [Episode 21: 5 things we didn&#39;t know we needed](https://anchor.fm/quicoto/episodes/Episode-21-5-things-we-didnt-know-we-needed-e1104tq)
-- [Episode 20: Lunar New Year in South Korea](https://anchor.fm/quicoto/episodes/Episode-20-Lunar-New-Year-in-South-Korea-ert212)
-- [Episode 19: Baja California, Food and Skulls](https://anchor.fm/quicoto/episodes/Episode-19-Baja-California--Food-and-Skulls-epmne0)
+- [Episode 4: let&#39;s get married](https://anchor.fm/korean-tapas/episodes/Episode-4-lets-get-married-e19hjbh)
+- [Episode 3: Jobs and interviews](https://anchor.fm/korean-tapas/episodes/Episode-3-Jobs-and-interviews-e18k4hh)
+- [Episode 2: Korean Thanksgiving](https://anchor.fm/korean-tapas/episodes/Episode-2-Korean-Thanksgiving-e17tm78)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
