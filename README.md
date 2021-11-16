@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Free Guy](https://quicoto.github.io/reviews/movies/free-guy/)
+- [No Time to Die](https://quicoto.github.io/reviews/movies/no-time-to-die/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Inside Job 1x9](https://quicoto.github.io/reviews/tv-shows/inside-job/1x9/)
+- [Foundation 1x3](https://quicoto.github.io/reviews/tv-shows/foundation/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
