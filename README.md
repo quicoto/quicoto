@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Foundation 1x3](https://quicoto.github.io/reviews/tv-shows/foundation/1x3/)
+- [Big Mouth 5x3](https://quicoto.github.io/reviews/tv-shows/big-mouth/5x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
