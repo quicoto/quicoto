@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 46 (2021)](https://ricard.blog/weeknote/week-46-2021/)
 - [Weeknote 40 (2021)](https://ricard.blog/weeknote/week-40-2021/)
 - [Weeknote 33 (2021)](https://ricard.blog/weeknote/week-33-2021/)
-- [Mechanical keyboards in Spanish ISO? Good luck](https://ricard.blog/rant/mechanical-keyboards-in-spanish-iso-good-luck/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
