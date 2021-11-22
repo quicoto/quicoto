@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 5: I hate exercising](https://anchor.fm/korean-tapas/episodes/Episode-5-I-hate-exercising-e1ajr32)
 - [Episode 4: let&#39;s get married](https://anchor.fm/korean-tapas/episodes/Episode-4-lets-get-married-e19hjbh)
 - [Episode 3: Jobs and interviews](https://anchor.fm/korean-tapas/episodes/Episode-3-Jobs-and-interviews-e18k4hh)
-- [Episode 2: Korean Thanksgiving](https://anchor.fm/korean-tapas/episodes/Episode-2-Korean-Thanksgiving-e17tm78)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Big Mouth 5x3](https://quicoto.github.io/reviews/tv-shows/big-mouth/5x3/)
+- [Foundation 1x5](https://quicoto.github.io/reviews/tv-shows/foundation/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
