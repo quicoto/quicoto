@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [No Time to Die](https://quicoto.github.io/reviews/movies/no-time-to-die/)
+- [Josee to Tora to Sakana-tachi](https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Foundation 1x5](https://quicoto.github.io/reviews/tv-shows/foundation/1x5/)
+- [Stargate SG-1 4x12](https://quicoto.github.io/reviews/tv-shows/stargate-sg-1/4x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
