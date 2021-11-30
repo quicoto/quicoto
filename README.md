@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Hawkeye 1x2](https://quicoto.github.io/reviews/tv-shows/hawkeye/1x2/)
+- [Cowboy Bebop (2021) 1x3](https://quicoto.github.io/reviews/tv-shows/cowboy-bebop-2021/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
