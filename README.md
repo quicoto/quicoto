@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cowboy Bebop (2021) 1x4](https://quicoto.github.io/reviews/tv-shows/cowboy-bebop-2021/1x4/)
+- [Cowboy Bebop (2021) 1x5](https://quicoto.github.io/reviews/tv-shows/cowboy-bebop-2021/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
