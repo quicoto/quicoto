@@ -28,7 +28,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [The Collapsing Empire (The Interdependency, #1)](https://www.goodreads.com/review/show/3758663519?utm_medium=api&amp;utm_source=rss)
+- [Transfer of Power (Mitch Rapp, #3)](https://www.goodreads.com/review/show/4012299176?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
