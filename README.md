@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: Transfer of Power](https://ricard.blog/rant/review-transfer-of-power/)
 - [Weeknote 46 (2021)](https://ricard.blog/weeknote/week-46-2021/)
 - [Weeknote 40 (2021)](https://ricard.blog/weeknote/week-40-2021/)
-- [Weeknote 33 (2021)](https://ricard.blog/weeknote/week-33-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cowboy Bebop (2021) 1x5](https://quicoto.github.io/reviews/tv-shows/cowboy-bebop-2021/1x5/)
+- [Cowboy Bebop (2021) 1x6](https://quicoto.github.io/reviews/tv-shows/cowboy-bebop-2021/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
