@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cowboy Bebop (2021) 1x8](https://quicoto.github.io/reviews/tv-shows/cowboy-bebop-2021/1x8/)
+- [Kimetsu no Yaiba 2x1](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/2x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
