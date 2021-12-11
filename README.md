@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 2x1](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/2x1/)
+- [The Office 5x14](https://quicoto.github.io/reviews/tv-shows/the-office/5x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
