@@ -2,15 +2,15 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: Transfer of Power](https://ricard.blog/rant/review-transfer-of-power/)
+- [Review: Transfer of Power](https://ricard.blog/review/review-transfer-of-power/)
 - [Weeknote 46 (2021)](https://ricard.blog/weeknote/week-46-2021/)
 - [Weeknote 40 (2021)](https://ricard.blog/weeknote/week-40-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 6: Christmas is not for singles](https://anchor.fm/korean-tapas/episodes/Episode-6-Christmas-is-not-for-singles-e1bjuc6)
 - [Episode 5: I hate exercising](https://anchor.fm/korean-tapas/episodes/Episode-5-I-hate-exercising-e1ajr32)
 - [Episode 4: let&#39;s get married](https://anchor.fm/korean-tapas/episodes/Episode-4-lets-get-married-e19hjbh)
-- [Episode 3: Jobs and interviews](https://anchor.fm/korean-tapas/episodes/Episode-3-Jobs-and-interviews-e18k4hh)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Office 5x16](https://quicoto.github.io/reviews/tv-shows/the-office/5x16/)
+- [Kimetsu no Yaiba 3x2](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/3x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
