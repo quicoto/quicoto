@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: The Beatles: Get Back](https://ricard.blog/review/the-beatles-get-back/)
 - [Review: Transfer of Power](https://ricard.blog/review/review-transfer-of-power/)
 - [Weeknote 46 (2021)](https://ricard.blog/weeknote/week-46-2021/)
-- [Weeknote 40 (2021)](https://ricard.blog/weeknote/week-40-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
