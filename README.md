@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 3x2](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/3x2/)
+- [Hawkeye 1x5](https://quicoto.github.io/reviews/tv-shows/hawkeye/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
