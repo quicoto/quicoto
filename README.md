@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Josee to Tora to Sakana-tachi](https://quicoto.github.io/reviews/movies/josee-to-tora-to-sakana-tachi/)
+- [Finch](https://quicoto.github.io/reviews/movies/finch/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Hawkeye 1x5](https://quicoto.github.io/reviews/tv-shows/hawkeye/1x5/)
+- [Star Trek: Discovery 4x2](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
