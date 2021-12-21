@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 4x2](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x2/)
+- [White Collar 1x12](https://quicoto.github.io/reviews/tv-shows/white-collar/1x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
