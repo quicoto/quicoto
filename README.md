@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [White Collar 1x12](https://quicoto.github.io/reviews/tv-shows/white-collar/1x12/)
+- [Hawkeye 1x4](https://quicoto.github.io/reviews/tv-shows/hawkeye/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
