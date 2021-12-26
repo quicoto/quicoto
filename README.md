@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Finch](https://quicoto.github.io/reviews/movies/finch/)
+- [G.I. Jane](https://quicoto.github.io/reviews/movies/g-i-jane/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Hawkeye 1x4](https://quicoto.github.io/reviews/tv-shows/hawkeye/1x4/)
+- [White Collar 2x1](https://quicoto.github.io/reviews/tv-shows/white-collar/2x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
