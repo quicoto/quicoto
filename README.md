@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [White Collar 2x1](https://quicoto.github.io/reviews/tv-shows/white-collar/2x1/)
+- [Kimetsu no Yaiba 3x4](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/3x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
