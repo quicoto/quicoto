@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [G.I. Jane](https://quicoto.github.io/reviews/movies/g-i-jane/)
+- [Don&#39;t Look Up](https://quicoto.github.io/reviews/movies/don-t-look-up/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 3x4](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/3x4/)
+- [Star Trek: Discovery 4x5](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
