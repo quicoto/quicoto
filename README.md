@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 4x5](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x5/)
+- [Star Trek: Discovery 4x6](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Pollos, sol y mascarillas](https://www.quicoto.com/pollos-sol-y-mascarillas/)
 - [Playa de La Concha en San Sebastián – País Vasco](https://www.quicoto.com/playa-de-la-concha-en-san-sebastian-pais-vasco/)
 - [Playa de La Barceloneta (2021)](https://www.quicoto.com/playa-de-la-barceloneta-2021/)
-- [Viajando en tren](https://www.quicoto.com/viajando-en-tren/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
