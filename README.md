@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 4x6](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x6/)
+- [The Office 5x26](https://quicoto.github.io/reviews/tv-shows/the-office/5x26/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
