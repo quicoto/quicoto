@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 7: Ready for 2022?](https://anchor.fm/korean-tapas/episodes/Episode-7-Ready-for-2022-e1caoiu)
 - [Episode 6: Christmas is not for singles](https://anchor.fm/korean-tapas/episodes/Episode-6-Christmas-is-not-for-singles-e1bjuc6)
 - [Episode 5: I hate exercising](https://anchor.fm/korean-tapas/episodes/Episode-5-I-hate-exercising-e1ajr32)
-- [Episode 4: let&#39;s get married](https://anchor.fm/korean-tapas/episodes/Episode-4-lets-get-married-e19hjbh)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Office 5x26](https://quicoto.github.io/reviews/tv-shows/the-office/5x26/)
+- [White Collar 2x7](https://quicoto.github.io/reviews/tv-shows/white-collar/2x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
