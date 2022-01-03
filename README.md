@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cobra Kai 4x3](https://quicoto.github.io/reviews/tv-shows/cobra-kai/4x3/)
+- [Kimetsu no Yaiba 3x5](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/3x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
