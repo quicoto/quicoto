@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Our Beloved Summer 1x6](https://quicoto.github.io/reviews/tv-shows/our-beloved-summer/1x6/)
+- [Haikyuu!! 2x10](https://quicoto.github.io/reviews/tv-shows/haikyuu/2x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
