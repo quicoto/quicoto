@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 2 (2022)](https://ricard.blog/weeknote/week-2-2022/)
 - [Review: The Beatles: Get Back](https://ricard.blog/review/the-beatles-get-back/)
 - [Review: Transfer of Power](https://ricard.blog/review/review-transfer-of-power/)
-- [Weeknote 46 (2021)](https://ricard.blog/weeknote/week-46-2021/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!! 2x11](https://quicoto.github.io/reviews/tv-shows/haikyuu/2x11/)
+- [Haikyuu!! 2x13](https://quicoto.github.io/reviews/tv-shows/haikyuu/2x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
