@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!! 2x13](https://quicoto.github.io/reviews/tv-shows/haikyuu/2x13/)
+- [Haikyuu!! 2x18](https://quicoto.github.io/reviews/tv-shows/haikyuu/2x18/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
