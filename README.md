@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 8: Drinking culture (part 1)](https://anchor.fm/korean-tapas/episodes/Episode-8-Drinking-culture-part-1-e1d1107)
 - [Episode 7: Ready for 2022?](https://anchor.fm/korean-tapas/episodes/Episode-7-Ready-for-2022-e1caoiu)
 - [Episode 6: Christmas is not for singles](https://anchor.fm/korean-tapas/episodes/Episode-6-Christmas-is-not-for-singles-e1bjuc6)
-- [Episode 5: I hate exercising](https://anchor.fm/korean-tapas/episodes/Episode-5-I-hate-exercising-e1ajr32)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!! 2x18](https://quicoto.github.io/reviews/tv-shows/haikyuu/2x18/)
+- [Haikyuu!! 3x3](https://quicoto.github.io/reviews/tv-shows/haikyuu/3x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
