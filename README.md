@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Our Beloved Summer 1x7](https://quicoto.github.io/reviews/tv-shows/our-beloved-summer/1x7/)
+- [White Collar 2x16](https://quicoto.github.io/reviews/tv-shows/white-collar/2x16/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
