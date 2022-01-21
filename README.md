@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [White Collar 2x16](https://quicoto.github.io/reviews/tv-shows/white-collar/2x16/)
+- [Haikyuu!! 3x7](https://quicoto.github.io/reviews/tv-shows/haikyuu/3x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
