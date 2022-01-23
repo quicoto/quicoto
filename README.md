@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!! 3x10](https://quicoto.github.io/reviews/tv-shows/haikyuu/3x10/)
+- [Star Trek: Discovery 4x7](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Transfer of Power (Mitch Rapp, #3)](https://www.goodreads.com/review/show/4012299176?utm_medium=api&amp;utm_source=rss)
+- [The Third Option (Mitch Rapp, #4)](https://www.goodreads.com/review/show/4368213538?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
