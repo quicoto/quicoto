@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Don&#39;t Look Up](https://quicoto.github.io/reviews/movies/don-t-look-up/)
+- [The Last Duel](https://quicoto.github.io/reviews/movies/the-last-duel/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Discovery 4x7](https://quicoto.github.io/reviews/tv-shows/star-trek-discovery/4x7/)
+- [Haikyuu!! 4x1](https://quicoto.github.io/reviews/tv-shows/haikyuu/4x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
