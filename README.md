@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haikyuu!! 4x12](https://quicoto.github.io/reviews/tv-shows/haikyuu/4x12/)
+- [The Book of Boba Fett 1x5](https://quicoto.github.io/reviews/tv-shows/the-book-of-boba-fett/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
