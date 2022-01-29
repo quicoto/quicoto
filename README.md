@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Book of Boba Fett 1x5](https://quicoto.github.io/reviews/tv-shows/the-book-of-boba-fett/1x5/)
+- [The Office 6x13](https://quicoto.github.io/reviews/tv-shows/the-office/6x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
