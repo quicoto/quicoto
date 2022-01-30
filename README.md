@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 9: Drinking culture (part 2)](https://anchor.fm/korean-tapas/episodes/Episode-9-Drinking-culture-part-2-e1dknui)
 - [Episode 8: Drinking culture (part 1)](https://anchor.fm/korean-tapas/episodes/Episode-8-Drinking-culture-part-1-e1d1107)
 - [Episode 7: Ready for 2022?](https://anchor.fm/korean-tapas/episodes/Episode-7-Ready-for-2022-e1caoiu)
-- [Episode 6: Christmas is not for singles](https://anchor.fm/korean-tapas/episodes/Episode-6-Christmas-is-not-for-singles-e1bjuc6)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Office 6x13](https://quicoto.github.io/reviews/tv-shows/the-office/6x13/)
+- [The Office 6x14](https://quicoto.github.io/reviews/tv-shows/the-office/6x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
