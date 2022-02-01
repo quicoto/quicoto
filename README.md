@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Office 6x15](https://quicoto.github.io/reviews/tv-shows/the-office/6x15/)
+- [Haikyuu!! 4x17](https://quicoto.github.io/reviews/tv-shows/haikyuu/4x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
