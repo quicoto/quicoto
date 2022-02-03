@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [0 x](https://quicoto.github.io/reviews/tv-shows/white-collar/3x2/)
+- [The Book of Boba Fett 1x6](https://quicoto.github.io/reviews/tv-shows/the-book-of-boba-fett/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
