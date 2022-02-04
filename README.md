@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to create a news digest using RSS and GitHub Actions](https://ricard.dev/how-to-create-a-news-digest-using-rss-and-github-actions/)
 - [How to defer scripts in WordPress](https://ricard.dev/how-to-defer-scripts-in-wordpress/)
 - [How to create custom commands for Mac’s Spotlight](https://ricard.dev/how-to-create-custom-commands-for-macs-spotlight/)
-- [How to do multiple StaticQuery in Gatsby](https://ricard.dev/how-to-do-multiple-staticquery-in-gatsby/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Book of Boba Fett 1x6](https://quicoto.github.io/reviews/tv-shows/the-book-of-boba-fett/1x6/)
+- [Haikyuu!! 4x23](https://quicoto.github.io/reviews/tv-shows/haikyuu/4x23/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
