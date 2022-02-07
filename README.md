@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Snowpiercer 3x2](https://quicoto.github.io/reviews/tv-shows/snowpiercer/3x2/)
+- [Fringe 1x3](https://quicoto.github.io/reviews/tv-shows/fringe/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
