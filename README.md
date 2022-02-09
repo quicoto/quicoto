@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 1x4](https://quicoto.github.io/reviews/tv-shows/fringe/1x4/)
+- [Fringe 1x7](https://quicoto.github.io/reviews/tv-shows/fringe/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Empezando 2022](https://www.quicoto.com/empezando-2022/)
 - [Pollos, sol y mascarillas](https://www.quicoto.com/pollos-sol-y-mascarillas/)
 - [Playa de La Concha en San Sebastián – País Vasco](https://www.quicoto.com/playa-de-la-concha-en-san-sebastian-pais-vasco/)
-- [Playa de La Barceloneta (2021)](https://www.quicoto.com/playa-de-la-barceloneta-2021/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
