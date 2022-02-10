@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Generating book lists from my Goodreads profile](https://ricard.dev/generating-book-lists-from-my-goodreads-profile/)
 - [How to create a news digest using RSS and GitHub Actions](https://ricard.dev/how-to-create-a-news-digest-using-rss-and-github-actions/)
 - [How to defer scripts in WordPress](https://ricard.dev/how-to-defer-scripts-in-wordpress/)
-- [How to create custom commands for Mac’s Spotlight](https://ricard.dev/how-to-create-custom-commands-for-macs-spotlight/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 1x7](https://quicoto.github.io/reviews/tv-shows/fringe/1x7/)
+- [Fringe 1x9](https://quicoto.github.io/reviews/tv-shows/fringe/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
