@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 1x13](https://quicoto.github.io/reviews/tv-shows/fringe/1x13/)
+- [Fringe 1x15](https://quicoto.github.io/reviews/tv-shows/fringe/1x15/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
