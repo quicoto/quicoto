@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 10: North Korea](https://anchor.fm/korean-tapas/episodes/Episode-10-North-Korea-e1eb5d2)
 - [Episode 9: Drinking culture (part 2)](https://anchor.fm/korean-tapas/episodes/Episode-9-Drinking-culture-part-2-e1dknui)
 - [Episode 8: Drinking culture (part 1)](https://anchor.fm/korean-tapas/episodes/Episode-8-Drinking-culture-part-1-e1d1107)
-- [Episode 7: Ready for 2022?](https://anchor.fm/korean-tapas/episodes/Episode-7-Ready-for-2022-e1caoiu)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 1x15](https://quicoto.github.io/reviews/tv-shows/fringe/1x15/)
+- [Fringe 1x16](https://quicoto.github.io/reviews/tv-shows/fringe/1x16/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
