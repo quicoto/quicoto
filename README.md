@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 7 (2022)](https://ricard.blog/weeknote/week-7-2022/)
 - [Weeknote 5 (2022)](https://ricard.blog/weeknote/week-5-2022/)
 - [Weeknote 2 (2022)](https://ricard.blog/weeknote/week-2-2022/)
-- [Review: The Beatles: Get Back](https://ricard.blog/review/the-beatles-get-back/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 1x20](https://quicoto.github.io/reviews/tv-shows/fringe/1x20/)
+- [Fringe 1x21](https://quicoto.github.io/reviews/tv-shows/fringe/1x21/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
