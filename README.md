@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Privacy and anonymity](https://ricard.blog/rant/privacy-and-anonymity/)
 - [Weeknote 7 (2022)](https://ricard.blog/weeknote/week-7-2022/)
 - [Weeknote 5 (2022)](https://ricard.blog/weeknote/week-5-2022/)
-- [Weeknote 2 (2022)](https://ricard.blog/weeknote/week-2-2022/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 2x12](https://quicoto.github.io/reviews/tv-shows/fringe/2x12/)
+- [fringe 2x14](https://quicoto.github.io/reviews/tv-shows/fringe/2x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
