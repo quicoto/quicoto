@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Defer CSS loading with WordPress](https://ricard.dev/defer-css-loading-with-wordpress/)
 - [How to list recently edited pages in Hugo](https://ricard.dev/how-to-list-recently-edited-pages-in-hugo/)
 - [Moving from Docusaurus to Hugo](https://ricard.dev/moving-from-docusaurus-to-hugo/)
-- [Generating book lists from my Goodreads profile](https://ricard.dev/generating-book-lists-from-my-goodreads-profile/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 3x11](https://quicoto.github.io/reviews/tv-shows/fringe/3x11/)
+- [Fringe 3x13](https://quicoto.github.io/reviews/tv-shows/fringe/3x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
