@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [The American from Hong Kong](https://ricard.blog/story/the-american-from-hong-kong/)
 - [Text files, you gotta love them](https://ricard.blog/rant/text-files-you-gotta-love-them/)
 - [New blog design](https://ricard.blog/personal/new-blog-design/)
-- [Weeknote 8 (2022)](https://ricard.blog/weeknote/week-8-2022/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 3x13](https://quicoto.github.io/reviews/tv-shows/fringe/3x13/)
+- [Fringe 3x14](https://quicoto.github.io/reviews/tv-shows/fringe/3x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
