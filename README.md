@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 12: It’s election day!](https://anchor.fm/korean-tapas/episodes/Episode-12-Its-election-day-e1fa9hm)
 - [Episode 11: Education](https://anchor.fm/korean-tapas/episodes/Episode-11-Education-e1evvus)
 - [Episode 10: North Korea](https://anchor.fm/korean-tapas/episodes/Episode-10-North-Korea-e1eb5d2)
-- [Episode 9: Drinking culture (part 2)](https://anchor.fm/korean-tapas/episodes/Episode-9-Drinking-culture-part-2-e1dknui)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 3x15](https://quicoto.github.io/reviews/tv-shows/fringe/3x15/)
+- [Fringe 3x19](https://quicoto.github.io/reviews/tv-shows/fringe/3x19/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
