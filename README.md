@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 4x4](https://quicoto.github.io/reviews/tv-shows/fringe/4x4/)
+- [Reacher 1x6](https://quicoto.github.io/reviews/tv-shows/reacher/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
