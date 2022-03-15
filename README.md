@@ -24,17 +24,17 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 1x6](https://quicoto.github.io/reviews/tv-shows/reacher/1x6/)
+- [Fringe 4x10](https://quicoto.github.io/reviews/tv-shows/fringe/4x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [The Third Option (Mitch Rapp, #4)](https://www.goodreads.com/review/show/4368213538?utm_medium=api&amp;utm_source=rss)
+- [Separation of Power (Mitch Rapp, #5)](https://www.goodreads.com/review/show/4496155218?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Días de lluvia](https://www.quicoto.com/dias-de-lluvia/)
 - [Empezando 2022](https://www.quicoto.com/empezando-2022/)
 - [Pollos, sol y mascarillas](https://www.quicoto.com/pollos-sol-y-mascarillas/)
-- [Playa de La Concha en San Sebastián – País Vasco](https://www.quicoto.com/playa-de-la-concha-en-san-sebastian-pais-vasco/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
