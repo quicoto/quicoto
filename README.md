@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Last Duel](https://quicoto.github.io/reviews/movies/the-last-duel/)
+- [The Adam Project](https://quicoto.github.io/reviews/movies/the-adam-project/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 4x18](https://quicoto.github.io/reviews/tv-shows/fringe/4x18/)
+- [Fringe 5x1](https://quicoto.github.io/reviews/tv-shows/fringe/5x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
