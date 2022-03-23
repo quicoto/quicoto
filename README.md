@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 5x4](https://quicoto.github.io/reviews/tv-shows/fringe/5x4/)
+- [Watashi ga Motete Dousunda 3x12](https://quicoto.github.io/reviews/tv-shows/watashi-ga-motete-dousunda/3x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
