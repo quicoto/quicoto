@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kotaro Lives Alone 1x4](https://quicoto.github.io/reviews/tv-shows/kotaro-lives-alone/1x4/)
+- [Station 19 5x10](https://quicoto.github.io/reviews/tv-shows/station-19/5x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
