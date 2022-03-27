@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 13: Campus Life](https://anchor.fm/korean-tapas/episodes/Episode-13-Campus-Life-e1ga0dq)
 - [Episode 12: It’s election day!](https://anchor.fm/korean-tapas/episodes/Episode-12-Its-election-day-e1fa9hm)
 - [Episode 11: Education](https://anchor.fm/korean-tapas/episodes/Episode-11-Education-e1evvus)
-- [Episode 10: North Korea](https://anchor.fm/korean-tapas/episodes/Episode-10-North-Korea-e1eb5d2)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Station 19 5x10](https://quicoto.github.io/reviews/tv-shows/station-19/5x10/)
+- [Forecasting Love and Weather 1x2](https://quicoto.github.io/reviews/tv-shows/forecasting-love-and-weather/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
