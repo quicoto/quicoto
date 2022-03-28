@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Forecasting Love and Weather 1x2](https://quicoto.github.io/reviews/tv-shows/forecasting-love-and-weather/1x2/)
+- [Forecasting Love and Weather 1x4](https://quicoto.github.io/reviews/tv-shows/forecasting-love-and-weather/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
