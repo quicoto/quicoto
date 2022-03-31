@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [White Collar 3x14](https://quicoto.github.io/reviews/tv-shows/white-collar/3x14/)
+- [Fringe 5x8](https://quicoto.github.io/reviews/tv-shows/fringe/5x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
