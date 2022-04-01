@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fringe 5x8](https://quicoto.github.io/reviews/tv-shows/fringe/5x8/)
+- [Thermae Romae Novae 1x3](https://quicoto.github.io/reviews/tv-shows/thermae-romae-novae/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
