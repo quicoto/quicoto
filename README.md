@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [S.W.A.T. 1x1](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/1x1/)
+- [S.W.A.T. 1x6](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Separation of Power (Mitch Rapp, #5)](https://www.goodreads.com/review/show/4496155218?utm_medium=api&amp;utm_source=rss)
+- [Project Hail Mary](https://www.goodreads.com/review/show/4368216986?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
