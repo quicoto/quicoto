@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Orb ital Children 1x1](https://quicoto.github.io/reviews/tv-shows/the-orbital-children/1x1/)
+- [S.W.A.T. 2x6](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
