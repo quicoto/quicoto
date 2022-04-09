@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Adam Project](https://quicoto.github.io/reviews/movies/the-adam-project/)
+- [The Platform](https://quicoto.github.io/reviews/movies/the-platform/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [S.W.A.T. 2x6](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x6/)
+- [Grey&#39;s Anatomy 18x14](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
