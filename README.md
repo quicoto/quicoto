@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 18x14](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x14/)
+- [S.W.A.T. 2x7](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
