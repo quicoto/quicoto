@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [S.W.A.T. 2x7](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x7/)
+- [S.W.A.T. 2x12](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
