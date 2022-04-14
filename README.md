@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Thermae Romae Novae 1x7](https://quicoto.github.io/reviews/tv-shows/thermae-romae-novae/1x7/)
+- [S.W.A.T. 2x15](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x15/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
