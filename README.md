@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaguya-sama wa Kokurasetai 3x2](https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/3x2/)
+- [S.W.A.T. 2x18](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x18/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
