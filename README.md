@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [S.W.A.T. 2x18](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x18/)
+- [Forecasting Love and Weather 1x9](https://quicoto.github.io/reviews/tv-shows/forecasting-love-and-weather/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
