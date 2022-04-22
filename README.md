@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Primavera en Barcelona 2022](https://www.quicoto.com/primavera-en-barcelona-2022/)
 - [Días de lluvia](https://www.quicoto.com/dias-de-lluvia/)
 - [Empezando 2022](https://www.quicoto.com/empezando-2022/)
-- [Pollos, sol y mascarillas](https://www.quicoto.com/pollos-sol-y-mascarillas/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
