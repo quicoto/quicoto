@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Platform](https://quicoto.github.io/reviews/movies/the-platform/)
+- [In Time](https://quicoto.github.io/reviews/movies/in-time/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [S.W.A.T. 2x20](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x20/)
+- [Forecasting Love and Weather 1x11](https://quicoto.github.io/reviews/tv-shows/forecasting-love-and-weather/1x11/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
