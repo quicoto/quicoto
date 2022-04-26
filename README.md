@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Forecasting Love and Weather 1x11](https://quicoto.github.io/reviews/tv-shows/forecasting-love-and-weather/1x11/)
+- [White Collar 4x6](https://quicoto.github.io/reviews/tv-shows/white-collar/4x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
