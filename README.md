@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [White Collar 4x6](https://quicoto.github.io/reviews/tv-shows/white-collar/4x6/)
+- [S.W.A.T. 2x22](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/2x22/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
