@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 18 (2022)](https://ricard.blog/weeknote/week-18-2022/)
 - [Weeknote 15 (2022)](https://ricard.blog/weeknote/week-15-2022/)
 - [Weeknote 10 (2022)](https://ricard.blog/weeknote/week-10-2022/)
-- [The American from Hong Kong](https://ricard.blog/story/the-american-from-hong-kong/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
