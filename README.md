@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [S.W.A.T. 3x9](https://quicoto.github.io/reviews/tv-shows/s-w-a-t/3x9/)
+- [Station 19 5x16](https://quicoto.github.io/reviews/tv-shows/station-19/5x16/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
