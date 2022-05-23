@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Spy x Family 3x6](https://quicoto.github.io/reviews/tv-shows/spy-x-family/3x6/)
+- [Spy x Family 1x7](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
