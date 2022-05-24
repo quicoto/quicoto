@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Spy x Family 1x7](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x7/)
+- [Grey&#39;s Anatomy 18x17](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/18x17/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
