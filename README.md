@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Taking notes: paper? digital?](https://ricard.blog/other/taking-notes-paper-digital/)
 - [Social media makes no sense](https://ricard.blog/rant/social-media-makes-no-sense/)
 - [Weeknote 18 (2022)](https://ricard.blog/weeknote/week-18-2022/)
-- [Weeknote 15 (2022)](https://ricard.blog/weeknote/week-15-2022/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Cerrando el Viaje a Euskadi 👋](https://www.quicoto.com/cerrando-el-viaje-a-euskadi/)
 - [Primavera en Barcelona 2022](https://www.quicoto.com/primavera-en-barcelona-2022/)
 - [Días de lluvia](https://www.quicoto.com/dias-de-lluvia/)
-- [Empezando 2022](https://www.quicoto.com/empezando-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
