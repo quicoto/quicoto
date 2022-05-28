@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Bus nocturno](https://www.quicoto.com/bus-nocturno/)
 - [Cerrando el Viaje a Euskadi 👋](https://www.quicoto.com/cerrando-el-viaje-a-euskadi/)
 - [Primavera en Barcelona 2022](https://www.quicoto.com/primavera-en-barcelona-2022/)
-- [Días de lluvia](https://www.quicoto.com/dias-de-lluvia/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
