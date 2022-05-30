@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaguya-sama wa Kokurasetai 3x8](https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/3x8/)
+- [Spy x Family 1x8](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
