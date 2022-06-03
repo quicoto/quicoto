@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Spy x Family 1x8](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x8/)
+- [Obi-Wan Kenobi 1x3](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
