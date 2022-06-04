@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 22 (2022)](https://ricard.blog/weeknote/week-22-2022/)
 - [Taking notes: paper? digital?](https://ricard.blog/other/taking-notes-paper-digital/)
 - [Social media makes no sense](https://ricard.blog/rant/social-media-makes-no-sense/)
-- [Weeknote 18 (2022)](https://ricard.blog/weeknote/week-18-2022/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
