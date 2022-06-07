@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 17: eSports](https://anchor.fm/korean-tapas/episodes/Episode-17-eSports-e1jhhb6)
 - [Episode 16: Travel](https://anchor.fm/korean-tapas/episodes/Episode-16-Travel-e1iij17)
 - [Episode 15: Military culture](https://anchor.fm/korean-tapas/episodes/Episode-15-Military-culture-e1htoif)
-- [Episode 14: I love trains](https://anchor.fm/korean-tapas/episodes/Episode-14-I-love-trains-e1h8jpk)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Obi-Wan Kenobi 1x3](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x3/)
+- [Spy x Family 1x9](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
