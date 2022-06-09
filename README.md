@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [In Time](https://quicoto.github.io/reviews/movies/in-time/)
+- [The Contractor 2022](https://quicoto.github.io/reviews/movies/the-contractor-2022/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Spy x Family 1x9](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x9/)
+- [Obi-Wan Kenobi 1x4](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
