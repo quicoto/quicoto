@@ -28,7 +28,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Project Hail Mary](https://www.goodreads.com/review/show/4368216986?utm_medium=api&amp;utm_source=rss)
+- [Executive Power (Mitch Rapp, #6)](https://www.goodreads.com/review/show/4644996172?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
