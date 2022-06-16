@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Love, Death &amp; Robots 3x2](https://quicoto.github.io/reviews/tv-shows/love-death-and-robots/3x2/)
+- [Obi-Wan Kenobi 1x5](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x5/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
