@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Flying](https://ricard.blog/personal/flying/)
 - [Weeknote 22 (2022)](https://ricard.blog/weeknote/week-22-2022/)
 - [Taking notes: paper? digital?](https://ricard.blog/other/taking-notes-paper-digital/)
-- [Social media makes no sense](https://ricard.blog/rant/social-media-makes-no-sense/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Obi-Wan Kenobi 1x5](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x5/)
+- [Hataraku Maou-sama! 1x1](https://quicoto.github.io/reviews/tv-shows/hataraku-maou-sama/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
