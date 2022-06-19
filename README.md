@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Hataraku Maou-sama! 1x2](https://quicoto.github.io/reviews/tv-shows/hataraku-maou-sama/1x2/)
+- [Spy x Family 1x11](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x11/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
