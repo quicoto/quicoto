@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 18: Top spots in South Korea](https://anchor.fm/korean-tapas/episodes/Episode-18-Top-spots-in-South-Korea-e1k57la)
 - [Episode 17: eSports](https://anchor.fm/korean-tapas/episodes/Episode-17-eSports-e1jhhb6)
 - [Episode 16: Travel](https://anchor.fm/korean-tapas/episodes/Episode-16-Travel-e1iij17)
-- [Episode 15: Military culture](https://anchor.fm/korean-tapas/episodes/Episode-15-Military-culture-e1htoif)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Spy x Family 1x11](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x11/)
+- [Kono Subarashii Sekai ni Shukufuku wo! 1x3](https://quicoto.github.io/reviews/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
