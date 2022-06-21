@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Barcelona’s shameful public transport system](https://ricard.blog/rant/barcelona-shameful-public-transport-system/)
 - [Flying](https://ricard.blog/personal/flying/)
 - [Weeknote 22 (2022)](https://ricard.blog/weeknote/week-22-2022/)
-- [Taking notes: paper? digital?](https://ricard.blog/other/taking-notes-paper-digital/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kono Subarashii Sekai ni Shukufuku wo! 1x3](https://quicoto.github.io/reviews/tv-shows/kono-subarashii-sekai-ni-shukufuku-wo/1x3/)
+- [For All Mankind 1x2](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
