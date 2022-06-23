@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 1x3](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/1x3/)
+- [Obi-Wan Kenobi 1x6](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
