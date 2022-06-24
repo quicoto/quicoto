@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Twitter Notes, but why?](https://ricard.blog/rant/twitter-notes-but-why/)
 - [Barcelona’s shameful public transport system](https://ricard.blog/rant/barcelona-shameful-public-transport-system/)
 - [Flying](https://ricard.blog/personal/flying/)
-- [Weeknote 22 (2022)](https://ricard.blog/weeknote/week-22-2022/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
