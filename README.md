@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Obi-Wan Kenobi 1x6](https://quicoto.github.io/reviews/tv-shows/obi-wan-kenobi/1x6/)
+- [Kaguya-sama wa Kokurasetai 3x13](https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/3x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
