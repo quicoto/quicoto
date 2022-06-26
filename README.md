@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaguya-sama wa Kokurasetai 3x13](https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/3x13/)
+- [Money Heist: Korea 1x1](https://quicoto.github.io/reviews/tv-shows/money-heist-korea/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
