@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Money Heist: Korea 1x1](https://quicoto.github.io/reviews/tv-shows/money-heist-korea/1x1/)
+- [Jujutsu Kaisen 1x3](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
