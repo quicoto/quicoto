@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x3](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x3/)
+- [For All Mankind 1x7](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/1x7/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
