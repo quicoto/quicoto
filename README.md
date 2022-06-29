@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 1x7](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/1x7/)
+- [Jujutsu Kaisen 1x6](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Cerrando el Viaje a Escocia](https://www.quicoto.com/cerrando-el-viaje-a-escocia/)
 - [Un día soleado en Barcelona](https://www.quicoto.com/un-dia-soleado-en-barcelona/)
 - [Bus nocturno](https://www.quicoto.com/bus-nocturno/)
-- [Cerrando el Viaje a Euskadi 👋](https://www.quicoto.com/cerrando-el-viaje-a-euskadi/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
