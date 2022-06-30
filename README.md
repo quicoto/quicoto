@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x6](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x6/)
+- [Westworld 4x1](https://quicoto.github.io/reviews/tv-shows/westworld/4x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
