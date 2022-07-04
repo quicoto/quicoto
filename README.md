@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Westworld 4x1](https://quicoto.github.io/reviews/tv-shows/westworld/4x1/)
+- [For All Mankind 1x10](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/1x10/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
