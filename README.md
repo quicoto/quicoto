@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: Legionnaire (Galaxy’s Edge #1)](https://ricard.blog/review/legionnaire/)
 - [Weeknote 26 (2022)](https://ricard.blog/weeknote/week-26-2022/)
 - [Twitter Notes, but why?](https://ricard.blog/rant/twitter-notes-but-why/)
-- [Barcelona’s shameful public transport system](https://ricard.blog/rant/barcelona-shameful-public-transport-system/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 2x4](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/2x4/)
+- [Jujutsu Kaisen 1x13](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x13/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Executive Power (Mitch Rapp, #6)](https://www.goodreads.com/review/show/4644996172?utm_medium=api&amp;utm_source=rss)
+- [Legionnaire (Galaxy&#39;s Edge, #1)](https://www.goodreads.com/review/show/3471333040?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
