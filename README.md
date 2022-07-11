@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 2x10](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/2x10/)
+- [The Terminal List 1x1](https://quicoto.github.io/reviews/tv-shows/the-terminal-list/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
