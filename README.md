@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Terminal List 1x1](https://quicoto.github.io/reviews/tv-shows/the-terminal-list/1x1/)
+- [The Terminal List 1x2](https://quicoto.github.io/reviews/tv-shows/the-terminal-list/1x2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
