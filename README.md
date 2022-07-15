@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 19: grab some popcorn](https://anchor.fm/korean-tapas/episodes/Episode-19-grab-some-popcorn-e1l68ul)
 - [Episode 18: Top spots in South Korea](https://anchor.fm/korean-tapas/episodes/Episode-18-Top-spots-in-South-Korea-e1k57la)
 - [Episode 17: eSports](https://anchor.fm/korean-tapas/episodes/Episode-17-eSports-e1jhhb6)
-- [Episode 16: Travel](https://anchor.fm/korean-tapas/episodes/Episode-16-Travel-e1iij17)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
