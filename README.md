@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solar Opposites 2x4](https://quicoto.github.io/reviews/tv-shows/solar-opposites/2x4/)
+- [Solar Opposites 2x8](https://quicoto.github.io/reviews/tv-shows/solar-opposites/2x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
