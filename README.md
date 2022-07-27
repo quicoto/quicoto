@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Getting conned by airlines](https://ricard.blog/rant/getting-conned-by-airlines/)
 - [Review: Legionnaire (Galaxy’s Edge #1)](https://ricard.blog/review/legionnaire/)
 - [Weeknote 26 (2022)](https://ricard.blog/weeknote/week-26-2022/)
-- [Twitter Notes, but why?](https://ricard.blog/rant/twitter-notes-but-why/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Office Blind Date 1x10](https://quicoto.github.io/reviews/tv-shows/the-office-blind-date/1x10/)
+- [Malcolm in the Middle 1x9](https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x9/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
