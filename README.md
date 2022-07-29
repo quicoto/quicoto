@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Office Blind Date 1x12](https://quicoto.github.io/reviews/tv-shows/the-office-blind-date/1x12/)
+- [Malcolm in the Middle 1x12](https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x12/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
