@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Contractor 2022](https://quicoto.github.io/reviews/movies/the-contractor-2022/)
+- [The Gray Man](https://quicoto.github.io/reviews/movies/the-gray-man/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Malcolm in the Middle 1x12](https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x12/)
+- [Malcolm in the Middle 1x14](https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/1x14/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
