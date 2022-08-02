@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 3x2](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/3x2/)
+- [Solar Opposites 3x8](https://quicoto.github.io/reviews/tv-shows/solar-opposites/3x8/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
