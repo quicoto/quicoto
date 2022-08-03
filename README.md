@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 20: Summer break](https://anchor.fm/korean-tapas/episodes/Episode-20-Summer-break-e1m0mtv)
 - [Episode 19: grab some popcorn](https://anchor.fm/korean-tapas/episodes/Episode-19-grab-some-popcorn-e1l68ul)
 - [Episode 18: Top spots in South Korea](https://anchor.fm/korean-tapas/episodes/Episode-18-Top-spots-in-South-Korea-e1k57la)
-- [Episode 17: eSports](https://anchor.fm/korean-tapas/episodes/Episode-17-eSports-e1jhhb6)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solar Opposites 3x8](https://quicoto.github.io/reviews/tv-shows/solar-opposites/3x8/)
+- [Jujutsu Kaisen 1x22](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x22/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
