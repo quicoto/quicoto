@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x22](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x22/)
+- [Hataraku Maou-sama! 2x1](https://quicoto.github.io/reviews/tv-shows/hataraku-maou-sama/2x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
