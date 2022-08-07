@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Bird 1x3](https://quicoto.github.io/reviews/tv-shows/black-bird/1x3/)
+- [Severance 1x3](https://quicoto.github.io/reviews/tv-shows/severance/1x3/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
