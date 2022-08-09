@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Severance 1x9](https://quicoto.github.io/reviews/tv-shows/severance/1x9/)
+- [Slow Horses 1x6](https://quicoto.github.io/reviews/tv-shows/slow-horses/1x6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
