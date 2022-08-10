@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [The Gray Man](https://quicoto.github.io/reviews/movies/the-gray-man/)
+- [Elvis](https://quicoto.github.io/reviews/movies/elvis/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Slow Horses 1x6](https://quicoto.github.io/reviews/tv-shows/slow-horses/1x6/)
+- [Hataraku Maou-sama! 2x4](https://quicoto.github.io/reviews/tv-shows/hataraku-maou-sama/2x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Prisión de Seodaemun en Seúl – Corea del Sur](https://www.quicoto.com/prision-seodaemun-seul/)
 - [Cerrando el Viaje a Escocia](https://www.quicoto.com/cerrando-el-viaje-a-escocia/)
 - [Un día soleado en Barcelona](https://www.quicoto.com/un-dia-soleado-en-barcelona/)
-- [Bus nocturno](https://www.quicoto.com/bus-nocturno/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
