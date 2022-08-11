@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Elvis](https://quicoto.github.io/reviews/movies/elvis/)
+- [Night in Paradise](https://quicoto.github.io/reviews/movies/night-in-paradise/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Hataraku Maou-sama! 2x4](https://quicoto.github.io/reviews/tv-shows/hataraku-maou-sama/2x4/)
+- [My First First Love 1x4](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x4/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
