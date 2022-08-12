@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: Kill Team (Galaxy’s Edge #3)](https://ricard.blog/review/kill-team/)
 - [Getting conned by airlines](https://ricard.blog/rant/getting-conned-by-airlines/)
 - [Review: Legionnaire (Galaxy’s Edge #1)](https://ricard.blog/review/legionnaire/)
-- [Weeknote 26 (2022)](https://ricard.blog/weeknote/week-26-2022/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,17 +24,17 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My First First Love 1x4](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x4/)
+- [Hospital Playlist 1x1](https://quicoto.github.io/reviews/tv-shows/hospital-playlist/1x1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Legionnaire (Galaxy&#39;s Edge, #1)](https://www.goodreads.com/review/show/3471333040?utm_medium=api&amp;utm_source=rss)
+- [Kill Team (Galaxy&#39;s Edge, #3)](https://www.goodreads.com/review/show/4828619476?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [El parque de Naksan en Seúl – Corea del Sur](https://www.quicoto.com/parque-naksan-seul/)
 - [Prisión de Seodaemun en Seúl – Corea del Sur](https://www.quicoto.com/prision-seodaemun-seul/)
 - [Cerrando el Viaje a Escocia](https://www.quicoto.com/cerrando-el-viaje-a-escocia/)
-- [Un día soleado en Barcelona](https://www.quicoto.com/un-dia-soleado-en-barcelona/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
