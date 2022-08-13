@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Hospital Playlist 1x1](https://quicoto.github.io/reviews/tv-shows/hospital-playlist/1x1/)
+- [The Outsider 1x2](https://quicoto.github.io/reviews/tv-shows/the-outsider/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
