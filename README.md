@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Outsider 1x2](https://quicoto.github.io/reviews/tv-shows/the-outsider/1x2)
+- [The Sandman 1x3](https://quicoto.github.io/reviews/tv-shows/the-sandman/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
