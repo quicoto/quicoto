@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Night in Paradise](https://quicoto.github.io/reviews/movies/night-in-paradise/)
+- [Day Shift](https://quicoto.github.io/reviews/movies/day-shift/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Sandman 1x3](https://quicoto.github.io/reviews/tv-shows/the-sandman/1x3)
+- [My First First Love 1x5](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
