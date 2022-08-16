@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My First First Love 1x5](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x5)
+- [Westworld 4x8](https://quicoto.github.io/reviews/tv-shows/westworld/4x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Ikseong-dong Hanok Village en Seúl – Corea del Sur](https://www.quicoto.com/ikseong-dong-hanok-village-seul/)
 - [El parque de Naksan en Seúl – Corea del Sur](https://www.quicoto.com/parque-naksan-seul/)
 - [Prisión de Seodaemun en Seúl – Corea del Sur](https://www.quicoto.com/prision-seodaemun-seul/)
-- [Cerrando el Viaje a Escocia](https://www.quicoto.com/cerrando-el-viaje-a-escocia/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
