@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Westworld 4x8](https://quicoto.github.io/reviews/tv-shows/westworld/4x8)
+- [My First First Love 1x7](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
