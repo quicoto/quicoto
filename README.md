@@ -28,13 +28,13 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Kill Team (Galaxy&#39;s Edge, #3)](https://www.goodreads.com/review/show/4828619476?utm_medium=api&amp;utm_source=rss)
+- [Terms of Enlistment (Frontlines #1)](https://www.goodreads.com/review/show/3103471132?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Peregrinando al Shake Shack en Seúl – Corea del Sur](https://www.quicoto.com/shake-shack-seul/)
 - [Ikseong-dong Hanok Village en Seúl – Corea del Sur](https://www.quicoto.com/ikseong-dong-hanok-village-seul/)
 - [El parque de Naksan en Seúl – Corea del Sur](https://www.quicoto.com/parque-naksan-seul/)
-- [Prisión de Seodaemun en Seúl – Corea del Sur](https://www.quicoto.com/prision-seodaemun-seul/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
