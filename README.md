@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: Terms of Enlistment (Frontlines #1)](https://ricard.blog/review/terms-of-enlistment/)
 - [Review: Kill Team (Galaxy’s Edge #3)](https://ricard.blog/review/kill-team/)
 - [Getting conned by airlines](https://ricard.blog/rant/getting-conned-by-airlines/)
-- [Review: Legionnaire (Galaxy’s Edge #1)](https://ricard.blog/review/legionnaire/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My First First Love 1x7](https://quicoto.github.io/reviews/tv-shows/my-first-first-love/1x7)
+- [The X-Files 2x3](https://quicoto.github.io/reviews/tv-shows/the-x-files/2x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
