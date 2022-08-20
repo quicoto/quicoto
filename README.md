@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Day Shift](https://quicoto.github.io/reviews/movies/day-shift/)
+- [Sweet &amp; Sour](https://quicoto.github.io/reviews/movies/sweet-and-sour/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The X-Files 2x3](https://quicoto.github.io/reviews/tv-shows/the-x-files/2x3)
+- [The X-Files 3x12](https://quicoto.github.io/reviews/tv-shows/the-x-files/3x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
