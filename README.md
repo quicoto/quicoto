@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The X-Files 3x13](https://quicoto.github.io/reviews/tv-shows/the-x-files/3x13)
+- [The X-Files 3x17](https://quicoto.github.io/reviews/tv-shows/the-x-files/3x17)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
