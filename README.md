@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The X-Files 3x17](https://quicoto.github.io/reviews/tv-shows/the-x-files/3x17)
+- [The X-Files 3x19](https://quicoto.github.io/reviews/tv-shows/the-x-files/3x19)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Casa Milà – La Pedrera](https://www.quicoto.com/casa-mila-la-pedrera/)
 - [Peregrinando al Shake Shack en Seúl – Corea del Sur](https://www.quicoto.com/shake-shack-seul/)
 - [Ikseong-dong Hanok Village en Seúl – Corea del Sur](https://www.quicoto.com/ikseong-dong-hanok-village-seul/)
-- [El parque de Naksan en Seúl – Corea del Sur](https://www.quicoto.com/parque-naksan-seul/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
