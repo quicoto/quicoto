@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The X-Files 4x2](https://quicoto.github.io/reviews/tv-shows/the-x-files/4x2)
+- [Something in the Rain 1x7](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
