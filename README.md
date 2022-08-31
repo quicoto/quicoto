@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Migrating from Gatsby to custom Node.js script](https://ricard.dev/migrating-from-gatsby-to-custom-node-js-script/)
 - [How to dynamically generate images with Node.js](https://ricard.dev/how-to-dynamically-generate-images-with-node-js/)
 - [Defer CSS loading with WordPress](https://ricard.dev/defer-css-loading-with-wordpress/)
-- [How to list recently edited pages in Hugo](https://ricard.dev/how-to-list-recently-edited-pages-in-hugo/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
