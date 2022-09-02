@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Something in the Rain 1x9](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x9)
+- [Something in the Rain 1x10](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
