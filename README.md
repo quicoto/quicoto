@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Something in the Rain 1x10](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x10)
+- [The Lord of the Rings: The Rings of Power 1x2](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
