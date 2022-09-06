@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Lord of the Rings: The Rings of Power 1x2](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x2)
+- [House of the Dragon 1x3](https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
