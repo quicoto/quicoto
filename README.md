@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Skyfall](https://quicoto.github.io/reviews/movies/skyfall/)
+- [Thor: Love and Thunder](https://quicoto.github.io/reviews/movies/thor-love-and-thunder/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Something in the Rain 1x14](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x14)
+- [Something in the Rain 1x15](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x15)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
