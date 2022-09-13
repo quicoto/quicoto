@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cobra Kai 5x2](https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x2)
+- [Cobra Kai 5x8](https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Terms of Enlistment (Frontlines #1)](https://www.goodreads.com/review/show/3103471132?utm_medium=api&amp;utm_source=rss)
+- [Terms of Enlistment (Frontlines, #1)](https://www.goodreads.com/review/show/3103471132?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
