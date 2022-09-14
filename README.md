@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cobra Kai 5x8](https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x8)
+- [House of the Dragon 1x4](https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
