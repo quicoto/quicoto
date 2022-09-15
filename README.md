@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [House of the Dragon 1x4](https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x4)
+- [Something in the Rain 1x16](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
