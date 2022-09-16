@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Something in the Rain 1x16](https://quicoto.github.io/reviews/tv-shows/something-in-the-rain/1x16)
+- [Cobra Kai 5x10](https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
