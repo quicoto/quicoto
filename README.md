@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cobra Kai 5x10](https://quicoto.github.io/reviews/tv-shows/cobra-kai/5x10)
+- [The Silent Sea 1x1](https://quicoto.github.io/reviews/tv-shows/the-silent-sea/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Seminario en Lucerna – Viaje a Suiza](https://www.quicoto.com/seminario-en-lucerna/)
 - [Casa Milà – La Pedrera](https://www.quicoto.com/casa-mila-la-pedrera/)
 - [Peregrinando al Shake Shack en Seúl – Corea del Sur](https://www.quicoto.com/shake-shack-seul/)
-- [Ikseong-dong Hanok Village en Seúl – Corea del Sur](https://www.quicoto.com/ikseong-dong-hanok-village-seul/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
