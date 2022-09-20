@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Silent Sea 1x2](https://quicoto.github.io/reviews/tv-shows/the-silent-sea/1x2)
+- [House of the Dragon 1x5](https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
