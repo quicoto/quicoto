@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Extracurricular 1x2](https://quicoto.github.io/reviews/tv-shows/extracurricular/1x2)
+- [Star Trek: Lower Decks 3x4](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
