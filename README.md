@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [The Prime effect](https://ricard.blog/rant/the-prime-effect/)
 - [Review: Terms of Enlistment (Frontlines #1)](https://ricard.blog/review/terms-of-enlistment/)
 - [Review: Kill Team (Galaxy’s Edge #3)](https://ricard.blog/review/kill-team/)
-- [Getting conned by airlines](https://ricard.blog/rant/getting-conned-by-airlines/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 3x4](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x4)
+- [Star Trek: Lower Decks 3x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
