@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 3x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/3x5)
+- [Andor 1x2](https://quicoto.github.io/reviews/tv-shows/andor/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
