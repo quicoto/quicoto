@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Andor 1x2](https://quicoto.github.io/reviews/tv-shows/andor/1x2)
+- [Rick and Morty 6x4](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
