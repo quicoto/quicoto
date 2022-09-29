@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Malcolm in the Middle 2x4](https://quicoto.github.io/reviews/tv-shows/malcolm-in-the-middle/2x4)
+- [Conversations with a Killer: The Ted Bundy Tapes 1x4](https://quicoto.github.io/reviews/tv-shows/conversations-with-a-killer-the-ted-bundy-tapes/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
