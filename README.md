@@ -20,11 +20,11 @@
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
-- [Thor: Love and Thunder](https://quicoto.github.io/reviews/movies/thor-love-and-thunder/)
+- [The Game](https://quicoto.github.io/reviews/movies/the-game/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Conversations with a Killer: The Ted Bundy Tapes 1x4](https://quicoto.github.io/reviews/tv-shows/conversations-with-a-killer-the-ted-bundy-tapes/1x4)
+- [Friends 1x1](https://quicoto.github.io/reviews/tv-shows/friends/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
