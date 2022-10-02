@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Lord of the Rings: The Rings of Power 1x6](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x6)
+- [The X-Files 4x9](https://quicoto.github.io/reviews/tv-shows/the-x-files/4x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
