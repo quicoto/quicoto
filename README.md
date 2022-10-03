@@ -24,11 +24,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The X-Files 4x9](https://quicoto.github.io/reviews/tv-shows/the-x-files/4x9)
+- [The X-Files 4x11](https://quicoto.github.io/reviews/tv-shows/the-x-files/4x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Terms of Enlistment (Frontlines, #1)](https://www.goodreads.com/review/show/3103471132?utm_medium=api&amp;utm_source=rss)
+- [Lines of Departure (Frontlines, #2)](https://www.goodreads.com/review/show/4926241592?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
