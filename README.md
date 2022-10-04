@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The X-Files 4x11](https://quicoto.github.io/reviews/tv-shows/the-x-files/4x11)
+- [Rick and Morty 6x5](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
