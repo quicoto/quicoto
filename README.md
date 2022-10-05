@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 6x5](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x5)
+- [Friends 1x3](https://quicoto.github.io/reviews/tv-shows/friends/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Barrio Vila de Gràcia, Barcelona (2022)](https://www.quicoto.com/barrio-vila-de-gracia-barcelona-2022/)
 - [Vigilancia, Barcelona (2022)](https://www.quicoto.com/vigilancia-barcelona-2022/)
 - [Seminario en Lucerna – Viaje a Suiza](https://www.quicoto.com/seminario-en-lucerna/)
-- [Casa Milà – La Pedrera](https://www.quicoto.com/casa-mila-la-pedrera/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
