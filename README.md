@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Friends 1x3](https://quicoto.github.io/reviews/tv-shows/friends/1x3)
+- [The X-Files 4x16](https://quicoto.github.io/reviews/tv-shows/the-x-files/4x16)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
