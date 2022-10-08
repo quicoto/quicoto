@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Volando a Corea del Sur por quinta vez (2022)](https://www.quicoto.com/volando-a-corea-del-sur-por-quinta-vez-2022/)
 - [Barrio Vila de Gràcia, Barcelona (2022)](https://www.quicoto.com/barrio-vila-de-gracia-barcelona-2022/)
 - [Vigilancia, Barcelona (2022)](https://www.quicoto.com/vigilancia-barcelona-2022/)
-- [Seminario en Lucerna – Viaje a Suiza](https://www.quicoto.com/seminario-en-lucerna/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
