@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Lord of the Rings: The Rings of Power 1x7](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x7)
+- [Station 19 6x1](https://quicoto.github.io/reviews/tv-shows/station-19/6x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Aterrizando en Seúl – Viaje a Corea del Sur](https://www.quicoto.com/viaje-corea-del-sur-aterrizando-en-seul/)
 - [Volando a Corea del Sur por quinta vez (2022)](https://www.quicoto.com/volando-a-corea-del-sur-por-quinta-vez-2022/)
 - [Barrio Vila de Gràcia, Barcelona (2022)](https://www.quicoto.com/barrio-vila-de-gracia-barcelona-2022/)
-- [Vigilancia, Barcelona (2022)](https://www.quicoto.com/vigilancia-barcelona-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
