@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Station 19 6x1](https://quicoto.github.io/reviews/tv-shows/station-19/6x1)
+- [Grey&#39;s Anatomy 19x1](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
