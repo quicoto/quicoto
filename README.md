@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Café nocturno en Busan, Corea del Sur](https://www.quicoto.com/cafe-nocturno-busan-corea-del-sur/)
 - [Primera semana en Corea del Sur – 2022](https://www.quicoto.com/primera-semana-corea-del-sur-2022/)
 - [Aterrizando en Seúl – Viaje a Corea del Sur](https://www.quicoto.com/viaje-corea-del-sur-aterrizando-en-seul/)
-- [Volando a Corea del Sur por quinta vez (2022)](https://www.quicoto.com/volando-a-corea-del-sur-por-quinta-vez-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
