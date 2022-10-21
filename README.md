@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Monje en el templo – Busan, Corea del Sur](https://www.quicoto.com/monje-en-el-templo-busan-corea-del-sur/)
 - [Café nocturno en Busan, Corea del Sur](https://www.quicoto.com/cafe-nocturno-busan-corea-del-sur/)
 - [Primera semana en Corea del Sur – 2022](https://www.quicoto.com/primera-semana-corea-del-sur-2022/)
-- [Aterrizando en Seúl – Viaje a Corea del Sur](https://www.quicoto.com/viaje-corea-del-sur-aterrizando-en-seul/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
