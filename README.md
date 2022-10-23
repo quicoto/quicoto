@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Estación de Busan, Corea del Sur](https://www.quicoto.com/estacion-de-busan-corea-del-sur/)
 - [Monje en el templo – Busan, Corea del Sur](https://www.quicoto.com/monje-en-el-templo-busan-corea-del-sur/)
 - [Café nocturno en Busan, Corea del Sur](https://www.quicoto.com/cafe-nocturno-busan-corea-del-sur/)
-- [Primera semana en Corea del Sur – 2022](https://www.quicoto.com/primera-semana-corea-del-sur-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
