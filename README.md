@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Hosting my own Mastodon instance](https://ricard.dev/hosting-my-own-mastodon-instance/)
 - [Migrating from Gatsby to custom Node.js script](https://ricard.dev/migrating-from-gatsby-to-custom-node-js-script/)
 - [How to dynamically generate images with Node.js](https://ricard.dev/how-to-dynamically-generate-images-with-node-js/)
-- [Defer CSS loading with WordPress](https://ricard.dev/defer-css-loading-with-wordpress/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Lord of the Rings: The Rings of Power 1x8](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/1x8)
+- [Grey&#39;s Anatomy 19x3](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
