@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 19x3](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x3)
+- [House of the Dragon 1x10](https://quicoto.github.io/reviews/tv-shows/house-of-the-dragon/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
