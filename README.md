@@ -2,15 +2,15 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Reclaiming email ownership](https://ricard.blog/rant/reclaiming-email-ownership/)
 - [The Prime effect](https://ricard.blog/rant/the-prime-effect/)
 - [Review: Terms of Enlistment (Frontlines #1)](https://ricard.blog/review/terms-of-enlistment/)
-- [Review: Kill Team (Galaxy’s Edge #3)](https://ricard.blog/review/kill-team/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 21: K-pop](https://anchor.fm/korean-tapas/episodes/Episode-21-K-pop-e1q1fp6)
 - [Episode 20: Summer break](https://anchor.fm/korean-tapas/episodes/Episode-20-Summer-break-e1m0mtv)
 - [Episode 19: grab some popcorn](https://anchor.fm/korean-tapas/episodes/Episode-19-grab-some-popcorn-e1l68ul)
-- [Episode 18: Top spots in South Korea](https://anchor.fm/korean-tapas/episodes/Episode-18-Top-spots-in-South-Korea-e1k57la)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Big Mouth 6x1](https://quicoto.github.io/reviews/tv-shows/big-mouth/6x1)
+- [Big Mouth 6x2](https://quicoto.github.io/reviews/tv-shows/big-mouth/6x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
