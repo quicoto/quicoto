@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Landing on You 1x6](https://quicoto.github.io/reviews/tv-shows/crash-landing-on-you/1x6)
+- [Big Mouth 6x3](https://quicoto.github.io/reviews/tv-shows/big-mouth/6x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
