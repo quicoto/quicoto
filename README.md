@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Big Mouth 6x3](https://quicoto.github.io/reviews/tv-shows/big-mouth/6x3)
+- [Boston Legal 1x1](https://quicoto.github.io/reviews/tv-shows/boston-legal/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
