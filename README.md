@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 1x4](https://quicoto.github.io/reviews/tv-shows/boston-legal/1x4)
+- [Station 19 6x5](https://quicoto.github.io/reviews/tv-shows/station-19/6x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -41,5 +41,5 @@
 
 #### 📫 &nbsp;&nbsp;How to reach me
 
-- Twitter: https://twitter.com/ricard_dev
 - Fediverse: https://ricard.social/@ricard
+- Twitter: https://twitter.com/ricard_dev
