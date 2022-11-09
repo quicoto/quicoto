@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Improving Mastodon’s disk usage](https://ricard.dev/improving-mastodons-disk-usage/)
 - [Hosting my own Mastodon instance](https://ricard.dev/hosting-my-own-mastodon-instance/)
 - [Migrating from Gatsby to custom Node.js script](https://ricard.dev/migrating-from-gatsby-to-custom-node-js-script/)
-- [How to dynamically generate images with Node.js](https://ricard.dev/how-to-dynamically-generate-images-with-node-js/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 1x6](https://quicoto.github.io/reviews/tv-shows/boston-legal/1x6)
+- [Boston Legal 1x8](https://quicoto.github.io/reviews/tv-shows/boston-legal/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
