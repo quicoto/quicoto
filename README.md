@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [35](https://ricard.blog/personal/35/)
 - [Reclaiming email ownership](https://ricard.blog/rant/reclaiming-email-ownership/)
 - [The Prime effect](https://ricard.blog/rant/the-prime-effect/)
-- [Review: Terms of Enlistment (Frontlines #1)](https://ricard.blog/review/terms-of-enlistment/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 1x8](https://quicoto.github.io/reviews/tv-shows/boston-legal/1x8)
+- [Grey&#39;s Anatomy 19x5](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
