@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 19x5](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x5)
+- [Blue Lock 1x6](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
