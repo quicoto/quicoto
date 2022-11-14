@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x6](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x6)
+- [Boston Legal 1x12](https://quicoto.github.io/reviews/tv-shows/boston-legal/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
