@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Peripheral 1x1](https://quicoto.github.io/reviews/tv-shows/the-peripheral/1x1)
+- [Inside Job 2x4](https://quicoto.github.io/reviews/tv-shows/inside-job/2x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
