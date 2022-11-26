@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Inside Job 2x4](https://quicoto.github.io/reviews/tv-shows/inside-job/2x4)
+- [Classroom of the Elite 1x2](https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
