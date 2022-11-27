@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Classroom of the Elite 1x2](https://quicoto.github.io/reviews/tv-shows/classroom-of-the-elite/1x2)
+- [Boston Legal 2x6](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
