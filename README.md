@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 2x6](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x6)
+- [Boston Legal 2x9](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
