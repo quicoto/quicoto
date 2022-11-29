@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [The Fediverse is just amazing](https://ricard.blog/personal/the-fediverse-is-just-amazing/)
 - [35](https://ricard.blog/personal/35/)
 - [Reclaiming email ownership](https://ricard.blog/rant/reclaiming-email-ownership/)
-- [The Prime effect](https://ricard.blog/rant/the-prime-effect/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 2x9](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x9)
+- [Boston Legal 2x10](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
