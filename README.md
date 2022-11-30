@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to add web mentions to your WordPress site](https://ricard.dev/how-to-add-web-mentions-to-your-wordpress-site/)
 - [Improving Mastodon’s disk usage](https://ricard.dev/improving-mastodons-disk-usage/)
 - [Hosting my own Mastodon instance](https://ricard.dev/hosting-my-own-mastodon-instance/)
-- [Migrating from Gatsby to custom Node.js script](https://ricard.dev/migrating-from-gatsby-to-custom-node-js-script/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 2x10](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x10)
+- [Rick and Morty 6x8](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
