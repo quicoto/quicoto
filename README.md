@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [First attempt at #NaNoWriMo](https://ricard.blog/other/first-attempt-at-nanowrimo/)
 - [The Fediverse is just amazing](https://ricard.blog/personal/the-fediverse-is-just-amazing/)
 - [35](https://ricard.blog/personal/35/)
-- [Reclaiming email ownership](https://ricard.blog/rant/reclaiming-email-ownership/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 6x8](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/6x8)
+- [Boston Legal 2x12](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
