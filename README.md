@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wednesday 1x4](https://quicoto.github.io/reviews/tv-shows/wednesday/1x4)
+- [Inside Job 2x7](https://quicoto.github.io/reviews/tv-shows/inside-job/2x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
