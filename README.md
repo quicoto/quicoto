@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Inside Job 2x7](https://quicoto.github.io/reviews/tv-shows/inside-job/2x7)
+- [Inside Job 2x8](https://quicoto.github.io/reviews/tv-shows/inside-job/2x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Un par de días en Daejeon – Corea del Sur 2022](https://www.quicoto.com/un-par-de-dias-en-daejeon-corea-del-sur-2022/)
 - [Seúl bajo la lluvia – Viaje a Corea del Sur 2022](https://www.quicoto.com/seul-bajo-la-lluvia-viaje-a-corea-del-sur-2022/)
 - [Volviendo a casa – Viaje a Corea del Sur 2022](https://www.quicoto.com/volviendo-a-casa-viaje-a-corea-del-sur-2022/)
-- [Estación de Busan, Corea del Sur](https://www.quicoto.com/estacion-de-busan-corea-del-sur/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
