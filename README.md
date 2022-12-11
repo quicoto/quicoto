@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Alice in Borderland 1x7](https://quicoto.github.io/reviews/tv-shows/alice-in-borderland/1x7)
+- [Blue Lock 1x10](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
