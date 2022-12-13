@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Slow Horses 2x2](https://quicoto.github.io/reviews/tv-shows/slow-horses/2x2)
+- [Chainsaw Man 1x3](https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
