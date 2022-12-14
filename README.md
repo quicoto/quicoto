@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Chainsaw Man 1x3](https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x3)
+- [Chainsaw Man 1x4](https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
