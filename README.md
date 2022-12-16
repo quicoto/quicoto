@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Chainsaw Man 1x7](https://quicoto.github.io/reviews/tv-shows/chainsaw-man/1x7)
+- [Boston Legal 2x17](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x17)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
