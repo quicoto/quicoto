@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boston Legal 2x17](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x17)
+- [Boku no Hero Academia 6x12](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/6x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
