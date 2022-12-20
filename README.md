@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Scaling Mastodon: moving media assets to Object Storage](https://ricard.dev/scaling-mastodon-moving-media-assets-to-object-storage/)
 - [How to add web mentions to your WordPress site](https://ricard.dev/how-to-add-web-mentions-to-your-wordpress-site/)
 - [Improving Mastodon’s disk usage](https://ricard.dev/improving-mastodons-disk-usage/)
-- [Hosting my own Mastodon instance](https://ricard.dev/hosting-my-own-mastodon-instance/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 1x2](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x2)
+- [Tokyo Vice 1x5](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
