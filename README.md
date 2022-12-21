@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 1x5](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x5)
+- [Tokyo Vice 1x9](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
