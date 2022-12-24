@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jack Ryan 3x2](https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x2)
+- [Tokyo Vice 1x7](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
