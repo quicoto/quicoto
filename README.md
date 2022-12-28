@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x12](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x12)
+- [Tokyo Vice 1x8](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
