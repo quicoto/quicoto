@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Moving from Linode to netcup](https://ricard.dev/moving-from-linode-to-netcup/)
 - [Scaling Mastodon: moving media assets to Object Storage](https://ricard.dev/scaling-mastodon-moving-media-assets-to-object-storage/)
 - [How to add web mentions to your WordPress site](https://ricard.dev/how-to-add-web-mentions-to-your-wordpress-site/)
-- [Improving Mastodon’s disk usage](https://ricard.dev/improving-mastodons-disk-usage/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
