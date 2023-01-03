@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 22: World Cup](https://anchor.fm/korean-tapas/episodes/Episode-22-World-Cup-e1svts5)
 - [Episode 21: K-pop](https://anchor.fm/korean-tapas/episodes/Episode-21-K-pop-e1q1fp6)
 - [Episode 20: Summer break](https://anchor.fm/korean-tapas/episodes/Episode-20-Summer-break-e1m0mtv)
-- [Episode 19: grab some popcorn](https://anchor.fm/korean-tapas/episodes/Episode-19-grab-some-popcorn-e1l68ul)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
