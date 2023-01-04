@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Subiendo una montaña en Seúl – Corea del Sur](https://www.quicoto.com/subiendo-una-montana-en-seul-corea-del-sur/)
 - [Un par de días en Daejeon – Corea del Sur 2022](https://www.quicoto.com/un-par-de-dias-en-daejeon-corea-del-sur-2022/)
 - [Seúl bajo la lluvia – Viaje a Corea del Sur 2022](https://www.quicoto.com/seul-bajo-la-lluvia-viaje-a-corea-del-sur-2022/)
-- [Volviendo a casa – Viaje a Corea del Sur 2022](https://www.quicoto.com/volviendo-a-casa-viaje-a-corea-del-sur-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
