@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Hacking the YouTube music algorithm via Google Nest/Home](https://ricard.blog/other/hacking-the-youtube-music-algorithm-via-google-nest-home/)
 - [First attempt at #NaNoWriMo](https://ricard.blog/other/first-attempt-at-nanowrimo/)
 - [The Fediverse is just amazing](https://ricard.blog/personal/the-fediverse-is-just-amazing/)
-- [35](https://ricard.blog/personal/35/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to create a Mastodon user sitemap.xml](https://ricard.dev/how-to-create-a-mastodon-user-sitemap-xml/)
 - [Moving from Linode to netcup](https://ricard.dev/moving-from-linode-to-netcup/)
 - [Scaling Mastodon: moving media assets to Object Storage](https://ricard.dev/scaling-mastodon-moving-media-assets-to-object-storage/)
-- [How to add web mentions to your WordPress site](https://ricard.dev/how-to-add-web-mentions-to-your-wordpress-site/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jack Ryan 3x3](https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x3)
+- [Jack Ryan 3x5](https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
