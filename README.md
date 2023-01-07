@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 1 (2023)](https://ricard.blog/weeknote/week-1-2023/)
 - [Hacking the YouTube music algorithm via Google Nest/Home](https://ricard.blog/other/hacking-the-youtube-music-algorithm-via-google-nest-home/)
 - [First attempt at #NaNoWriMo](https://ricard.blog/other/first-attempt-at-nanowrimo/)
-- [The Fediverse is just amazing](https://ricard.blog/personal/the-fediverse-is-just-amazing/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
