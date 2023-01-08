@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jack Ryan 3x5](https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x5)
+- [Jack Ryan 3x6](https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
