@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jack Ryan 3x6](https://quicoto.github.io/reviews/tv-shows/jack-ryan/3x6)
+- [The Staircase 1x1](https://quicoto.github.io/reviews/tv-shows/the-staircase/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [El famoso Hotteok de Jeonju – Corea del Sur](https://www.quicoto.com/el-famoso-hotteok-de-jeonju-corea-del-sur/)
 - [Subiendo una montaña en Seúl – Corea del Sur](https://www.quicoto.com/subiendo-una-montana-en-seul-corea-del-sur/)
 - [Un par de días en Daejeon – Corea del Sur 2022](https://www.quicoto.com/un-par-de-dias-en-daejeon-corea-del-sur-2022/)
-- [Seúl bajo la lluvia – Viaje a Corea del Sur 2022](https://www.quicoto.com/seul-bajo-la-lluvia-viaje-a-corea-del-sur-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
