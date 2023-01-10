@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Staircase 1x1](https://quicoto.github.io/reviews/tv-shows/the-staircase/1x1)
+- [Blue Lock 1x13](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x13)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
