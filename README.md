@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 2 (2023)](https://ricard.blog/weeknote/week-2-2023/)
 - [Fediverse etiquette](https://ricard.blog/rant/fediverse-etiquette/)
 - [Weeknote 1 (2023)](https://ricard.blog/weeknote/week-1-2023/)
-- [Hacking the YouTube music algorithm via Google Nest/Home](https://ricard.blog/other/hacking-the-youtube-music-algorithm-via-google-nest-home/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bocchi the Rock! 1x5](https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x5)
+- [Bocchi the Rock! 1x8](https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
