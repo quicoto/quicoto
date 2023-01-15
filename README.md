@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bocchi the Rock! 1x8](https://quicoto.github.io/reviews/tv-shows/bocchi-the-rock/1x8)
+- [Boston Legal 2x21](https://quicoto.github.io/reviews/tv-shows/boston-legal/2x21)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
