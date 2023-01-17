@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 23: Dating apps](https://anchor.fm/korean-tapas/episodes/Episode-23-Dating-apps-e1th2hl)
 - [Episode 22: World Cup](https://anchor.fm/korean-tapas/episodes/Episode-22-World-Cup-e1svts5)
 - [Episode 21: K-pop](https://anchor.fm/korean-tapas/episodes/Episode-21-K-pop-e1q1fp6)
-- [Episode 20: Summer break](https://anchor.fm/korean-tapas/episodes/Episode-20-Summer-break-e1m0mtv)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Psycho-Pass 1x1](https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x1)
+- [The Last of Us 1x1](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
