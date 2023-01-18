@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x1](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x1)
+- [Psycho-Pass 1x4](https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
