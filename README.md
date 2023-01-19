@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Psycho-Pass 1x4](https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x4)
+- [Tsurune 2x3](https://quicoto.github.io/reviews/tv-shows/tsurune/2x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
