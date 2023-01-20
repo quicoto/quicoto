@@ -14,9 +14,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Creating a static  Mastodon user’s archive](https://ricard.dev/creating-a-static-mastodon-users-archive/)
 - [How to create a Mastodon user sitemap.xml](https://ricard.dev/how-to-create-a-mastodon-user-sitemap-xml/)
 - [Moving from Linode to netcup](https://ricard.dev/moving-from-linode-to-netcup/)
-- [Scaling Mastodon: moving media assets to Object Storage](https://ricard.dev/scaling-mastodon-moving-media-assets-to-object-storage/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
