@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tsurune 2x3](https://quicoto.github.io/reviews/tv-shows/tsurune/2x3)
+- [Black Clover 1x4](https://quicoto.github.io/reviews/tv-shows/black-clover/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
