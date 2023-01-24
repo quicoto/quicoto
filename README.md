@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x4](https://quicoto.github.io/reviews/tv-shows/black-clover/1x4)
+- [The Last of Us 1x2](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
