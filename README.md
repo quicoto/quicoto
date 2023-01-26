@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x2](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x2)
+- [Tsurune 2x4](https://quicoto.github.io/reviews/tv-shows/tsurune/2x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
