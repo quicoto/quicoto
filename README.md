@@ -2,9 +2,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 4 (2023)](https://ricard.blog/weeknote/week-4-2023/)
 - [Weeknote 3 (2023)](https://ricard.blog/weeknote/week-3-2023/)
 - [Weeknote 2 (2023)](https://ricard.blog/weeknote/week-2-2023/)
-- [Fediverse etiquette](https://ricard.blog/rant/fediverse-etiquette/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
