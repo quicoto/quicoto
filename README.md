@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tsurune 2x4](https://quicoto.github.io/reviews/tv-shows/tsurune/2x4)
+- [Blue Lock 1x16](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x16)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
