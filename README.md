@@ -8,9 +8,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 24: Unbelievable jobs](https://anchor.fm/korean-tapas/episodes/Episode-24-Unbelievable-jobs-e1u5lpu)
 - [Episode 23: Dating apps](https://anchor.fm/korean-tapas/episodes/Episode-23-Dating-apps-e1th2hl)
 - [Episode 22: World Cup](https://anchor.fm/korean-tapas/episodes/Episode-22-World-Cup-e1svts5)
-- [Episode 21: K-pop](https://anchor.fm/korean-tapas/episodes/Episode-21-K-pop-e1q1fp6)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x16](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x16)
+- [Psycho-Pass 1x5](https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -32,9 +32,9 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Disfrutando de Jeonju – Corea del Sur](https://www.quicoto.com/disfrutando-de-jeonju-corea-del-sur/)
 - [El famoso Hotteok de Jeonju – Corea del Sur](https://www.quicoto.com/el-famoso-hotteok-de-jeonju-corea-del-sur/)
 - [Subiendo una montaña en Seúl – Corea del Sur](https://www.quicoto.com/subiendo-una-montana-en-seul-corea-del-sur/)
-- [Un par de días en Daejeon – Corea del Sur 2022](https://www.quicoto.com/un-par-de-dias-en-daejeon-corea-del-sur-2022/)
 
 #### 📷 &nbsp;&nbsp;Instagram
 - [@ricard.torres](https://www.instagram.com/ricard.torres/)
