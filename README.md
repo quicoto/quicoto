@@ -10,6 +10,13 @@ https://ricard.social/@ricard
 - [Weeknote 3 (2023)](https://ricard.blog/weeknote/week-3-2023/)
 - [Weeknote 2 (2023)](https://ricard.blog/weeknote/week-2-2023/)
 
+#### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
+
+- [Ep. #7: Public speaking, knowledge sharing and why you should try it!](https://share.transistor.fm/s/d47980f3)
+- [Ep. #6: Which CSS should you learn in 2023?](https://share.transistor.fm/s/2938269c)
+- [Ep. #5: How much is too much JavaScript?](https://share.transistor.fm/s/0dd9ed21)
+
+
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
 - [Episode 24: Unbelievable jobs](https://anchor.fm/korean-tapas/episodes/Episode-24-Unbelievable-jobs-e1u5lpu)
