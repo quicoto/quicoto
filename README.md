@@ -24,7 +24,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Psycho-Pass 1x5](https://quicoto.github.io/reviews/tv-shows/psycho-pass/1x5)
+- [Jaku-Chara Tomozaki-kun 1x3](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
