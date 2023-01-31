@@ -9,6 +9,12 @@ https://ricard.social/@ricard
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
+#### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
+{{range rss "https://feeds.transistor.fm/frontend-coffee-break" 3}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
+
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 {{range rss "https://anchor.fm/s/67fb8abc/podcast/rss" 3}}
 - [{{.Title}}]({{.URL}})
