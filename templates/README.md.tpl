@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Fediverse / Mastodon
+
+https://ricard.social/@ricard
+
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 {{range rss "https://ricard.blog/feed/" 3}}
 - [{{.Title}}]({{.URL}})
@@ -25,6 +29,11 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
+#### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
+{{range rss "https://anime.ricard.blog/index.xml" 4}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 {{range rss "https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read" 1}}
 - [{{.Title}}]({{.URL}})
@@ -34,10 +43,3 @@
 {{range rss "https://www.quicoto.com/feed/" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
-
-#### 📷 &nbsp;&nbsp;Instagram
-- [@ricard.torres](https://www.instagram.com/ricard.torres/)
-
-#### 📫 &nbsp;&nbsp;How to reach me
-
-- Fediverse / Mastodon: https://ricard.social/@ricard
