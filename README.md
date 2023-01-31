@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+#### Fediverse / Mastodon
+
+https://ricard.social/@ricard
+
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
 - [Weeknote 4 (2023)](https://ricard.blog/weeknote/week-4-2023/)
@@ -26,6 +30,12 @@
 
 - [Jaku-Chara Tomozaki-kun 1x3](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x3)
 
+#### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
+
+- [Bocchi the Rock!](https://anime.ricard.blog/reviews/bocchi-the-rock/)
+- [Psycho-Pass? I shall pass](https://anime.ricard.blog/reviews/psycho-pass-i-shall-pass/)
+- [Haikyuu!! To the Top: the 4th season we should have never gotten](https://anime.ricard.blog/rants/haikyuu-to-the-top-was-horrible/)
+
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
 - [Lines of Departure (Frontlines, #2)](https://www.goodreads.com/review/show/4926241592?utm_medium=api&amp;utm_source=rss)
@@ -35,10 +45,3 @@
 - [Disfrutando de Jeonju – Corea del Sur](https://www.quicoto.com/disfrutando-de-jeonju-corea-del-sur/)
 - [El famoso Hotteok de Jeonju – Corea del Sur](https://www.quicoto.com/el-famoso-hotteok-de-jeonju-corea-del-sur/)
 - [Subiendo una montaña en Seúl – Corea del Sur](https://www.quicoto.com/subiendo-una-montana-en-seul-corea-del-sur/)
-
-#### 📷 &nbsp;&nbsp;Instagram
-- [@ricard.torres](https://www.instagram.com/ricard.torres/)
-
-#### 📫 &nbsp;&nbsp;How to reach me
-
-- Fediverse / Mastodon: https://ricard.social/@ricard
