@@ -2,7 +2,7 @@
 
 #### Fediverse / Mastodon
 
-https://ricard.social/@ricard
+🐘 https://ricard.social/@ricard
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
@@ -35,10 +35,11 @@ https://ricard.social/@ricard
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Physical: 100 1x4](https://quicoto.github.io/reviews/tv-shows/physical-100/1x4)
+- [Tsurune 2x5](https://quicoto.github.io/reviews/tv-shows/tsurune/2x5)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Tsurune (season 1): one of the most beautiful animations](https://anime.ricard.blog/reviews/tsurune-season-1/)
 - [Bocchi the Rock!](https://anime.ricard.blog/reviews/bocchi-the-rock/)
 - [Psycho-Pass? I shall pass](https://anime.ricard.blog/reviews/psycho-pass-i-shall-pass/)
 - [Haikyuu!! To the Top: the 4th season we should have never gotten](https://anime.ricard.blog/rants/haikyuu-to-the-top-was-horrible/)
