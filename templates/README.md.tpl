@@ -2,7 +2,7 @@
 
 #### Fediverse / Mastodon
 
-https://ricard.social/@ricard
+🐘 https://ricard.social/@ricard
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 {{range rss "https://ricard.blog/feed/" 3}}
