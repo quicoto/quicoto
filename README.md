@@ -35,7 +35,7 @@ https://ricard.social/@ricard
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jaku-Chara Tomozaki-kun 1x3](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x3)
+- [Physical: 100 1x4](https://quicoto.github.io/reviews/tv-shows/physical-100/1x4)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
