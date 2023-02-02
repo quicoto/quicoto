@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tsurune 2x5](https://quicoto.github.io/reviews/tv-shows/tsurune/2x5)
+- [Jaku-Chara Tomozaki-kun 1x6](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
