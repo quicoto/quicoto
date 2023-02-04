@@ -12,9 +12,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
+- [Ep. #8: We love side projects](https://share.transistor.fm/s/b37a5255)
 - [Ep. #7: Public speaking, knowledge sharing and why you should try it!](https://share.transistor.fm/s/d47980f3)
 - [Ep. #6: Which CSS should you learn in 2023?](https://share.transistor.fm/s/2938269c)
-- [Ep. #5: How much is too much JavaScript?](https://share.transistor.fm/s/0dd9ed21)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jaku-Chara Tomozaki-kun 1x6](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x6)
+- [Jaku-Chara Tomozaki-kun 1x7](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
