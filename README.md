@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jaku-Chara Tomozaki-kun 1x7](https://quicoto.github.io/reviews/tv-shows/jaku-chara-tomozaki-kun/1x7)
+- [Blue Lock 1x17](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x17)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
