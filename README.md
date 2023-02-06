@@ -25,9 +25,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [Moving S3 from Backblaze B2 to Scaleway](https://ricard.dev/moving-s3-from-backblaze-b2-to-scaleway/)
 - [Creating a static  Mastodon user’s archive](https://ricard.dev/creating-a-static-mastodon-users-archive/)
 - [How to create a Mastodon user sitemap.xml](https://ricard.dev/how-to-create-a-mastodon-user-sitemap-xml/)
-- [Moving from Linode to netcup](https://ricard.dev/moving-from-linode-to-netcup/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x17](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x17)
+- [Love All Play 1x4](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x4)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Jaku-Chara Tomozaki-kun](https://anime.ricard.blog/reviews/bottom-tier-character-tomozaki/)
 - [Tsurune (season 1): one of the most beautiful animations](https://anime.ricard.blog/reviews/tsurune-season-1/)
 - [Bocchi the Rock!](https://anime.ricard.blog/reviews/bocchi-the-rock/)
 - [Psycho-Pass? I shall pass](https://anime.ricard.blog/reviews/psycho-pass-i-shall-pass/)
-- [Haikyuu!! To the Top: the 4th season we should have never gotten](https://anime.ricard.blog/rants/haikyuu-to-the-top-was-horrible/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
