@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x4](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x4)
+- [Love All Play 1x12](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x12)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
