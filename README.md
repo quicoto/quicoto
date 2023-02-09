@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Love All Play 1x12](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x12)
+- [Love All Play 1x13](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x13)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
