@@ -12,9 +12,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
+- [Ep. #9 Remote Interviews](https://share.transistor.fm/s/693b823e)
 - [Ep. #8: We love side projects](https://share.transistor.fm/s/b37a5255)
 - [Ep. #7: Public speaking, knowledge sharing and why you should try it!](https://share.transistor.fm/s/d47980f3)
-- [Ep. #6: Which CSS should you learn in 2023?](https://share.transistor.fm/s/2938269c)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Love All Play 1x13](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x13)
+- [Love All Play 1x15](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x15)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
