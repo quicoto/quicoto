@@ -19,9 +19,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 25: The new Korean Age System](https://anchor.fm/korean-tapas/episodes/Episode-25-The-new-Korean-Age-System-e1uraq9)
 - [Episode 24: Unbelievable jobs](https://anchor.fm/korean-tapas/episodes/Episode-24-Unbelievable-jobs-e1u5lpu)
 - [Episode 23: Dating apps](https://anchor.fm/korean-tapas/episodes/Episode-23-Dating-apps-e1th2hl)
-- [Episode 22: World Cup](https://anchor.fm/korean-tapas/episodes/Episode-22-World-Cup-e1svts5)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x5](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x5)
+- [Love All Play 1x16](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x16)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
