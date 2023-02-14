@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Love All Play 1x16](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x16)
+- [Slow Horses 2x4](https://quicoto.github.io/reviews/tv-shows/slow-horses/2x4)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
