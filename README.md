@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Slow Horses 2x6](https://quicoto.github.io/reviews/tv-shows/slow-horses/2x6)
+- [Tsurune 2x7](https://quicoto.github.io/reviews/tv-shows/tsurune/2x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
