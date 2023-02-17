@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tsurune 2x7](https://quicoto.github.io/reviews/tv-shows/tsurune/2x7)
+- [Love All Play 1x18](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x18)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
