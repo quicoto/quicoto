@@ -25,9 +25,9 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
+- [How to schedule posts with Mastodon](https://ricard.dev/how-to-schedule-posts-with-mastodon/)
 - [Moving S3 from Backblaze B2 to Scaleway](https://ricard.dev/moving-s3-from-backblaze-b2-to-scaleway/)
 - [Creating a static  Mastodon user’s archive](https://ricard.dev/creating-a-static-mastodon-users-archive/)
-- [How to create a Mastodon user sitemap.xml](https://ricard.dev/how-to-create-a-mastodon-user-sitemap-xml/)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
