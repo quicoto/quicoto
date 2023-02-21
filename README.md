@@ -12,9 +12,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #9 Remote Interviews](https://share.transistor.fm/s/693b823e)
+- [Ep. #10: Unit Testing, love it or hate it?](https://share.transistor.fm/s/49842691)
+- [Ep. #9: Remote Interviews](https://share.transistor.fm/s/693b823e)
 - [Ep. #8: We love side projects](https://share.transistor.fm/s/b37a5255)
-- [Ep. #7: Public speaking, knowledge sharing and why you should try it!](https://share.transistor.fm/s/d47980f3)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x19](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x19)
+- [The Last of Us 1x6](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
