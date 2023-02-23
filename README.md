@@ -6,9 +6,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Review: Angles of Attack (Frontlines #3)](https://ricard.blog/review/angles-of-attack/)
 - [Weeknote 4 (2023)](https://ricard.blog/weeknote/week-4-2023/)
 - [Weeknote 3 (2023)](https://ricard.blog/weeknote/week-3-2023/)
-- [Weeknote 2 (2023)](https://ricard.blog/weeknote/week-2-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x6](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x6)
+- [Tsurune 2x8](https://quicoto.github.io/reviews/tv-shows/tsurune/2x8)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
