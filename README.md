@@ -6,9 +6,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 8 (2023)](https://ricard.blog/weeknote/week-8-2023/)
 - [Review: Angles of Attack (Frontlines #3)](https://ricard.blog/review/angles-of-attack/)
 - [Weeknote 4 (2023)](https://ricard.blog/weeknote/week-4-2023/)
-- [Weeknote 3 (2023)](https://ricard.blog/weeknote/week-3-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Love All Play 1x20](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x20)
+- [Station 19 6x7](https://quicoto.github.io/reviews/tv-shows/station-19/6x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
