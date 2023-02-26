@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Station 19 6x7](https://quicoto.github.io/reviews/tv-shows/station-19/6x7)
+- [Grey&#39;s Anatomy 19x7](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
