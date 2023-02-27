@@ -19,9 +19,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 26: Cryptocurrencies](https://anchor.fm/korean-tapas/episodes/Episode-26-Cryptocurrencies-e1vhtvd)
 - [Episode 25: The new Korean Age System](https://anchor.fm/korean-tapas/episodes/Episode-25-The-new-Korean-Age-System-e1uraq9)
 - [Episode 24: Unbelievable jobs](https://anchor.fm/korean-tapas/episodes/Episode-24-Unbelievable-jobs-e1u5lpu)
-- [Episode 23: Dating apps](https://anchor.fm/korean-tapas/episodes/Episode-23-Dating-apps-e1th2hl)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Grey&#39;s Anatomy 19x7](https://quicoto.github.io/reviews/tv-shows/grey-s-anatomy/19x7)
+- [Blue Lock 1x20](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x20)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Tenki no Ko](https://anime.ricard.blog/reviews/tenki-no-ko/)
 - [Jaku-Chara Tomozaki-kun](https://anime.ricard.blog/reviews/bottom-tier-character-tomozaki/)
 - [Tsurune (season 1): one of the most beautiful animations](https://anime.ricard.blog/reviews/tsurune-season-1/)
 - [Bocchi the Rock!](https://anime.ricard.blog/reviews/bocchi-the-rock/)
-- [Psycho-Pass? I shall pass](https://anime.ricard.blog/reviews/psycho-pass-i-shall-pass/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
