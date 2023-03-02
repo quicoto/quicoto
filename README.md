@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x7](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x7)
+- [The Mandalorian 3x1](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x1)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
