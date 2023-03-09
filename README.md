@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Love All Play 1x22](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x22)
+- [Love All Play 1x23](https://quicoto.github.io/reviews/tv-shows/love-all-play/1x23)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Love All Play](https://anime.ricard.blog/reviews/love-all-play/)
 - [Tenki no Ko](https://anime.ricard.blog/reviews/tenki-no-ko/)
 - [Jaku-Chara Tomozaki-kun](https://anime.ricard.blog/reviews/bottom-tier-character-tomozaki/)
 - [Tsurune (season 1): one of the most beautiful animations](https://anime.ricard.blog/reviews/tsurune-season-1/)
-- [Bocchi the Rock!](https://anime.ricard.blog/reviews/bocchi-the-rock/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
