@@ -12,9 +12,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
+- [Ep. #11: What is a skill map and why you should have one](https://share.transistor.fm/s/5f820824)
 - [Ep. #10: Unit Testing, love it or hate it?](https://share.transistor.fm/s/49842691)
 - [Ep. #9: Remote Interviews](https://share.transistor.fm/s/693b823e)
-- [Ep. #8: We love side projects](https://share.transistor.fm/s/b37a5255)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
