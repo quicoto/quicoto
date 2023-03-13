@@ -19,9 +19,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 27: Mass (pop) Culture](https://anchor.fm/korean-tapas/episodes/Episode-27-Mass-pop-Culture-e209bob)
 - [Episode 26: Cryptocurrencies](https://anchor.fm/korean-tapas/episodes/Episode-26-Cryptocurrencies-e1vhtvd)
 - [Episode 25: The new Korean Age System](https://anchor.fm/korean-tapas/episodes/Episode-25-The-new-Korean-Age-System-e1uraq9)
-- [Episode 24: Unbelievable jobs](https://anchor.fm/korean-tapas/episodes/Episode-24-Unbelievable-jobs-e1u5lpu)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Capture 1x2](https://quicoto.github.io/reviews/tv-shows/the-capture/1x2)
+- [Blue Lock 1x22](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x22)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Kimi no Na wa](https://anime.ricard.blog/reviews/kimi-no-na-wa/)
 - [Love All Play](https://anime.ricard.blog/reviews/love-all-play/)
 - [Tenki no Ko](https://anime.ricard.blog/reviews/tenki-no-ko/)
 - [Jaku-Chara Tomozaki-kun](https://anime.ricard.blog/reviews/bottom-tier-character-tomozaki/)
-- [Tsurune (season 1): one of the most beautiful animations](https://anime.ricard.blog/reviews/tsurune-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
