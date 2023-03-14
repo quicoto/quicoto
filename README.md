@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x22](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x22)
+- [The Last of Us 1x9](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
