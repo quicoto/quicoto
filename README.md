@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 1x9](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/1x9)
+- [The Mandalorian 3x3](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Koe no Katachi](https://anime.ricard.blog/reviews/koe-no-katachi/)
 - [Kimi no Na wa](https://anime.ricard.blog/reviews/kimi-no-na-wa/)
 - [Love All Play](https://anime.ricard.blog/reviews/love-all-play/)
 - [Tenki no Ko](https://anime.ricard.blog/reviews/tenki-no-ko/)
-- [Jaku-Chara Tomozaki-kun](https://anime.ricard.blog/reviews/bottom-tier-character-tomozaki/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
