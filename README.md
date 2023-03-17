@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Mandalorian 3x3](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x3)
+- [Bungou Stray Dogs 1x7](https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
