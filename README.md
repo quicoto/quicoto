@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x11](https://quicoto.github.io/reviews/tv-shows/black-clover/1x11)
+- [The Capture 2x3](https://quicoto.github.io/reviews/tv-shows/the-capture/2x3)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
