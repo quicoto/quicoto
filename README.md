@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Capture 2x3](https://quicoto.github.io/reviews/tv-shows/the-capture/2x3)
+- [The Capture 2x5](https://quicoto.github.io/reviews/tv-shows/the-capture/2x5)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
