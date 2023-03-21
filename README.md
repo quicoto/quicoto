@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Capture 2x5](https://quicoto.github.io/reviews/tv-shows/the-capture/2x5)
+- [Bungou Stray Dogs 1x10](https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x10)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
