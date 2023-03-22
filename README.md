@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bungou Stray Dogs 1x10](https://quicoto.github.io/reviews/tv-shows/bungou-stray-dogs/1x10)
+- [Black Clover 1x19](https://quicoto.github.io/reviews/tv-shows/black-clover/1x19)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
