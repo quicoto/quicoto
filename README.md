@@ -6,15 +6,15 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 12 (2023)](https://ricard.blog/weeknote/week-12-2023/)
 - [Weeknote 10 (2023)](https://ricard.blog/weeknote/week-10-2023/)
 - [Weeknote 8 (2023)](https://ricard.blog/weeknote/week-8-2023/)
-- [Review: Angles of Attack (Frontlines #3)](https://ricard.blog/review/angles-of-attack/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
+- [Ep. #12: JavaScript debugging process](https://share.transistor.fm/s/52f31504)
 - [Ep. #11: What is a skill map and why you should have one](https://share.transistor.fm/s/5f820824)
 - [Ep. #10: Unit Testing, love it or hate it?](https://share.transistor.fm/s/49842691)
-- [Ep. #9: Remote Interviews](https://share.transistor.fm/s/693b823e)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
