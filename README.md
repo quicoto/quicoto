@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x22](https://quicoto.github.io/reviews/tv-shows/black-clover/1x22)
+- [The Night Agent 1x3](https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x3)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
