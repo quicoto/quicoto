@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 1x3](https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x3)
+- [Black Clover 1x27](https://quicoto.github.io/reviews/tv-shows/black-clover/1x27)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Mercado de Jagalchi en Busan – Corea del Sur](https://www.quicoto.com/mercado-de-jagalchi-en-busan-corea-del-sur/)
 - [Gyeongju, capital del reino de Silla – Corea del Sur](https://www.quicoto.com/gyeongju-capital-del-reino-de-silla-corea-del-sur/)
 - [Disfrutando de Jeonju – Corea del Sur](https://www.quicoto.com/disfrutando-de-jeonju-corea-del-sur/)
-- [El famoso Hotteok de Jeonju – Corea del Sur](https://www.quicoto.com/el-famoso-hotteok-de-jeonju-corea-del-sur/)
