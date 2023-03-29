@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x27](https://quicoto.github.io/reviews/tv-shows/black-clover/1x27)
+- [Black Clover 1x30](https://quicoto.github.io/reviews/tv-shows/black-clover/1x30)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
