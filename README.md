@@ -19,9 +19,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [Episode 27: Mass (pop) Culture](https://anchor.fm/korean-tapas/episodes/Episode-27-Mass-pop-Culture-e209bob)
-- [Episode 26: Cryptocurrencies](https://anchor.fm/korean-tapas/episodes/Episode-26-Cryptocurrencies-e1vhtvd)
-- [Episode 25: The new Korean Age System](https://anchor.fm/korean-tapas/episodes/Episode-25-The-new-Korean-Age-System-e1uraq9)
+- [Episode 27: Mass (pop) Culture](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-27-Mass-pop-Culture-e209bob)
+- [Episode 26: Cryptocurrencies](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-26-Cryptocurrencies-e1vhtvd)
+- [Episode 25: The new Korean Age System](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-25-The-new-Korean-Age-System-e1uraq9)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x30](https://quicoto.github.io/reviews/tv-shows/black-clover/1x30)
+- [Black Clover 1x32](https://quicoto.github.io/reviews/tv-shows/black-clover/1x32)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
