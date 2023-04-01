@@ -6,9 +6,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Back to Japan, after 9 years](https://ricard.blog/personal/back-to-japan-after-9-years/)
 - [Weeknote 12 (2023)](https://ricard.blog/weeknote/week-12-2023/)
 - [Weeknote 10 (2023)](https://ricard.blog/weeknote/week-10-2023/)
-- [Weeknote 8 (2023)](https://ricard.blog/weeknote/week-8-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x34](https://quicoto.github.io/reviews/tv-shows/black-clover/1x34)
+- [The Mandalorian 3x6](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Tsurune (Season 2): even better](https://anime.ricard.blog/reviews/tsurune-season-2/)
+- [Boku no Hero Academia (Season 6)](https://anime.ricard.blog/reviews/boku-no-hero-academia-season-6/)
 - [Koe no Katachi](https://anime.ricard.blog/reviews/koe-no-katachi/)
 - [Kimi no Na wa](https://anime.ricard.blog/reviews/kimi-no-na-wa/)
-- [Love All Play](https://anime.ricard.blog/reviews/love-all-play/)
-- [Tenki no Ko](https://anime.ricard.blog/reviews/tenki-no-ko/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Volviendo a Japón, 9 años después (2023)](https://www.quicoto.com/volviendo-a-japon-9-anos-despues/)
 - [Mercado de Jagalchi en Busan – Corea del Sur](https://www.quicoto.com/mercado-de-jagalchi-en-busan-corea-del-sur/)
 - [Gyeongju, capital del reino de Silla – Corea del Sur](https://www.quicoto.com/gyeongju-capital-del-reino-de-silla-corea-del-sur/)
-- [Disfrutando de Jeonju – Corea del Sur](https://www.quicoto.com/disfrutando-de-jeonju-corea-del-sur/)
