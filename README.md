@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Mandalorian 3x6](https://quicoto.github.io/reviews/tv-shows/the-mandalorian/3x6)
+- [The Night Agent 1x9](https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x9)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
