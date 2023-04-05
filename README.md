@@ -19,9 +19,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 28: Buying an apartment](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-28-Buying-an-apartment-e21ni40)
 - [Episode 27: Mass (pop) Culture](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-27-Mass-pop-Culture-e209bob)
 - [Episode 26: Cryptocurrencies](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-26-Cryptocurrencies-e1vhtvd)
-- [Episode 25: The new Korean Age System](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-25-The-new-Korean-Age-System-e1uraq9)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 1x9](https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x9)
+- [Kaguya-sama wa Kokurasetai 4x2](https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Aterrizando en Seúl – Viaje a Japón 2023](https://www.quicoto.com/aterrizando-en-seul-viaje-a-japon-2023/)
 - [Volviendo a Japón, 9 años después (2023)](https://www.quicoto.com/volviendo-a-japon-9-anos-despues/)
 - [Mercado de Jagalchi en Busan – Corea del Sur](https://www.quicoto.com/mercado-de-jagalchi-en-busan-corea-del-sur/)
-- [Gyeongju, capital del reino de Silla – Corea del Sur](https://www.quicoto.com/gyeongju-capital-del-reino-de-silla-corea-del-sur/)
