@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaguya-sama wa Kokurasetai 4x2](https://quicoto.github.io/reviews/tv-shows/kaguya-sama-wa-kokurasetai/4x2)
+- [The Night Agent 1x10](https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x10)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Aterrizando en Tokio – Viaje a Japón 2023](https://www.quicoto.com/aterrizando-en-tokio-viaje-a-japon-2023/)
 - [Aterrizando en Seúl – Viaje a Japón 2023](https://www.quicoto.com/aterrizando-en-seul-viaje-a-japon-2023/)
 - [Volviendo a Japón, 9 años después (2023)](https://www.quicoto.com/volviendo-a-japon-9-anos-despues/)
-- [Mercado de Jagalchi en Busan – Corea del Sur](https://www.quicoto.com/mercado-de-jagalchi-en-busan-corea-del-sur/)
