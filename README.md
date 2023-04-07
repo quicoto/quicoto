@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 1x10](https://quicoto.github.io/reviews/tv-shows/the-night-agent/1x10)
+- [Cool Doji Danshi 1x5](https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x5)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Hora punta y cerezos en Tokio – Viaje a Japón 2023](https://www.quicoto.com/hora-punta-y-cerezos-en-tokio-viaje-a-japon-2023/)
 - [Aterrizando en Tokio – Viaje a Japón 2023](https://www.quicoto.com/aterrizando-en-tokio-viaje-a-japon-2023/)
 - [Aterrizando en Seúl – Viaje a Japón 2023](https://www.quicoto.com/aterrizando-en-seul-viaje-a-japon-2023/)
-- [Volviendo a Japón, 9 años después (2023)](https://www.quicoto.com/volviendo-a-japon-9-anos-despues/)
