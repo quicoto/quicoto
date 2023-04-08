@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cool Doji Danshi 1x5](https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x5)
+- [Cool Doji Danshi 1x12](https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x12)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
