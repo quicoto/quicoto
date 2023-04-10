@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cool Doji Danshi 1x24](https://quicoto.github.io/reviews/tv-shows/cool-doji-danshi/1x24)
+- [Bleach 1x6](https://quicoto.github.io/reviews/tv-shows/bleach/1x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Cool Doji Danshi](https://anime.ricard.blog/reviews/cool-doji-danshi/)
 - [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://anime.ricard.blog/reviews/kaguya-sama-first-kiss/)
 - [Tsurune (Season 2): even better](https://anime.ricard.blog/reviews/tsurune-season-2/)
 - [Boku no Hero Academia (Season 6)](https://anime.ricard.blog/reviews/boku-no-hero-academia-season-6/)
-- [Koe no Katachi](https://anime.ricard.blog/reviews/koe-no-katachi/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
