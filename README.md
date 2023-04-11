@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bleach 1x6](https://quicoto.github.io/reviews/tv-shows/bleach/1x6)
+- [Kimetsu no Yaiba 4x1](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x1)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Llegando a Kyoto – Viaje a Japón 2023](https://www.quicoto.com/llegando-a-kyoto-viaje-a-japon-2023/)
 - [Frío y lluvia en Kanazawa – Viaje Japón 2023](https://www.quicoto.com/frio-y-lluvia-en-kanazawa-viaje-japon-2023/)
 - [Asakusa y el Tochō – Viaje a Japón 2023](https://www.quicoto.com/asakusa-y-el-tocho-viaje-a-japon-2023/)
-- [Hora punta y cerezos en Tokio – Viaje a Japón 2023](https://www.quicoto.com/hora-punta-y-cerezos-en-tokio-viaje-a-japon-2023/)
