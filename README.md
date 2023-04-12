@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 4x1](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x1)
+- [Tomo-chan wa Onnanoko! 1x2](https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x2)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Nagoya a 30 minutos – Viaje a Japón 2023](https://www.quicoto.com/nagoya-a-30-minutos-viaje-a-japon-2023/)
 - [Llegando a Kyoto – Viaje a Japón 2023](https://www.quicoto.com/llegando-a-kyoto-viaje-a-japon-2023/)
 - [Frío y lluvia en Kanazawa – Viaje Japón 2023](https://www.quicoto.com/frio-y-lluvia-en-kanazawa-viaje-japon-2023/)
-- [Asakusa y el Tochō – Viaje a Japón 2023](https://www.quicoto.com/asakusa-y-el-tocho-viaje-a-japon-2023/)
