@@ -12,9 +12,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
+- [Ep. #13: Should you document your code?](https://share.transistor.fm/s/a8be58d7)
 - [Ep. #12: JavaScript debugging process](https://share.transistor.fm/s/52f31504)
 - [Ep. #11: What is a skill map and why you should have one](https://share.transistor.fm/s/5f820824)
-- [Ep. #10: Unit Testing, love it or hate it?](https://share.transistor.fm/s/49842691)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tomo-chan wa Onnanoko! 1x2](https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x2)
+- [Yamada-kun to Lv999 no Koi wo Suru 1x2](https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x2)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [6AM fue demasiado tarde – Viaje a Japón 2023](https://www.quicoto.com/6am-fue-demasiado-tarde-viaje-a-japon-2023/)
 - [Nagoya a 30 minutos – Viaje a Japón 2023](https://www.quicoto.com/nagoya-a-30-minutos-viaje-a-japon-2023/)
 - [Llegando a Kyoto – Viaje a Japón 2023](https://www.quicoto.com/llegando-a-kyoto-viaje-a-japon-2023/)
-- [Frío y lluvia en Kanazawa – Viaje Japón 2023](https://www.quicoto.com/frio-y-lluvia-en-kanazawa-viaje-japon-2023/)
