@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tomo-chan wa Onnanoko! 1x5](https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x5)
+- [Tomo-chan wa Onnanoko! 1x7](https://quicoto.github.io/reviews/tv-shows/tomo-chan-wa-onnanoko/1x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Kobe y los baños termales – Viaje a Japón 2023](https://www.quicoto.com/kobe-y-los-banos-termales-viaje-a-japon-2023/)
 - [Hikone y mi impresionante japonés – Viaje a Japón 2023](https://www.quicoto.com/hikone-y-mi-impresionante-japones-viaje-a-japon-2023/)
 - [6AM fue demasiado tarde – Viaje a Japón 2023](https://www.quicoto.com/6am-fue-demasiado-tarde-viaje-a-japon-2023/)
-- [Nagoya a 30 minutos – Viaje a Japón 2023](https://www.quicoto.com/nagoya-a-30-minutos-viaje-a-japon-2023/)
