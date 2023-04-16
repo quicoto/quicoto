@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Himeji y Osaka – Viaje a Japón 2023](https://www.quicoto.com/himeji-y-osaka-viaje-a-japon-2023/)
 - [Kobe y los baños termales – Viaje a Japón 2023](https://www.quicoto.com/kobe-y-los-banos-termales-viaje-a-japon-2023/)
 - [Hikone y mi impresionante japonés – Viaje a Japón 2023](https://www.quicoto.com/hikone-y-mi-impresionante-japones-viaje-a-japon-2023/)
-- [6AM fue demasiado tarde – Viaje a Japón 2023](https://www.quicoto.com/6am-fue-demasiado-tarde-viaje-a-japon-2023/)
