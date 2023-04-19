@@ -35,14 +35,14 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Kokoro no Yabai Yatsu 1x1](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x1)
+- [Boku no Kokoro no Yabai Yatsu 1x3](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x3)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Tomo-chan wa Onnanoko!](https://anime.ricard.blog/reviews/tomo-chan-wa-onnanoko/)
 - [Cool Doji Danshi](https://anime.ricard.blog/reviews/cool-doji-danshi/)
 - [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://anime.ricard.blog/reviews/kaguya-sama-first-kiss/)
 - [Tsurune (Season 2): even better](https://anime.ricard.blog/reviews/tsurune-season-2/)
-- [Boku no Hero Academia (Season 6)](https://anime.ricard.blog/reviews/boku-no-hero-academia-season-6/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Kumamoto ida y vuelta – Viaje a Japón 2023](https://www.quicoto.com/kumamoto-ida-y-vuelta-viaje-a-japon-2023/)
 - [Fukuoka para 3 noches – Viaje a Japón 2023](https://www.quicoto.com/__trashed/)
 - [Hiroshima bajo la lluvia – Viaje a Japón 2023](https://www.quicoto.com/hiroshima-bajo-la-lluvia-viaje-a-japon-2023/)
-- [Himeji y Osaka – Viaje a Japón 2023](https://www.quicoto.com/himeji-y-osaka-viaje-a-japon-2023/)
