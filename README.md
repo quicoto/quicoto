@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Kokoro no Yabai Yatsu 1x3](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x3)
+- [Ao Ashi 1x8](https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x8)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Nagasaki – Viaje a Japón 2023](https://www.quicoto.com/nagasaki-viaje-a-japon-2023/)
 - [Kumamoto ida y vuelta – Viaje a Japón 2023](https://www.quicoto.com/kumamoto-ida-y-vuelta-viaje-a-japon-2023/)
 - [Fukuoka para 3 noches – Viaje a Japón 2023](https://www.quicoto.com/__trashed/)
-- [Hiroshima bajo la lluvia – Viaje a Japón 2023](https://www.quicoto.com/hiroshima-bajo-la-lluvia-viaje-a-japon-2023/)
