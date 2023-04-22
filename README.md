@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ao Ashi 1x14](https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x14)
+- [Enen no Shouboutai 1x2](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x2)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
