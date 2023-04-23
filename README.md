@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Volviendo a Tokio – Viaje Japón 2023](https://www.quicoto.com/volviendo-a-tokio-viaje-japon-2023/)
 - [Okayama y Kurashiki – Viaje a Japón 2023](https://www.quicoto.com/okayama-y-kurashiki-viaje-a-japon-2023/)
 - [Nagasaki – Viaje a Japón 2023](https://www.quicoto.com/nagasaki-viaje-a-japon-2023/)
-- [Kumamoto ida y vuelta – Viaje a Japón 2023](https://www.quicoto.com/kumamoto-ida-y-vuelta-viaje-a-japon-2023/)
