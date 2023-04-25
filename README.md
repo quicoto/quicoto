@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ao Ashi 1x17](https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x17)
+- [Ao Ashi 1x18](https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x18)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Seúl y Barcelona – Viaje Japón 2023](https://www.quicoto.com/seul-y-barcelona-viaje-japon-2023/)
 - [Volviendo a Tokio – Viaje Japón 2023](https://www.quicoto.com/volviendo-a-tokio-viaje-japon-2023/)
 - [Okayama y Kurashiki – Viaje a Japón 2023](https://www.quicoto.com/okayama-y-kurashiki-viaje-a-japon-2023/)
-- [Nagasaki – Viaje a Japón 2023](https://www.quicoto.com/nagasaki-viaje-a-japon-2023/)
