@@ -12,9 +12,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
+- [Ep. #14: FE Web Performance: the good stuff](https://share.transistor.fm/s/cc25e22e)
 - [Ep. #13: Should you document your code?](https://share.transistor.fm/s/a8be58d7)
 - [Ep. #12: JavaScript debugging process](https://share.transistor.fm/s/52f31504)
-- [Ep. #11: What is a skill map and why you should have one](https://share.transistor.fm/s/5f820824)
 
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 1x6](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x6)
+- [Mashle 1x1](https://quicoto.github.io/reviews/tv-shows/mashle/1x1)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
