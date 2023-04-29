@@ -6,9 +6,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Back from Japan](https://ricard.blog/personal/back-from-japan/)
 - [Back to Japan, after 9 years](https://ricard.blog/personal/back-to-japan-after-9-years/)
 - [Weeknote 12 (2023)](https://ricard.blog/weeknote/week-12-2023/)
-- [Weeknote 10 (2023)](https://ricard.blog/weeknote/week-10-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Oshi no Ko 1x3](https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x3)
+- [Mashle 1x3](https://quicoto.github.io/reviews/tv-shows/mashle/1x3)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
