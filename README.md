@@ -39,10 +39,10 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
+- [Ao Ashi](https://anime.ricard.blog/reviews/ao-ashi/)
 - [Tomo-chan wa Onnanoko!](https://anime.ricard.blog/reviews/tomo-chan-wa-onnanoko/)
 - [Cool Doji Danshi](https://anime.ricard.blog/reviews/cool-doji-danshi/)
 - [Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai](https://anime.ricard.blog/reviews/kaguya-sama-first-kiss/)
-- [Tsurune (Season 2): even better](https://anime.ricard.blog/reviews/tsurune-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
