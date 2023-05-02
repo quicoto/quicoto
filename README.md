@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ao Ashi 1x23](https://quicoto.github.io/reviews/tv-shows/ao-ashi/1x23)
+- [Mashle 1x4](https://quicoto.github.io/reviews/tv-shows/mashle/1x4)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
