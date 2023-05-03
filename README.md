@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mashle 1x4](https://quicoto.github.io/reviews/tv-shows/mashle/1x4)
+- [Black Clover 1x39](https://quicoto.github.io/reviews/tv-shows/black-clover/1x39)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
