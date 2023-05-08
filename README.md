@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mashle 1x5](https://quicoto.github.io/reviews/tv-shows/mashle/1x5)
+- [Jigokuraku 1x6](https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
