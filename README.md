@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Course in Romance 1x1](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x1)
+- [Crash Course in Romance 1x2](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x2)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
