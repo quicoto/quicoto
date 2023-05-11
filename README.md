@@ -50,6 +50,6 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
+- [Parque de Ueno y cerezos – Tokio, Japón](https://www.quicoto.com/parque-de-ueno-y-cerezos-tokio-japon/)
 - [Seúl y Barcelona – Viaje Japón 2023](https://www.quicoto.com/seul-y-barcelona-viaje-japon-2023/)
 - [Volviendo a Tokio – Viaje Japón 2023](https://www.quicoto.com/volviendo-a-tokio-viaje-japon-2023/)
-- [Okayama y Kurashiki – Viaje a Japón 2023](https://www.quicoto.com/okayama-y-kurashiki-viaje-a-japon-2023/)
