@@ -6,9 +6,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
+- [Weeknote 19 (2023)](https://ricard.blog/review/week-19-2023/)
 - [Weeknote 18 (2023)](https://ricard.blog/weeknote/week-18-2023/)
 - [Back from Japan](https://ricard.blog/personal/back-from-japan/)
-- [Back to Japan, after 9 years](https://ricard.blog/personal/back-to-japan-after-9-years/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Course in Romance 1x2](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x2)
+- [Crash Course in Romance 1x4](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x4)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
