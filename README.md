@@ -19,9 +19,9 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
+- [Episode 29: Kimchi paella?](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-29-Kimchi-paella-e241t30)
 - [Episode 28: Buying an apartment](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-28-Buying-an-apartment-e21ni40)
 - [Episode 27: Mass (pop) Culture](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-27-Mass-pop-Culture-e209bob)
-- [Episode 26: Cryptocurrencies](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-26-Cryptocurrencies-e1vhtvd)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Course in Romance 1x5](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x5)
+- [Mashle 1x6](https://quicoto.github.io/reviews/tv-shows/mashle/1x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
