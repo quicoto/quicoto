@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x40](https://quicoto.github.io/reviews/tv-shows/black-clover/1x40)
+- [Black Clover 1x41](https://quicoto.github.io/reviews/tv-shows/black-clover/1x41)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
