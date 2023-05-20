@@ -6,9 +6,9 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 19 (2023)](https://ricard.blog/review/week-19-2023/)
+- [Weeknote 20 (2023)](https://ricard.blog/weeknote/week-20-2023/)
+- [Weeknote 19 (2023)](https://ricard.blog/rant/week-19-2023/)
 - [Weeknote 18 (2023)](https://ricard.blog/weeknote/week-18-2023/)
-- [Back from Japan](https://ricard.blog/personal/back-from-japan/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 4x6](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x6)
+- [Crash Course in Romance 1x6](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x6)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -46,7 +46,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Angles of Attack (Frontlines, #3)](https://www.goodreads.com/review/show/5022420549?utm_medium=api&amp;utm_source=rss)
+- [Contact Front (Drop Trooper, #1)](https://www.goodreads.com/review/show/5365007686?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
