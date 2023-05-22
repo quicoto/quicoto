@@ -14,7 +14,6 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 {{range rss "https://anchor.fm/s/67fb8abc/podcast/rss" 3}}
 - [{{.Title}}]({{.URL}})
@@ -25,8 +24,13 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
-{{range rss "https://quicoto.github.io/reviews/rss-all-movies.xml" 1}}
+#### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
+{{range rss "https://anime.ricard.blog/index.xml" 3}}
+- [{{.Title}}]({{.URL}})
+{{- end}}
+
+#### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
+{{range rss "https://anime.ricard.blog/index.xml" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
@@ -35,8 +39,8 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
-{{range rss "https://anime.ricard.blog/index.xml" 4}}
+#### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
+{{range rss "https://quicoto.github.io/reviews/rss-all-movies.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
