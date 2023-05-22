@@ -36,9 +36,9 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi](https://anime.ricard.blog/reviews/ao-ashi/)
-- [Tomo-chan wa Onnanoko!](https://anime.ricard.blog/reviews/tomo-chan-wa-onnanoko/)
-- [Cool Doji Danshi](https://anime.ricard.blog/reviews/cool-doji-danshi/)
+- [Haikyuu - Chapter 2](https://manga.ricard.blog/reviews/haikyuu/chapter/2/)
+- [Haikyuu - Chapter 1](https://manga.ricard.blog/reviews/haikyuu/chapter/1/)
+- [Bakuman - Chapter 7](https://manga.ricard.blog/reviews/bakuman/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
