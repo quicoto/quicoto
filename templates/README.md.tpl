@@ -30,7 +30,7 @@
 {{- end}}
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
-{{range rss "https://anime.ricard.blog/index.xml" 3}}
+{{range rss "https://manga.ricard.blog/index.xml" 3}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
