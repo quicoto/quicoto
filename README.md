@@ -35,7 +35,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Course in Romance 1x6](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x6)
+- [Kimetsu no Yaiba 4x7](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x7)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
