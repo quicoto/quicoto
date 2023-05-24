@@ -42,7 +42,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Course in Romance 1x7](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x7)
+- [Black Clover 1x44](https://quicoto.github.io/reviews/tv-shows/black-clover/1x44)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
