@@ -5,32 +5,32 @@
 🐘 https://ricard.social/@ricard
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
-{{range rss "https://ricard.blog/feed/" 3}}
+{{range rss "https://ricard.blog/feed/" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
-{{range rss "https://feeds.transistor.fm/frontend-coffee-break" 3}}
+{{range rss "https://feeds.transistor.fm/frontend-coffee-break" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
-{{range rss "https://anchor.fm/s/67fb8abc/podcast/rss" 3}}
+{{range rss "https://anchor.fm/s/67fb8abc/podcast/rss" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
-{{range rss "https://ricard.dev/feed/" 3}}
+{{range rss "https://ricard.dev/feed/" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
-{{range rss "https://anime.ricard.blog/index.xml" 3}}
+{{range rss "https://anime.ricard.blog/index.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
-{{range rss "https://manga.ricard.blog/index.xml" 3}}
+{{range rss "https://manga.ricard.blog/index.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
@@ -50,6 +50,6 @@
 {{- end}}
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
-{{range rss "https://www.quicoto.com/feed/" 3}}
+{{range rss "https://www.quicoto.com/feed/" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
