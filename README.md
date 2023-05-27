@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyuu - Chapter 3](https://manga.ricard.blog/reviews/haikyuu/chapter/3/)
+- [Haikyuu - Chapter 4](https://manga.ricard.blog/reviews/haikyuu/chapter/4/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
