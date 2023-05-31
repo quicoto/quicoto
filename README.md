@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyuu - Chapter 6](https://manga.ricard.blog/reviews/haikyuu/chapter/6/)
+- [Haikyuu - Chapter 7](https://manga.ricard.blog/reviews/haikyuu/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x45](https://quicoto.github.io/reviews/tv-shows/black-clover/1x45)
+- [Crash Course in Romance 1x10](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
