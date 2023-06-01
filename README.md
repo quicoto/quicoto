@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyuu - Chapter 7](https://manga.ricard.blog/reviews/haikyuu/chapter/7/)
+- [Bakuman - Chapter 8](https://manga.ricard.blog/reviews/bakuman/chapter/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
