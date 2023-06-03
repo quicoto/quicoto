@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: Contact Front (Drop Trooper #1)](https://ricard.blog/review/contact-front/)
+- [Weeknote 22 (2023)](https://ricard.blog/weeknote/week-22-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 8](https://manga.ricard.blog/reviews/bakuman/chapter/8/)
+- [Bakuman - Chapter 9](https://manga.ricard.blog/reviews/bakuman/chapter/9/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Crash Course in Romance 1x10](https://quicoto.github.io/reviews/tv-shows/crash-course-in-romance/1x10)
+- [Yamada-kun to Lv999 no Koi wo Suru 1x9](https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
