@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yamada-kun to Lv999 no Koi wo Suru 1x9](https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x9)
+- [Kimetsu no Yaiba 4x8](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Parque de Ueno y cerezos – Tokio, Japón](https://www.quicoto.com/parque-de-ueno-y-cerezos-tokio-japon/)
+- [Ameyoko y Akihabara, Tokio Japón](https://www.quicoto.com/ameyoko-y-akihabara-tokio-japon/)
