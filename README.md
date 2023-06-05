@@ -14,7 +14,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [Episode 29: Kimchi paella?](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-29-Kimchi-paella-e241t30)
+- [Episode 30: Moving](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-30-Moving-e257bd5)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 9](https://manga.ricard.blog/reviews/bakuman/chapter/9/)
+- [Bakuman - Chapter 10](https://manga.ricard.blog/reviews/bakuman/chapter/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 4x8](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x8)
+- [Yamada-kun to Lv999 no Koi wo Suru 1x10](https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
