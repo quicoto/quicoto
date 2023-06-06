@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Ao Ashi](https://anime.ricard.blog/reviews/ao-ashi/)
+- [Hello World](https://anime.ricard.blog/reviews/hello-world/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yamada-kun to Lv999 no Koi wo Suru 1x10](https://quicoto.github.io/reviews/tv-shows/yamada-kun-to-lv999-no-koi-wo-suru/1x10)
+- [Kimetsu no Yaiba 4x9](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
