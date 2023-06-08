@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 10](https://manga.ricard.blog/reviews/bakuman/chapter/10/)
+- [Bakuman - Chapter 14](https://manga.ricard.blog/reviews/bakuman/chapter/14/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 4x9](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x9)
+- [The Recruit 1x1](https://quicoto.github.io/reviews/tv-shows/the-recruit/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
