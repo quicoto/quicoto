@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 14](https://manga.ricard.blog/reviews/bakuman/chapter/14/)
+- [Bakuman - Chapter 16](https://manga.ricard.blog/reviews/bakuman/chapter/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
