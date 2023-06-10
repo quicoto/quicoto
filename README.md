@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 22 (2023)](https://ricard.blog/weeknote/week-22-2023/)
+- [Weeknote 23 (2023)](https://ricard.blog/weeknote/week-23-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #15: Is progressive enhancement worth it?](https://share.transistor.fm/s/6d609e6e)
+- [Ep. #16: Reacting to Rich Harris&#39; video on frameworks and the web](https://share.transistor.fm/s/f71d0d4b)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 16](https://manga.ricard.blog/reviews/bakuman/chapter/16/)
+- [Blue Lock - Chapter 5](https://manga.ricard.blog/reviews/blue-lock/chapter/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Recruit 1x1](https://quicoto.github.io/reviews/tv-shows/the-recruit/1x1)
+- [The Recruit 1x2](https://quicoto.github.io/reviews/tv-shows/the-recruit/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
