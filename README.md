@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Chapter 5](https://manga.ricard.blog/reviews/blue-lock/chapter/5/)
+- [Blue Lock - Chapter 7](https://manga.ricard.blog/reviews/blue-lock/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Recruit 1x3](https://quicoto.github.io/reviews/tv-shows/the-recruit/1x3)
+- [Bloodhounds 1x2](https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
