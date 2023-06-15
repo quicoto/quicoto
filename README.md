@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bloodhounds 1x4](https://quicoto.github.io/reviews/tv-shows/bloodhounds/1x4)
+- [The Recruit 1x8](https://quicoto.github.io/reviews/tv-shows/the-recruit/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
