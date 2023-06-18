@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 1](https://manga.ricard.blog/reviews/naruto/chapter/1/)
+- [Naruto - Chapter 5](https://manga.ricard.blog/reviews/naruto/chapter/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Recruit 1x8](https://quicoto.github.io/reviews/tv-shows/the-recruit/1x8)
+- [Black Mirror 6x2](https://quicoto.github.io/reviews/tv-shows/black-mirror/6x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
