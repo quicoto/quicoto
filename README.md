@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Hello World](https://anime.ricard.blog/reviews/hello-world/)
+- [Boku no Kokoro no Yabai Yatsu](https://anime.ricard.blog/reviews/boku-no-kokoro-no-yabai-yatsu/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 5](https://manga.ricard.blog/reviews/naruto/chapter/5/)
+- [Naruto - Chapter 7](https://manga.ricard.blog/reviews/naruto/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Mirror 6x2](https://quicoto.github.io/reviews/tv-shows/black-mirror/6x2)
+- [Black Mirror 6x5](https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
