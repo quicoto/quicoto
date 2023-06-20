@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 7](https://manga.ricard.blog/reviews/naruto/chapter/7/)
+- [Blue Lock - Chapter 12](https://manga.ricard.blog/reviews/blue-lock/chapter/12/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Mirror 6x5](https://quicoto.github.io/reviews/tv-shows/black-mirror/6x5)
+- [Mashle 1x10](https://quicoto.github.io/reviews/tv-shows/mashle/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Ameyoko y Akihabara, Tokio Japón](https://www.quicoto.com/ameyoko-y-akihabara-tokio-japon/)
+- [Shinjuku Gyoen en primavera – Tokio 2023](https://www.quicoto.com/shinjuku-gyoen-en-primavera-tokio-2023/)
