@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Chapter 13](https://manga.ricard.blog/reviews/blue-lock/chapter/13/)
+- [Haikyu - Chapter 9](https://manga.ricard.blog/reviews/haikyuu/chapter/9/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x51](https://quicoto.github.io/reviews/tv-shows/black-clover/1x51)
+- [Kimetsu no Yaiba 4x11](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
