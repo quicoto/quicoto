@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #16: Reacting to Rich Harris&#39; video on frameworks and the web](https://share.transistor.fm/s/f71d0d4b)
+- [Ep. #17: How to work with images on the web in 2023](https://share.transistor.fm/s/25eb311f)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 9](https://manga.ricard.blog/reviews/haikyuu/chapter/9/)
+- [Haikyu - Chapter 11](https://manga.ricard.blog/reviews/haikyuu/chapter/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 4x11](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/4x11)
+- [Enen no Shouboutai 1x9](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
