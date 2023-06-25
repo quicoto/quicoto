@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 11](https://manga.ricard.blog/reviews/haikyuu/chapter/11/)
+- [Haikyu - Chapter 13](https://manga.ricard.blog/reviews/haikyuu/chapter/13/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 1x9](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x9)
+- [Black Clover 1x50](https://quicoto.github.io/reviews/tv-shows/black-clover/1x50)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
