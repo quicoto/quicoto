@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Boku no Kokoro no Yabai Yatsu](https://anime.ricard.blog/reviews/boku-no-kokoro-no-yabai-yatsu/)
+- [Yamada-kun to Lv999 no Koi wo Suru](https://anime.ricard.blog/reviews/yamada-kun-to-lv999-no-koi-wo-suru/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 13](https://manga.ricard.blog/reviews/haikyuu/chapter/13/)
+- [Haikyu - Chapter 16](https://manga.ricard.blog/reviews/haikyuu/chapter/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x50](https://quicoto.github.io/reviews/tv-shows/black-clover/1x50)
+- [Jigokuraku 1x12](https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x12chapter: 1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
