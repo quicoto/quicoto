@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 16](https://manga.ricard.blog/reviews/haikyuu/chapter/16/)
+- [Naruto - Chapter 12](https://manga.ricard.blog/reviews/naruto/chapter/12/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jigokuraku 1x12](https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x12chapter: 1)
+- [Enen no Shouboutai 1x11](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
