@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Yamada-kun to Lv999 no Koi wo Suru](https://anime.ricard.blog/reviews/yamada-kun-to-lv999-no-koi-wo-suru/)
+- [Oshi no Ko: Season 1](https://anime.ricard.blog/reviews/oshi-no-ko-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 12](https://manga.ricard.blog/reviews/naruto/chapter/12/)
+- [Naruto - Chapter 14](https://manga.ricard.blog/reviews/naruto/chapter/14/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 1x11](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x11)
+- [Black Clover 1x56](https://quicoto.github.io/reviews/tv-shows/black-clover/1x56)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
