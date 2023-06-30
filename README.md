@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Oshi no Ko: Season 1](https://anime.ricard.blog/reviews/oshi-no-ko-season-1/)
+- [Oshi no Ko (Season 1)](https://anime.ricard.blog/reviews/oshi-no-ko-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
