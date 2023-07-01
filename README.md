@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 24 (2023)](https://ricard.blog/weeknote/week-24-2023/)
+- [Weeknote 26 (2023)](https://ricard.blog/weeknote/week-26-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 14](https://manga.ricard.blog/reviews/naruto/chapter/14/)
+- [Naruto - Chapter 16](https://manga.ricard.blog/reviews/naruto/chapter/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
