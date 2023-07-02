@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 16](https://manga.ricard.blog/reviews/naruto/chapter/16/)
+- [Naruto - Chapter 17](https://manga.ricard.blog/reviews/naruto/chapter/17/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
