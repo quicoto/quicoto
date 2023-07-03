@@ -14,7 +14,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [Episode 30: Moving](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-30-Moving-e257bd5)
+- [Episode 31: Jisang&#39;s trip to China](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-31-Jisangs-trip-to-China-e26f2ks)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 17](https://manga.ricard.blog/reviews/naruto/chapter/17/)
+- [Bakuman - Chapter 18](https://manga.ricard.blog/reviews/bakuman/chapter/18/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
