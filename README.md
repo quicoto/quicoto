@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 18](https://manga.ricard.blog/reviews/bakuman/chapter/18/)
+- [Bakuman - Chapter 19](https://manga.ricard.blog/reviews/bakuman/chapter/19/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Clover 1x56](https://quicoto.github.io/reviews/tv-shows/black-clover/1x56)
+- [King the Land 1x1](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
