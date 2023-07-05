@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x1](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x1)
+- [Black Clover 1x58](https://quicoto.github.io/reviews/tv-shows/black-clover/1x58)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
