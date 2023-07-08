@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 26 (2023)](https://ricard.blog/weeknote/week-26-2023/)
+- [Weeknote 27 (2023)](https://ricard.blog/weeknote/week-27-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 22](https://manga.ricard.blog/reviews/bakuman/chapter/22/)
+- [Bakuman - Chapter 25](https://manga.ricard.blog/reviews/bakuman/chapter/25/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x2](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x2)
+- [King the Land 1x3](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
