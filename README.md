@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 25](https://manga.ricard.blog/reviews/bakuman/chapter/25/)
+- [My Hero Academia - Chapter 1](https://manga.ricard.blog/reviews/my-hero-academia/chapter/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Naruto 1x5](https://quicoto.github.io/reviews/tv-shows/naruto/1x5)
+- [Zom 100 1x1](https://quicoto.github.io/reviews/tv-shows/zom-100/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
