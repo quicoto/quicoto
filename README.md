@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Zom 100 1x1](https://quicoto.github.io/reviews/tv-shows/zom-100/1x1)
+- [Naruto 1x8](https://quicoto.github.io/reviews/tv-shows/naruto/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
