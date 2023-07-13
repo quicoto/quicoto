@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Chapter 1](https://manga.ricard.blog/reviews/my-hero-academia/chapter/1/)
+- [My Hero Academia - Chapter 3](https://manga.ricard.blog/reviews/my-hero-academia/chapter/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Naruto 1x8](https://quicoto.github.io/reviews/tv-shows/naruto/1x8)
+- [Jigokuraku 1x13](https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x13)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
