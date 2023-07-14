@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Chapter 3](https://manga.ricard.blog/reviews/my-hero-academia/chapter/3/)
+- [My Hero Academia - Chapter 6](https://manga.ricard.blog/reviews/my-hero-academia/chapter/6/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jigokuraku 1x13](https://quicoto.github.io/reviews/tv-shows/jigokuraku/1x13)
+- [Jack Ryan 4x4](https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
