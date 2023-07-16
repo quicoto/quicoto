@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Chapter 7](https://manga.ricard.blog/reviews/my-hero-academia/chapter/7/)
+- [Haikyu - Chapter 18](https://manga.ricard.blog/reviews/haikyuu/chapter/18/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jack Ryan 4x4](https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x4)
+- [Jack Ryan 4x6](https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
