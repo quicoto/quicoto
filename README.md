@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 18](https://manga.ricard.blog/reviews/haikyuu/chapter/18/)
+- [Haikyu - Chapter 22](https://manga.ricard.blog/reviews/haikyuu/chapter/22/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jack Ryan 4x6](https://quicoto.github.io/reviews/tv-shows/jack-ryan/4x6)
+- [Zom 100 1x2](https://quicoto.github.io/reviews/tv-shows/zom-100/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Shinjuku Gyoen en primavera – Tokio 2023](https://www.quicoto.com/shinjuku-gyoen-en-primavera-tokio-2023/)
+- [Seocheon, Viaje a Corea del Sur 2022](https://www.quicoto.com/seocheon-viaje-a-corea-del-sur-2022/)
