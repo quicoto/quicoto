@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Oshi no Ko (Season 1)](https://anime.ricard.blog/reviews/oshi-no-ko-season-1/)
+- [Jigokuraku (Season 1)](https://anime.ricard.blog/reviews/jigokuraku-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 22](https://manga.ricard.blog/reviews/haikyuu/chapter/22/)
+- [Blue Lock - Chapter 15](https://manga.ricard.blog/reviews/blue-lock/chapter/15/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Zom 100 1x2](https://quicoto.github.io/reviews/tv-shows/zom-100/1x2)
+- [King the Land 1x8](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
