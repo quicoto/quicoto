@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x8](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x8)
+- [King the Land 1x9](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
