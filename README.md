@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 1x14](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x14)
+- [King the Land 1x10](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
