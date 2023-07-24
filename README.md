@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Chapter 17](https://manga.ricard.blog/reviews/blue-lock/chapter/17/)
+- [Bakuman - Chapter 28](https://manga.ricard.blog/reviews/bakuman/chapter/28/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x10](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x10)
+- [Enen no Shouboutai 1x16](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x16)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
