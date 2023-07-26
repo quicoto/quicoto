@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 28](https://manga.ricard.blog/reviews/bakuman/chapter/28/)
+- [Bakuman - Chapter 31](https://manga.ricard.blog/reviews/bakuman/chapter/31/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 1x16](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x16)
+- [King the Land 1x11](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
