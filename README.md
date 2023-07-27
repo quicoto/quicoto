@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 31](https://manga.ricard.blog/reviews/bakuman/chapter/31/)
+- [Bakuman - Chapter 34](https://manga.ricard.blog/reviews/bakuman/chapter/34/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x11](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x11)
+- [King the Land 1x12](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Seocheon, Viaje a Corea del Sur 2022](https://www.quicoto.com/seocheon-viaje-a-corea-del-sur-2022/)
+- [Gyozas en Harajuku, Tokio – Viaje Japón 2023](https://www.quicoto.com/gyozas-en-harajuku-tokio-2023/)
