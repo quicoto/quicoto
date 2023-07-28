@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 34](https://manga.ricard.blog/reviews/bakuman/chapter/34/)
+- [Naruto - Chapter 23](https://manga.ricard.blog/reviews/naruto/chapter/23/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
