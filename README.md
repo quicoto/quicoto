@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 27 (2023)](https://ricard.blog/weeknote/week-27-2023/)
+- [Review: Kinetic Strike (Drop Trooper #2)](https://ricard.blog/review/kinetic-strike/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #17: How to work with images on the web in 2023](https://share.transistor.fm/s/25eb311f)
+- [Ep. #18: Core Web Vitals in 2023](https://share.transistor.fm/s/c521517b)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x12](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x12)
+- [Enen no Shouboutai 1x17](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -38,7 +38,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Contact Front (Drop Trooper, #1)](https://www.goodreads.com/review/show/5365007686?utm_medium=api&amp;utm_source=rss)
+- [Kinetic Strike (Drop Trooper, #2)](https://www.goodreads.com/review/show/5560112470?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
