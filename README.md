@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 23](https://manga.ricard.blog/reviews/naruto/chapter/23/)
+- [Naruto - Chapter 27](https://manga.ricard.blog/reviews/naruto/chapter/27/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 1x17](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/1x17)
+- [Rurouni Kenshin (2023) 1x4](https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
