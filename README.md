@@ -14,7 +14,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [Episode 31: Jisang&#39;s trip to China](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-31-Jisangs-trip-to-China-e26f2ks)
+- [Episode 32: Kissing in Korean Dramas](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-32-Kissing-in-Korean-Dramas-e27hvca)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rurouni Kenshin (2023) 1x4](https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x4)
+- [Naruto 1x15](https://quicoto.github.io/reviews/tv-shows/naruto/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
