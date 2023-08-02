@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 27](https://manga.ricard.blog/reviews/naruto/chapter/27/)
+- [Haikyu - Chapter 29](https://manga.ricard.blog/reviews/haikyuu/chapter/29/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Glory 1x4](https://quicoto.github.io/reviews/tv-shows/the-glory/1x4)
+- [The Glory 1x6](https://quicoto.github.io/reviews/tv-shows/the-glory/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
