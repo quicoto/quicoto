@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Jigokuraku (Season 1)](https://anime.ricard.blog/reviews/jigokuraku-season-1/)
+- [Enen no Shouboutai (Season 1)](https://anime.ricard.blog/reviews/fire-force-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 29](https://manga.ricard.blog/reviews/haikyuu/chapter/29/)
+- [Haikyu - Chapter 31](https://manga.ricard.blog/reviews/haikyuu/chapter/31/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Glory 1x6](https://quicoto.github.io/reviews/tv-shows/the-glory/1x6)
+- [Enen no Shouboutai 2x1](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
