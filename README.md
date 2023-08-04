@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 2x1](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x1)
+- [Mushoku Tensei 1x7](https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
