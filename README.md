@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 31](https://manga.ricard.blog/reviews/haikyuu/chapter/31/)
+- [Blue Lock - Chapter 24](https://manga.ricard.blog/reviews/blue-lock/chapter/24/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mushoku Tensei 1x7](https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x7)
+- [The Glory 1x8](https://quicoto.github.io/reviews/tv-shows/the-glory/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
