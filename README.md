@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Chapter 31](https://manga.ricard.blog/reviews/blue-lock/chapter/31/)
+- [Bleach - Chapter 1](https://manga.ricard.blog/reviews/bleach/chapter/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Glory 1x9](https://quicoto.github.io/reviews/tv-shows/the-glory/1x9)
+- [The Glory 1x14](https://quicoto.github.io/reviews/tv-shows/the-glory/1x14)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
