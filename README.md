@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bleach - Chapter 1](https://manga.ricard.blog/reviews/bleach/chapter/1/)
+- [Ao Ashi - Chapter 7](https://manga.ricard.blog/reviews/ao-ashi/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Glory 1x14](https://quicoto.github.io/reviews/tv-shows/the-glory/1x14)
+- [The Glory 1x16](https://quicoto.github.io/reviews/tv-shows/the-glory/1x16)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
