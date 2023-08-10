@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #18: Core Web Vitals in 2023](https://share.transistor.fm/s/c521517b)
+- [Ep. #19: Should you be constantly challenged?](https://share.transistor.fm/s/f07b8b64)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [King the Land 1x14](https://quicoto.github.io/reviews/tv-shows/king-the-land/1x14)
+- [Enen no Shouboutai 2x7](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
