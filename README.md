@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Chapter 7](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/chapter/7/)
+- [Ao Ashi - Chapter 39](https://manga.ricard.blog/reviews/ao-ashi/chapter/39/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
