@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 39](https://manga.ricard.blog/reviews/ao-ashi/chapter/39/)
+- [Ao Ashi - Chapter 42](https://manga.ricard.blog/reviews/ao-ashi/chapter/42/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 2x7](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x7)
+- [Rurouni Kenshin (2023) 1x6](https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
