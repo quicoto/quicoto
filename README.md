@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 42](https://manga.ricard.blog/reviews/ao-ashi/chapter/42/)
+- [Ao Ashi - Chapter 50](https://manga.ricard.blog/reviews/ao-ashi/chapter/50/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
