@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rurouni Kenshin (2023) 1x6](https://quicoto.github.io/reviews/tv-shows/rurouni-kenshin-2023/1x6)
+- [Band of Brothers 1x1](https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
