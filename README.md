@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 50](https://manga.ricard.blog/reviews/ao-ashi/chapter/50/)
+- [Bleach - Chapter 7](https://manga.ricard.blog/reviews/bleach/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Band of Brothers 1x6](https://quicoto.github.io/reviews/tv-shows/band-of-brothers/1x6)
+- [A Spy Among Friends 1x2](https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Gyozas en Harajuku, Tokio – Viaje Japón 2023](https://www.quicoto.com/gyozas-en-harajuku-tokio-2023/)
+- [El mercado de Kwang Jang en Seúl 2022](https://www.quicoto.com/el-mercado-de-kwang-jang-en-seul-2022/)
