@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bleach - Chapter 7](https://manga.ricard.blog/reviews/bleach/chapter/7/)
+- [Naruto - Chapter 36](https://manga.ricard.blog/reviews/naruto/chapter/36/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [A Spy Among Friends 1x2](https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x2)
+- [A Spy Among Friends 1x4](https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
