@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 36](https://manga.ricard.blog/reviews/naruto/chapter/36/)
+- [Ao Ashi - Chapter 55](https://manga.ricard.blog/reviews/ao-ashi/chapter/55/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [A Spy Among Friends 1x4](https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x4)
+- [A Spy Among Friends 1x6](https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
