@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: Kinetic Strike (Drop Trooper #2)](https://ricard.blog/review/kinetic-strike/)
+- [Weeknote 33 (2023)](https://ricard.blog/weeknote/week-33-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #19: Should you be constantly challenged?](https://share.transistor.fm/s/f07b8b64)
+- [Ep. #20: Is Mobile First still a thing in 2023?](https://share.transistor.fm/s/c213ee8b)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 55](https://manga.ricard.blog/reviews/ao-ashi/chapter/55/)
+- [Ao Ashi - Chapter 58](https://manga.ricard.blog/reviews/ao-ashi/chapter/58/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [A Spy Among Friends 1x6](https://quicoto.github.io/reviews/tv-shows/a-spy-among-friends/1x6)
+- [Naruto 1x21](https://quicoto.github.io/reviews/tv-shows/naruto/1x21)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
