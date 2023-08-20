@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 58](https://manga.ricard.blog/reviews/ao-ashi/chapter/58/)
+- [Ao Ashi - Chapter 61](https://manga.ricard.blog/reviews/ao-ashi/chapter/61/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Naruto 1x21](https://quicoto.github.io/reviews/tv-shows/naruto/1x21)
+- [Bakuman 1x6](https://quicoto.github.io/reviews/tv-shows/bakuman/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
