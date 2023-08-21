@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 61](https://manga.ricard.blog/reviews/ao-ashi/chapter/61/)
+- [Tokyo Revengers - Chapter 22](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/22/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bakuman 1x6](https://quicoto.github.io/reviews/tv-shows/bakuman/1x6)
+- [Bakuman 1x8](https://quicoto.github.io/reviews/tv-shows/bakuman/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [El mercado de Kwang Jang en Seúl 2022](https://www.quicoto.com/el-mercado-de-kwang-jang-en-seul-2022/)
+- [Kiyomizu-dera el templo milenario de Kioto – Viaje a Japón 2023](https://www.quicoto.com/kiyomizudera-kioto-japon-2023/)
