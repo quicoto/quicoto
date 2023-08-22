@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 22](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/22/)
+- [Ao Ashi - Chapter 65](https://manga.ricard.blog/reviews/ao-ashi/chapter/65/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bakuman 1x8](https://quicoto.github.io/reviews/tv-shows/bakuman/1x8)
+- [Fullmetal Alchemist: Brotherhood 1x4](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
