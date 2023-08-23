@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 65](https://manga.ricard.blog/reviews/ao-ashi/chapter/65/)
+- [Ao Ashi - Chapter 72](https://manga.ricard.blog/reviews/ao-ashi/chapter/72/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x4](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x4)
+- [Bakuman 1x14](https://quicoto.github.io/reviews/tv-shows/bakuman/1x14)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
