@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 33](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/33/)
+- [Tokyo Revengers - Chapter 38](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/38/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x11](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x11)
+- [Bakuman 1x20](https://quicoto.github.io/reviews/tv-shows/bakuman/1x20)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
