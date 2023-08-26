@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 38](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/38/)
+- [Tokyo Revengers - Chapter 46](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/46/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bakuman 1x20](https://quicoto.github.io/reviews/tv-shows/bakuman/1x20)
+- [The Pacific 1x1](https://quicoto.github.io/reviews/tv-shows/the-pacific/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
