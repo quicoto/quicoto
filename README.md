@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Pacific 1x1](https://quicoto.github.io/reviews/tv-shows/the-pacific/1x1)
+- [The Pacific 1x8](https://quicoto.github.io/reviews/tv-shows/the-pacific/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
