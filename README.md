@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 46](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/46/)
+- [Tokyo Revengers - Chapter 51](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/51/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Pacific 1x8](https://quicoto.github.io/reviews/tv-shows/the-pacific/1x8)
+- [Bakuman 1x24](https://quicoto.github.io/reviews/tv-shows/bakuman/1x24)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Kiyomizu-dera el templo milenario de Kioto – Viaje a Japón 2023](https://www.quicoto.com/kiyomizudera-kioto-japon-2023/)
+- [Soba en la estación de Himeji – Viaje a Japón 2023](https://www.quicoto.com/soba-en-la-estacion-de-himeji-viaje-a-japon-2023/)
