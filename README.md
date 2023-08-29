@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Bakuman 1x24](https://quicoto.github.io/reviews/tv-shows/bakuman/1x24)
+- [Fullmetal Alchemist: Brotherhood 1x19](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x19)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
