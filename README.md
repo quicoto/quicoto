@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Enen no Shouboutai (Season 1)](https://anime.ricard.blog/reviews/fire-force-season-1/)
+- [Bakuman (Season 1)](https://anime.ricard.blog/reviews/bakuman-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 51](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/51/)
+- [Tokyo Revengers - Chapter 70](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/70/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x19](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x19)
+- [Fullmetal Alchemist: Brotherhood 1x24](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x24)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
