@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x24](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x24)
+- [Tokyo Revengers 1x22](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x22)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
