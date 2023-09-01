@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Revengers 1x22](https://quicoto.github.io/reviews/tv-shows/tokyo-revengers/1x22)
+- [Ahsoka 1x1](https://quicoto.github.io/reviews/tv-shows/ahsoka/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
