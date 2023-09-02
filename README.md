@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 70](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/70/)
+- [Ao Ashi - Chapter 83](https://manga.ricard.blog/reviews/ao-ashi/chapter/83/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ahsoka 1x1](https://quicoto.github.io/reviews/tv-shows/ahsoka/1x1)
+- [Jujutsu Kaisen 1x30](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x30)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
