@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x30](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x30)
+- [Enen no Shouboutai 2x13](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x13)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
