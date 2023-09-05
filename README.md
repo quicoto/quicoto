@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 83](https://manga.ricard.blog/reviews/ao-ashi/chapter/83/)
+- [Bakuman - Chapter 43](https://manga.ricard.blog/reviews/bakuman/chapter/43/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 2x13](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x13)
+- [Fullmetal Alchemist: Brotherhood 1x36](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x36)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
