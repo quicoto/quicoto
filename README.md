@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 43](https://manga.ricard.blog/reviews/bakuman/chapter/43/)
+- [Bleach - Chapter 11](https://manga.ricard.blog/reviews/bleach/chapter/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x36](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x36)
+- [Enen no Shouboutai 2x14](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x14)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
