@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 2x14](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x14)
+- [Fullmetal Alchemist: Brotherhood 1x41](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x41)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
