@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x41](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x41)
+- [Jujutsu Kaisen 1x31](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x31)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
