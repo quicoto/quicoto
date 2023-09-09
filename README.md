@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 33 (2023)](https://ricard.blog/weeknote/week-33-2023/)
+- [Weeknote 36 (2023)](https://ricard.blog/weeknote/week-36-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x31](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x31)
+- [Fullmetal Alchemist: Brotherhood 1x43](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x43)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
