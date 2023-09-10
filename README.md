@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bleach - Chapter 11](https://manga.ricard.blog/reviews/bleach/chapter/11/)
+- [Bleach - Chapter 16](https://manga.ricard.blog/reviews/bleach/chapter/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x43](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x43)
+- [Fullmetal Alchemist: Brotherhood 1x44](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x44)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
