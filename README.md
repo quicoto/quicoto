@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bleach - Chapter 16](https://manga.ricard.blog/reviews/bleach/chapter/16/)
+- [My Hero Academia - Chapter 9](https://manga.ricard.blog/reviews/my-hero-academia/chapter/9/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x44](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x44)
+- [Fullmetal Alchemist: Brotherhood 1x51](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x51)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
