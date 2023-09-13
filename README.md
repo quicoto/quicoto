@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to schedule posts with Mastodon](https://ricard.dev/how-to-schedule-posts-with-mastodon/)
+- [How to overwrite HTML with Cypress](https://ricard.dev/how-to-overwrite-html-with-cypress/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
