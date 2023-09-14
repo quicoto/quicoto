@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x51](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x51)
+- [Ahsoka 1x5](https://quicoto.github.io/reviews/tv-shows/ahsoka/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
