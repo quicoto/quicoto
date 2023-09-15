@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Chapter 9](https://manga.ricard.blog/reviews/my-hero-academia/chapter/9/)
+- [My Hero Academia - Chapter 11](https://manga.ricard.blog/reviews/my-hero-academia/chapter/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ahsoka 1x5](https://quicoto.github.io/reviews/tv-shows/ahsoka/1x5)
+- [Fullmetal Alchemist: Brotherhood 1x59](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x59)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
