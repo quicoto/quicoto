@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Bakuman (Season 1)](https://anime.ricard.blog/reviews/bakuman-season-1/)
+- [Fullmetal Alchemist: Brotherhood](https://anime.ricard.blog/reviews/fullmetal-alchemist-brotherhood/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fullmetal Alchemist: Brotherhood 1x61](https://quicoto.github.io/reviews/tv-shows/fullmetal-alchemist-brotherhood/1x61)
+- [Star Trek: Lower Decks 4x3](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Soba en la estación de Himeji – Viaje a Japón 2023](https://www.quicoto.com/soba-en-la-estacion-de-himeji-viaje-a-japon-2023/)
+- [Sewoon Arcade – Corea del Sur 2022](https://www.quicoto.com/sewoon-arcade-corea-del-sur-2022/)
