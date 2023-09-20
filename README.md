@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Chapter 17](https://manga.ricard.blog/reviews/my-hero-academia/chapter/17/)
+- [Haikyu - Chapter 39](https://manga.ricard.blog/reviews/haikyuu/chapter/39/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 4x3](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x3)
+- [Jujutsu Kaisen 1x32](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x32)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
