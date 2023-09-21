@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 39](https://manga.ricard.blog/reviews/haikyuu/chapter/39/)
+- [Haikyu - Chapter 41](https://manga.ricard.blog/reviews/haikyuu/chapter/41/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x32](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x32)
+- [Foundation 1x7](https://quicoto.github.io/reviews/tv-shows/foundation/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
