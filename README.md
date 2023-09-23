@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Foundation 1x7](https://quicoto.github.io/reviews/tv-shows/foundation/1x7)
+- [Jujutsu Kaisen 1x33](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x33)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
