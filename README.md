@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x33](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x33)
+- [Ahsoka 1x6](https://quicoto.github.io/reviews/tv-shows/ahsoka/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
