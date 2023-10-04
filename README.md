@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ahsoka 1x6](https://quicoto.github.io/reviews/tv-shows/ahsoka/1x6)
+- [Star Trek: Lower Decks 4x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
