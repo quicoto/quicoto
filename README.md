@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 4x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/4x5)
+- [Mushoku Tensei 1x17](https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
