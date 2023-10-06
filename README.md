@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mushoku Tensei 1x17](https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x17)
+- [Foundation 1x9](https://quicoto.github.io/reviews/tv-shows/foundation/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
