@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 41](https://manga.ricard.blog/reviews/haikyuu/chapter/41/)
+- [Haikyu - Chapter 44](https://manga.ricard.blog/reviews/haikyuu/chapter/44/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Foundation 1x9](https://quicoto.github.io/reviews/tv-shows/foundation/1x9)
+- [Mushoku Tensei 1x19](https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x19)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
