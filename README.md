@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 36 (2023)](https://ricard.blog/weeknote/week-36-2023/)
+- [The Korean convenience store](https://ricard.blog/story/the-korean-convenience-store/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mushoku Tensei 1x19](https://quicoto.github.io/reviews/tv-shows/mushoku-tensei/1x19)
+- [Given 1x1](https://quicoto.github.io/reviews/tv-shows/given/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
