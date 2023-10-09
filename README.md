@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 44](https://manga.ricard.blog/reviews/haikyuu/chapter/44/)
+- [Naruto - Chapter 45](https://manga.ricard.blog/reviews/naruto/chapter/45/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Given 1x1](https://quicoto.github.io/reviews/tv-shows/given/1x1)
+- [Given 1x10](https://quicoto.github.io/reviews/tv-shows/given/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Sewoon Arcade – Corea del Sur 2022](https://www.quicoto.com/sewoon-arcade-corea-del-sur-2022/)
+- [Aterrizando en Boston, Viaje a USA 2023](https://www.quicoto.com/aterrizando-en-boston-viaje-a-usa-2023/)
