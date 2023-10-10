@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 45](https://manga.ricard.blog/reviews/naruto/chapter/45/)
+- [My Hero Academia - Chapter 19](https://manga.ricard.blog/reviews/my-hero-academia/chapter/19/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Given 1x10](https://quicoto.github.io/reviews/tv-shows/given/1x10)
+- [Given 1x11](https://quicoto.github.io/reviews/tv-shows/given/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Aterrizando en Boston, Viaje a USA 2023](https://www.quicoto.com/aterrizando-en-boston-viaje-a-usa-2023/)
+- [Asakusa, Tokio – Viaje a Japón 2023](https://www.quicoto.com/asakusa-tokio-viaje-a-japon-2023/)
