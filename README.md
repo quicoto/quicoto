@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #20: Is Mobile First still a thing in 2023?](https://share.transistor.fm/s/c213ee8b)
+- [Ep. #21: How to find time for career development?](https://share.transistor.fm/s/023e411c)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Chapter 26](https://manga.ricard.blog/reviews/my-hero-academia/chapter/26/)
+- [Ao Ashi - Chapter 94](https://manga.ricard.blog/reviews/ao-ashi/chapter/94/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
