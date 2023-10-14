@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [The Korean convenience store](https://ricard.blog/story/the-korean-convenience-store/)
+- [Weeknote 41 (2023)](https://ricard.blog/weeknote/week-41-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Chapter 94](https://manga.ricard.blog/reviews/ao-ashi/chapter/94/)
+- [Bakuman - Chapter 52](https://manga.ricard.blog/reviews/bakuman/chapter/52/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Given 1x11](https://quicoto.github.io/reviews/tv-shows/given/1x11)
+- [Sex Education 4x4](https://quicoto.github.io/reviews/tv-shows/sex-education/4x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
