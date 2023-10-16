@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 52](https://manga.ricard.blog/reviews/bakuman/chapter/52/)
+- [Naruto - Chapter 54](https://manga.ricard.blog/reviews/naruto/chapter/54/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sex Education 4x4](https://quicoto.github.io/reviews/tv-shows/sex-education/4x4)
+- [Enen no Shouboutai 2x17](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
