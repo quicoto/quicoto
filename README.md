@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 2x17](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x17)
+- [Sex Education 4x8](https://quicoto.github.io/reviews/tv-shows/sex-education/4x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
