@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sex Education 4x8](https://quicoto.github.io/reviews/tv-shows/sex-education/4x8)
+- [Enen no Shouboutai 4x21](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/4x21)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Asakusa, Tokio – Viaje a Japón 2023](https://www.quicoto.com/asakusa-tokio-viaje-a-japon-2023/)
+- [Atardacer en Seúl, Corea del Sur](https://www.quicoto.com/atardacer-en-seul-corea-del-sur/)
