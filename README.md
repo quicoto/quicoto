@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 4x21](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/4x21)
+- [Enen no Shouboutai 2x22](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x22)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
