@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Fullmetal Alchemist: Brotherhood](https://anime.ricard.blog/reviews/fullmetal-alchemist-brotherhood/)
+- [Fire Force Season 2 made no sense](https://anime.ricard.blog/rants/fire-force-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 2x22](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/2x22)
+- [Jujutsu Kaisen 1x37](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x37)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
