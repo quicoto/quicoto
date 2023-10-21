@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 41 (2023)](https://ricard.blog/weeknote/week-41-2023/)
+- [Weeknote 42 (2023)](https://ricard.blog/weeknote/week-42-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Chapter 54](https://manga.ricard.blog/reviews/naruto/chapter/54/)
+- [Tokyo Revengers - Chapter 73](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/73/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
