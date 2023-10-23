@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x37](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x37)
+- [The Devil&#39;s Plan 1x4](https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
