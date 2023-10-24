@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 42 (2023)](https://ricard.blog/weeknote/week-42-2023/)
+- [36](https://ricard.blog/personal/36/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 73](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/73/)
+- [Tokyo Revengers - Chapter 76](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/76/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
