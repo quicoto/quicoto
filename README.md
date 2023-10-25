@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 76](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/76/)
+- [Tokyo Revengers - Chapter 88](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/88/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
