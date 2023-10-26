@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #21: How to find time for career development?](https://share.transistor.fm/s/023e411c)
+- [Ep. #22: AI tools in our every day work](https://share.transistor.fm/s/2dd4e8b6)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
