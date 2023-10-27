@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Devil&#39;s Plan 1x4](https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x4)
+- [The Devil&#39;s Plan 1x5](https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
