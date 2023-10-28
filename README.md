@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [36](https://ricard.blog/personal/36/)
+- [Barcelona’s anti-privacy plan for public transport](https://ricard.blog/rant/barcelonas-anti-privacy-plan-for-public-transport/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Devil&#39;s Plan 1x5](https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x5)
+- [The Devil&#39;s Plan 1x7](https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
