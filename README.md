@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Devil&#39;s Plan 1x7](https://quicoto.github.io/reviews/tv-shows/the-devil-s-plan/1x7)
+- [Lupin 3x1](https://quicoto.github.io/reviews/tv-shows/lupin/3x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
