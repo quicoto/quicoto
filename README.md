@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lupin 3x1](https://quicoto.github.io/reviews/tv-shows/lupin/3x1)
+- [Jujutsu Kaisen 1x38](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x38)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
