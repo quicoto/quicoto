@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Tokyo Revengers - Chapter 88](https://manga.ricard.blog/reviews/tokyo-revengers/chapter/88/)
+- [Haikyu - Chapter 53](https://manga.ricard.blog/reviews/haikyuu/chapter/53/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x38](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x38)
+- [Sasaki to Miyano 1x4](https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
