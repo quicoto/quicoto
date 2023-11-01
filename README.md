@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sasaki to Miyano 1x4](https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x4)
+- [Sasaki to Miyano 1x5](https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
