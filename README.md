@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sasaki to Miyano 1x5](https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x5)
+- [Sasaki to Miyano 1x11](https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Atardacer en Seúl, Corea del Sur](https://www.quicoto.com/atardacer-en-seul-corea-del-sur/)
+- [Primera mañana en Boston – Viaje a USA 2023](https://www.quicoto.com/primera-manana-en-boston-viaje-a-usa-2023/)
