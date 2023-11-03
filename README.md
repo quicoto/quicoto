@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Chapter 53](https://manga.ricard.blog/reviews/haikyuu/chapter/53/)
+- [Blue Lock - Chapter 40](https://manga.ricard.blog/reviews/blue-lock/chapter/40/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sasaki to Miyano 1x11](https://quicoto.github.io/reviews/tv-shows/sasaki-to-miyano/1x11)
+- [Horimiya 1x2](https://quicoto.github.io/reviews/tv-shows/horimiya/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
