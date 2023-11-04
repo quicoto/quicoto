@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Chapter 40](https://manga.ricard.blog/reviews/blue-lock/chapter/40/)
+- [Servamp - Chapter 10](https://manga.ricard.blog/reviews/servamp/chapter/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Horimiya 1x2](https://quicoto.github.io/reviews/tv-shows/horimiya/1x2)
+- [Horimiya 1x3](https://quicoto.github.io/reviews/tv-shows/horimiya/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
