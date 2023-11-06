@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Fire Force Season 2 made no sense](https://anime.ricard.blog/rants/fire-force-season-2/)
+- [Horimiya](https://anime.ricard.blog/reviews/horimiya/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Horimiya 1x7](https://quicoto.github.io/reviews/tv-shows/horimiya/1x7)
+- [Horimiya: Piece 1x1](https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Primera mañana en Boston – Viaje a USA 2023](https://www.quicoto.com/primera-manana-en-boston-viaje-a-usa-2023/)
+- [Kurashiki, Japón 2023](https://www.quicoto.com/kurashiki-japon-2023/)
