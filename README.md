@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Horimiya: Piece 1x1](https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x1)
+- [Special Ops: Lioness 1x2](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
