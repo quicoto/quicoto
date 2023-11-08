@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Servamp - Chapter 10](https://manga.ricard.blog/reviews/servamp/chapter/10/)
+- [Wind Breaker - Chapter 5](https://manga.ricard.blog/reviews/wind-breaker/chapter/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 1x2](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x2)
+- [Horimiya: Piece 1x4](https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
