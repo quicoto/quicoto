@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Wind Breaker - Chapter 5](https://manga.ricard.blog/reviews/wind-breaker/chapter/5/)
+- [Kimetsu no Yaiba - Chapter 16](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/chapter/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Horimiya: Piece 1x4](https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x4)
+- [Special Ops: Lioness 1x3](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
