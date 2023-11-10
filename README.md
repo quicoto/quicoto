@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 1x3](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x3)
+- [Futurama 1x4](https://quicoto.github.io/reviews/tv-shows/futurama/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
