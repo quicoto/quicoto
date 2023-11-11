@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Barcelona’s anti-privacy plan for public transport](https://ricard.blog/rant/barcelonas-anti-privacy-plan-for-public-transport/)
+- [Weeknote 45 (2023)](https://ricard.blog/weeknote/week-45-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Futurama 1x4](https://quicoto.github.io/reviews/tv-shows/futurama/1x4)
+- [Horimiya: Piece 1x6](https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
