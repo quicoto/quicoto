@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 1x4](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x4)
+- [Special Ops: Lioness 1x6](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Kurashiki, Japón 2023](https://www.quicoto.com/kurashiki-japon-2023/)
+- [Dongdaemun y Samgakji, Seúl 2022](https://www.quicoto.com/dongdaemun-y-samgakji-seul-2022/)
