@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Horimiya: Piece 1x11](https://quicoto.github.io/reviews/tv-shows/horimiya-piece/1x11)
+- [Futurama 2x3](https://quicoto.github.io/reviews/tv-shows/futurama/2x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
