@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 45 (2023)](https://ricard.blog/weeknote/week-45-2023/)
+- [My first noise-cancelling earbuds](https://ricard.blog/other/my-first-noise-cancelling-earbuds/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Horimiya](https://anime.ricard.blog/reviews/horimiya/)
+- [Horimiya: Piece](https://anime.ricard.blog/reviews/horimiya-piece/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bleach - Volume 3](https://manga.ricard.blog/reviews/bleach/volume/3/)
+- [Blue Exorcist - Chapter 7](https://manga.ricard.blog/reviews/blue-exorcist/chapter/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 7x5](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x5)
+- [Futurama 2x6](https://quicoto.github.io/reviews/tv-shows/futurama/2x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
