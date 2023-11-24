@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Futurama 2x6](https://quicoto.github.io/reviews/tv-shows/futurama/2x6)
+- [Foundation 2x5](https://quicoto.github.io/reviews/tv-shows/foundation/2x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
