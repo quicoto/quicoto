@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Foundation 2x5](https://quicoto.github.io/reviews/tv-shows/foundation/2x5)
+- [Naruto 1x23](https://quicoto.github.io/reviews/tv-shows/naruto/1x23)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
