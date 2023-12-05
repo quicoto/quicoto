@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [My first noise-cancelling earbuds](https://ricard.blog/other/my-first-noise-cancelling-earbuds/)
+- [Weeknote 48 (2023)](https://ricard.blog/weeknote/week-48-2023/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Chapter 7](https://manga.ricard.blog/reviews/blue-exorcist/chapter/7/)
+- [Midori no Hibi - Volume 1](https://manga.ricard.blog/reviews/midori-no-hibi/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Naruto 1x23](https://quicoto.github.io/reviews/tv-shows/naruto/1x23)
+- [Naruto 1x24](https://quicoto.github.io/reviews/tv-shows/naruto/1x24)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Dongdaemun y Samgakji, Seúl 2022](https://www.quicoto.com/dongdaemun-y-samgakji-seul-2022/)
+- [Bienvenidos a Nueva York, 2023](https://www.quicoto.com/bienvenidos-a-nueva-york-2023/)
