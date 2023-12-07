@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Naruto 1x24](https://quicoto.github.io/reviews/tv-shows/naruto/1x24)
+- [Futurama 3x6](https://quicoto.github.io/reviews/tv-shows/futurama/3x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
