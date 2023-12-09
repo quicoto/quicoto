@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #22: AI tools in our every day work](https://share.transistor.fm/s/2dd4e8b6)
+- [Ep. #23: Impostor Syndrome in Frontend](https://share.transistor.fm/s/754a4435)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
