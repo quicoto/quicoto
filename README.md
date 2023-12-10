@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Futurama 3x6](https://quicoto.github.io/reviews/tv-shows/futurama/3x6)
+- [Rick and Morty 7x8](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
