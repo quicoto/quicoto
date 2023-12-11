@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Midori no Hibi - Volume 2](https://manga.ricard.blog/reviews/midori-no-hibi/volume/2/)
+- [Bakuman - Chapter 61](https://manga.ricard.blog/reviews/bakuman/chapter/61/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
