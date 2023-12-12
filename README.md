@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 7x8](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x8)
+- [Danshi Koukousei no Nichijou 1x3](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Bienvenidos a Nueva York, 2023](https://www.quicoto.com/bienvenidos-a-nueva-york-2023/)
+- [Nagoya – Viaje a Japón 2023](https://www.quicoto.com/nagoya-viaje-a-japon-2023/)
