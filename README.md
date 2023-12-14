@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Danshi Koukousei no Nichijou 1x3](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x3)
+- [Naruto 2x3](https://quicoto.github.io/reviews/tv-shows/naruto/2x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
