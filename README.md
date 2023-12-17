@@ -38,7 +38,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Kinetic Strike (Drop Trooper, #2)](https://www.goodreads.com/review/show/5560112470?utm_medium=api&amp;utm_source=rss)
+- [Against All Odds (Grimm&#39;s War, #1)](https://www.goodreads.com/review/show/5365007809?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
