@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Danshi Koukousei no Nichijou 1x5](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x5)
+- [Rick and Morty 7x10](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
