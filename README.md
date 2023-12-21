@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Chapter 61](https://manga.ricard.blog/reviews/bakuman/chapter/61/)
+- [My Hero Academia - Volume 4](https://manga.ricard.blog/reviews/my-hero-academia/volume/4/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 7x10](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/7x10)
+- [Danshi Koukousei no Nichijou 1x8](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
