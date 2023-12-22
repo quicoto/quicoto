@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Volume 4](https://manga.ricard.blog/reviews/my-hero-academia/volume/4/)
+- [Ao Ashi - Volume 10](https://manga.ricard.blog/reviews/ao-ashi/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
