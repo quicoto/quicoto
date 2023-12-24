@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Danshi Koukousei no Nichijou 1x8](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x8)
+- [Jujutsu Kaisen 1x46](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x46)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
