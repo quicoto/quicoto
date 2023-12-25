@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Volume 10](https://manga.ricard.blog/reviews/ao-ashi/volume/10/)
+- [Bakuman - Volume 8](https://manga.ricard.blog/reviews/bakuman/volume/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
