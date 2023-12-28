@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x46](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x46)
+- [Zom 100 1x10](https://quicoto.github.io/reviews/tv-shows/zom-100/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
