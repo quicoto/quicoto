@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Zom 100 1x10](https://quicoto.github.io/reviews/tv-shows/zom-100/1x10)
+- [Jujutsu Kaisen 1x47](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x47)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Nagoya – Viaje a Japón 2023](https://www.quicoto.com/nagoya-viaje-a-japon-2023/)
+- [Starfield Coex Mall – Viaje a Corea del Sur 2022](https://www.quicoto.com/starfield-coex-mall-viaje-a-corea-del-sur-2022/)
