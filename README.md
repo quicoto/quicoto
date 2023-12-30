@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Bakuman - Volume 8](https://manga.ricard.blog/reviews/bakuman/volume/8/)
+- [Naruto - Volume 7](https://manga.ricard.blog/reviews/naruto/volume/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x47](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x47)
+- [Danshi Koukousei no Nichijou 1x10](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Starfield Coex Mall – Viaje a Corea del Sur 2022](https://www.quicoto.com/starfield-coex-mall-viaje-a-corea-del-sur-2022/)
+- [Tour por el estadio de los Red Sox, Boston 2023](https://www.quicoto.com/tour-por-el-estadio-de-los-red-sox-boston-2023/)
