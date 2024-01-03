@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 7](https://manga.ricard.blog/reviews/naruto/volume/7/)
+- [Kimetsu no Yaiba - Volume 3](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
