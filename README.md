@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 3](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/3/)
+- [Servamp - Volume 3](https://manga.ricard.blog/reviews/servamp/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
