@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Servamp - Volume 3](https://manga.ricard.blog/reviews/servamp/volume/3/)
+- [Jujutsu Kaisen - Volume 0](https://manga.ricard.blog/reviews/jujutsu-kaisen/chapter/0/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Tour por el estadio de los Red Sox, Boston 2023](https://www.quicoto.com/tour-por-el-estadio-de-los-red-sox-boston-2023/)
+- [Munich en diciembre 2023](https://www.quicoto.com/munich-en-diciembre-2023/)
