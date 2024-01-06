@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 48 (2023)](https://ricard.blog/weeknote/week-48-2023/)
+- [Upcoming trip: it’s classified](https://ricard.blog/personal/upcoming-trip-its-classified/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Jujutsu Kaisen - Volume 0](https://manga.ricard.blog/reviews/jujutsu-kaisen/chapter/0/)
+- [Blue Exorcist - Volume 3](https://manga.ricard.blog/reviews/blue-exorcist/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
