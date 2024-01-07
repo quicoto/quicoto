@@ -18,11 +18,11 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to overwrite HTML with Cypress](https://ricard.dev/how-to-overwrite-html-with-cypress/)
+- [Daily workout with GitHub Actions](https://ricard.dev/daily-workout-with-github-actions/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Horimiya: Piece](https://anime.ricard.blog/reviews/horimiya-piece/)
+- [Jujutsu Kaisen: Season 2](https://anime.ricard.blog/reviews/jujutsu-kaisen-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
