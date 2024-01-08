@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Munich en diciembre 2023](https://www.quicoto.com/munich-en-diciembre-2023/)
+- [Santuario Meiji – Viaje Japón 2023](https://www.quicoto.com/santuario-meiji-viaje-japon-2023/)
