@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Danshi Koukousei no Nichijou 1x10](https://quicoto.github.io/reviews/tv-shows/danshi-koukousei-no-nichijou/1x10)
+- [Futurama 3x9](https://quicoto.github.io/reviews/tv-shows/futurama/3x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
