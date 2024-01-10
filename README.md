@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Upcoming trip: it’s classified](https://ricard.blog/personal/upcoming-trip-its-classified/)
+- [How do you write down ideas or thoughts?](https://ricard.blog/other/how-do-you-write-down-ideas-or-thoughts/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #23: Impostor Syndrome in Frontend](https://share.transistor.fm/s/754a4435)
+- [Ep. #24: Content management, decisions or options?](https://share.transistor.fm/s/3d125ad6)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Futurama 3x9](https://quicoto.github.io/reviews/tv-shows/futurama/3x9)
+- [Futurama 3x10](https://quicoto.github.io/reviews/tv-shows/futurama/3x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
