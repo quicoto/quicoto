@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [How do you write down ideas or thoughts?](https://ricard.blog/other/how-do-you-write-down-ideas-or-thoughts/)
+- [Cutting down on doom-scrolling](https://ricard.blog/personal/cutting-down-on-doom-scrolling/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 3](https://manga.ricard.blog/reviews/blue-exorcist/volume/3/)
+- [Blue Lock - Volume 6](https://manga.ricard.blog/reviews/blue-lock/volume/6/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Santuario Meiji – Viaje Japón 2023](https://www.quicoto.com/santuario-meiji-viaje-japon-2023/)
+- [Historias de Busan, Corea del Sur 2022](https://www.quicoto.com/historias-de-busan-corea-del-sur-2022/)
