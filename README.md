@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Futurama 3x10](https://quicoto.github.io/reviews/tv-shows/futurama/3x10)
+- [True Detective 1x3](https://quicoto.github.io/reviews/tv-shows/true-detective/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
