@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [True Detective 1x3](https://quicoto.github.io/reviews/tv-shows/true-detective/1x3)
+- [Boku no Kokoro no Yabai Yatsu 2x2](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/2x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Historias de Busan, Corea del Sur 2022](https://www.quicoto.com/historias-de-busan-corea-del-sur-2022/)
+- [Times Square – Nueva York 2023](https://www.quicoto.com/times-square-nueva-york-2023/)
