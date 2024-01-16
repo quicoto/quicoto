@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Cutting down on doom-scrolling](https://ricard.blog/personal/cutting-down-on-doom-scrolling/)
+- [Using certain acronyms at work makes you look lazy](https://ricard.blog/rant/using-certain-acronyms-at-work-makes-you-look-lazy/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Kokoro no Yabai Yatsu 2x2](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/2x2)
+- [Sono Bisque Doll wa Koi wo Suru 1x2](https://quicoto.github.io/reviews/tv-shows/sono-bisque-doll-wa-koi-wo-suru/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
