@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sono Bisque Doll wa Koi wo Suru 1x2](https://quicoto.github.io/reviews/tv-shows/sono-bisque-doll-wa-koi-wo-suru/1x2)
+- [Sono Bisque Doll wa Koi wo Suru 1x8](https://quicoto.github.io/reviews/tv-shows/sono-bisque-doll-wa-koi-wo-suru/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
