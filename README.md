@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 6](https://manga.ricard.blog/reviews/blue-lock/volume/6/)
+- [Haikyu - Volume 7](https://manga.ricard.blog/reviews/haikyuu/volume/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sono Bisque Doll wa Koi wo Suru 1x8](https://quicoto.github.io/reviews/tv-shows/sono-bisque-doll-wa-koi-wo-suru/1x8)
+- [True Detective 2x1](https://quicoto.github.io/reviews/tv-shows/true-detective/2x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
