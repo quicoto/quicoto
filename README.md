@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Using certain acronyms at work makes you look lazy](https://ricard.blog/rant/using-certain-acronyms-at-work-makes-you-look-lazy/)
+- [Weeknote 3 (2024)](https://ricard.blog/weeknote/week-3-2024/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [True Detective 2x1](https://quicoto.github.io/reviews/tv-shows/true-detective/2x1)
+- [Reacher 2x1](https://quicoto.github.io/reviews/tv-shows/reacher/2x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
