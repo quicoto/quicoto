@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 2x1](https://quicoto.github.io/reviews/tv-shows/reacher/2x1)
+- [Reacher 3x3](https://quicoto.github.io/reviews/tv-shows/reacher/3x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
