@@ -14,7 +14,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [Episode 32: Kissing in Korean Dramas](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/Episode-32-Kissing-in-Korean-Dramas-e27hvca)
+- [[ES] Episodio 33: preparativos de boda](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/ES-Episodio-33-preparativos-de-boda-e2eo1gg)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 3x3](https://quicoto.github.io/reviews/tv-shows/reacher/3x3)
+- [Boku no Kokoro no Yabai Yatsu 1x14](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x14)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Times Square – Nueva York 2023](https://www.quicoto.com/times-square-nueva-york-2023/)
+- [Mercadillos de Navidad – Munich, Alemania](https://www.quicoto.com/mercadillos-de-navidad-munich-alemania/)
