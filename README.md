@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 7](https://manga.ricard.blog/reviews/haikyuu/volume/7/)
+- [My Hero Academia - Volume 5](https://manga.ricard.blog/reviews/my-hero-academia/volume/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Kokoro no Yabai Yatsu 1x14](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x14)
+- [Reacher 2x8](https://quicoto.github.io/reviews/tv-shows/reacher/2x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
