@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [My Hero Academia - Volume 5](https://manga.ricard.blog/reviews/my-hero-academia/volume/5/)
+- [Dragon Ball - Volume 1](https://manga.ricard.blog/reviews/dragon-ball/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
