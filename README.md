@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 2x8](https://quicoto.github.io/reviews/tv-shows/reacher/2x8)
+- [Yakusoku no Neverland 1x2](https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
