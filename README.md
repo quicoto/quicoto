@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #24: Content management, decisions or options?](https://share.transistor.fm/s/3d125ad6)
+- [Ep. #25: Open sourcing our FE Build](https://share.transistor.fm/s/2defde56)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
