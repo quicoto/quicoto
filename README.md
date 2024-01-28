@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yakusoku no Neverland 1x4](https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x4)
+- [Masters of the air 1x2](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
