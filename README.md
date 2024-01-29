@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Masters of the air 1x2](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x2)
+- [For All Mankind 4x3](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
