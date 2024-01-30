@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Dragon Ball - Volume 1](https://manga.ricard.blog/reviews/dragon-ball/volume/1/)
+- [Naruto - Volume 8](https://manga.ricard.blog/reviews/naruto/volume/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 4x3](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x3)
+- [For All Mankind 4x5](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
