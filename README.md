@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 3 (2024)](https://ricard.blog/weeknote/week-3-2024/)
+- [Buying shoes, twice](https://ricard.blog/personal/buying-shoes-twice/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 4x5](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x5)
+- [Mashle 1x15](https://quicoto.github.io/reviews/tv-shows/mashle/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
