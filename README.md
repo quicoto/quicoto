@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mashle 1x15](https://quicoto.github.io/reviews/tv-shows/mashle/1x15)
+- [For All Mankind 4x6](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
