@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [For All Mankind 4x6](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x6)
+- [Yakusoku no Neverland 1x10](https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
