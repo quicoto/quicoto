@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #25: Open sourcing our FE Build](https://share.transistor.fm/s/2defde56)
+- [Ep. 26: How much UX should a FE developer know?](https://share.transistor.fm/s/9c77ad38)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yakusoku no Neverland 1x10](https://quicoto.github.io/reviews/tv-shows/yakusoku-no-neverland/1x10)
+- [Masters of the air 1x3](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
