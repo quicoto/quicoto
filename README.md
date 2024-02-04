@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Masters of the air 1x3](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x3)
+- [Solo Leveling 1x5](https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
