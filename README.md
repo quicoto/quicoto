@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Leveling 1x5](https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x5)
+- [For All Mankind 4x10](https://quicoto.github.io/reviews/tv-shows/for-all-mankind/4x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Mercadillos de Navidad – Munich, Alemania](https://www.quicoto.com/mercadillos-de-navidad-munich-alemania/)
+- [Cerezos en el barrio de Meguro, Tokio (2023)](https://www.quicoto.com/cerezos-en-el-barrio-de-meguro-tokio-2023/)
