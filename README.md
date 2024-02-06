@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 8](https://manga.ricard.blog/reviews/naruto/volume/8/)
+- [Jujutsu Kaisen - Volume 1](https://manga.ricard.blog/reviews/jujutsu-kaisen/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
