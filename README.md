@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Cerezos en el barrio de Meguro, Tokio (2023)](https://www.quicoto.com/cerezos-en-el-barrio-de-meguro-tokio-2023/)
+- [Fortaleza Hwasong, Suwon – Corea del Sur 2022](https://www.quicoto.com/fortaleza-hwasong-suwon-corea-del-sur-2022/)
