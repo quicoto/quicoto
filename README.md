@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Masters of the air 1x4](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x4)
+- [Boku no Kokoro no Yabai Yatsu 1x18](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x18)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
