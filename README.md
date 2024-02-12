@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Kokoro no Yabai Yatsu 1x18](https://quicoto.github.io/reviews/tv-shows/boku-no-kokoro-no-yabai-yatsu/1x18)
+- [Halo 1x2](https://quicoto.github.io/reviews/tv-shows/halo/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Fortaleza Hwasong, Suwon – Corea del Sur 2022](https://www.quicoto.com/fortaleza-hwasong-suwon-corea-del-sur-2022/)
+- [Boston bajo la lluvia, Viaje a USA 2023](https://www.quicoto.com/boston-bajo-la-lluvia-viaje-a-usa-2023/)
