@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Jujutsu Kaisen - Volume 1](https://manga.ricard.blog/reviews/jujutsu-kaisen/volume/1/)
+- [Blue Exorcist - Volume 4](https://manga.ricard.blog/reviews/blue-exorcist/volume/4/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Halo 1x2](https://quicoto.github.io/reviews/tv-shows/halo/1x2)
+- [Halo 1x3](https://quicoto.github.io/reviews/tv-shows/halo/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
