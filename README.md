@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Halo 1x3](https://quicoto.github.io/reviews/tv-shows/halo/1x3)
+- [Halo 1x4](https://quicoto.github.io/reviews/tv-shows/halo/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
