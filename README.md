@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Jujutsu Kaisen: Season 2](https://anime.ricard.blog/reviews/jujutsu-kaisen-season-2/)
+- [The Promised Neverland: Season 1](https://anime.ricard.blog/reviews/the-promised-neverland-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Barakamon 1x3](https://quicoto.github.io/reviews/tv-shows/barakamon/1x3)
+- [Halo 1x8](https://quicoto.github.io/reviews/tv-shows/halo/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
