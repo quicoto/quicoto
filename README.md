@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Halo 1x8](https://quicoto.github.io/reviews/tv-shows/halo/1x8)
+- [Halo 1x9](https://quicoto.github.io/reviews/tv-shows/halo/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Boston bajo la lluvia, Viaje a USA 2023](https://www.quicoto.com/boston-bajo-la-lluvia-viaje-a-usa-2023/)
+- [Amaneciendo en la gris Munich, Alemania](https://www.quicoto.com/amaneciendo-en-la-gris-munich-alemania/)
