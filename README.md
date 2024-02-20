@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Halo 1x9](https://quicoto.github.io/reviews/tv-shows/halo/1x9)
+- [Ninja Kamui 1x1](https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
