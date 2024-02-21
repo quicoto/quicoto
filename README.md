@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 4](https://manga.ricard.blog/reviews/blue-exorcist/volume/4/)
+- [Wind Breaker - Volume 4](https://manga.ricard.blog/reviews/wind-breaker/volume/4/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ninja Kamui 1x1](https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x1)
+- [Futurama 4x1](https://quicoto.github.io/reviews/tv-shows/futurama/4x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
