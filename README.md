@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Wind Breaker - Volume 4](https://manga.ricard.blog/reviews/wind-breaker/volume/4/)
+- [Blue Exorcist - Volume 5](https://manga.ricard.blog/reviews/blue-exorcist/volume/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
