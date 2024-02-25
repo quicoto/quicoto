@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Halo 2x2](https://quicoto.github.io/reviews/tv-shows/halo/2x2)
+- [Mashle 1x19](https://quicoto.github.io/reviews/tv-shows/mashle/1x19)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
