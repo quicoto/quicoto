@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mashle 1x19](https://quicoto.github.io/reviews/tv-shows/mashle/1x19)
+- [Tokyo Vice 2x2](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
