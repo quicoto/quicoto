@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 5](https://manga.ricard.blog/reviews/blue-exorcist/volume/5/)
+- [Ao Ashi - Volume 11](https://manga.ricard.blog/reviews/ao-ashi/volume/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
