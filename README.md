@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Ao Ashi - Volume 11](https://manga.ricard.blog/reviews/ao-ashi/volume/11/)
+- [Naruto - Volume 10](https://manga.ricard.blog/reviews/naruto/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 2x2](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x2)
+- [Tokyo Vice 2x3](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
