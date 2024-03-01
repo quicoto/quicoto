@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Buying shoes, twice](https://ricard.blog/personal/buying-shoes-twice/)
+- [Tokyo Vice is back (season 2)](https://ricard.blog/other/tokyo-vice-is-back-season-2/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 10](https://manga.ricard.blog/reviews/naruto/volume/10/)
+- [Naruto - Volume 11](https://manga.ricard.blog/reviews/naruto/volume/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 2x4](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x4)
+- [Ninja Kamui 1x3](https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -38,7 +38,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Against All Odds (Grimm&#39;s War, #1)](https://www.goodreads.com/review/show/5365007809?utm_medium=api&amp;utm_source=rss)
+- [With Grimm Resolve (Grimm&#39;s War, #2)](https://www.goodreads.com/review/show/6053793038?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
