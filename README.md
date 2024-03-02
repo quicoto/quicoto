@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Tokyo Vice is back (season 2)](https://ricard.blog/other/tokyo-vice-is-back-season-2/)
+- [Review: With Grimm Resolve (Grimm’s War #2)](https://ricard.blog/review/with-grimm-resolve/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
