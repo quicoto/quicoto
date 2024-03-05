@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ninja Kamui 1x3](https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x3)
+- [Masters of the air 1x7](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Amaneciendo en la gris Munich, Alemania](https://www.quicoto.com/amaneciendo-en-la-gris-munich-alemania/)
+- [El Castillo Hikone, Japón (2023)](https://www.quicoto.com/el-castillo-hikone-japon-2023/)
