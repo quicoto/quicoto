@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 11](https://manga.ricard.blog/reviews/naruto/volume/11/)
+- [Sasaki to Miyano - Volume 1](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Masters of the air 1x7](https://quicoto.github.io/reviews/tv-shows/masters-of-the-air/1x7)
+- [Futurama 4x2](https://quicoto.github.io/reviews/tv-shows/futurama/4x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
