@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Sasaki to Miyano - Volume 1](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/1/)
+- [Sasaki to Miyano - Volume 3](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Futurama 4x2](https://quicoto.github.io/reviews/tv-shows/futurama/4x2)
+- [Ninja Kamui 1x4](https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
