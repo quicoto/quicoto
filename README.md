@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ninja Kamui 1x4](https://quicoto.github.io/reviews/tv-shows/ninja-kamui/1x4)
+- [Halo 2x4](https://quicoto.github.io/reviews/tv-shows/halo/2x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
