@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: With Grimm Resolve (Grimm’s War #2)](https://ricard.blog/review/with-grimm-resolve/)
+- [Thank you, Akira Toriyama](https://ricard.blog/other/thank-you-akira-toriyama/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. 26: How much UX should a FE developer know?](https://share.transistor.fm/s/9c77ad38)
+- [Ep. #28: Chucho loves Single Page Apps](https://share.transistor.fm/s/ed4f6502)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Sasaki to Miyano - Volume 3](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/3/)
+- [Naruto - Volume 12](https://manga.ricard.blog/reviews/naruto/volume/12/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
