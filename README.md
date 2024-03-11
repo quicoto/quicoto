@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 12](https://manga.ricard.blog/reviews/naruto/volume/12/)
+- [Sasaki to Miyano - Volume 5](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
