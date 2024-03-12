@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Sasaki to Miyano - Volume 5](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/5/)
+- [Sasaki to Miyano - Volume 6](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/6/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Halo 2x4](https://quicoto.github.io/reviews/tv-shows/halo/2x4)
+- [Tokyo Vice 2x6](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
