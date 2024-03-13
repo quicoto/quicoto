@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 2x6](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x6)
+- [Solo Leveling 1x9](https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
