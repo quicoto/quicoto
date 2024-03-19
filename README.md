@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Thank you, Akira Toriyama](https://ricard.blog/other/thank-you-akira-toriyama/)
+- [Japan Mission: get anime t-shirts](https://ricard.blog/other/japan-mission-get-anime-t-shirts/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -14,7 +14,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
-- [[ES] Episodio 33: preparativos de boda](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/ES-Episodio-33-preparativos-de-boda-e2eo1gg)
+- [[ES] Episodio 34: Minki por España](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/ES-Episodio-34-Minki-por-Espaa-e2h7iun)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Leveling 1x9](https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x9)
+- [Tokyo Vice 2x7](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
