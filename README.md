@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [El Castillo Hikone, Japón (2023)](https://www.quicoto.com/el-castillo-hikone-japon-2023/)
+- [Volviendo a Japón, por 4ª vez (2024)](https://www.quicoto.com/volviendo-a-japon-por-4a-vez-2024/)
