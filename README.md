@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Aterrizando en Seúl – Viaje a Japón 2024](https://www.quicoto.com/aterrizando-en-seul-viaje-a-japon-2024/)
+- [Llegando a Tokio – Viaje a Japón 2024](https://www.quicoto.com/llegando-a-tokio-viaje-a-japon-2024/)
