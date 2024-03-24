@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Llegando a Tokio – Viaje a Japón 2024](https://www.quicoto.com/llegando-a-tokio-viaje-a-japon-2024/)
+- [Frío y lluvia en Tokio – Viaje a Japón 2024](https://www.quicoto.com/frio-y-lluvia-en-tokio-viaje-a-japon-2024/)
