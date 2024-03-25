@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Frío y lluvia en Tokio – Viaje a Japón 2024](https://www.quicoto.com/frio-y-lluvia-en-tokio-viaje-a-japon-2024/)
+- [El Monte Fuji, a medias – Viaje a Japón 2024](https://www.quicoto.com/el-monte-fuji-a-medias-viaje-a-japon-2024/)
