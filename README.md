@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 2x7](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x7)
+- [Mashle 1x22](https://quicoto.github.io/reviews/tv-shows/mashle/1x22)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [El Monte Fuji, a medias – Viaje a Japón 2024](https://www.quicoto.com/el-monte-fuji-a-medias-viaje-a-japon-2024/)
+- [Kawaguchiko congelado – Viaje a Japón 2024](https://www.quicoto.com/kawaguchiko-congelado-viaje-a-japon-2024/)
