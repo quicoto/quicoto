@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Kawaguchiko congelado – Viaje a Japón 2024](https://www.quicoto.com/kawaguchiko-congelado-viaje-a-japon-2024/)
+- [Más lluvia en Matsumoto – Viaje a Japón 2024](https://www.quicoto.com/mas-lluvia-en-matsumoto-viaje-a-japon-2024/)
