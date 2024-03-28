@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Más lluvia en Matsumoto – Viaje a Japón 2024](https://www.quicoto.com/mas-lluvia-en-matsumoto-viaje-a-japon-2024/)
+- [En las montañas de Nagano – Viaje a Japón 2024](https://www.quicoto.com/en-las-montanas-de-nagano-viaje-a-japon-2024/)
