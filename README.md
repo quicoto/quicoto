@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [En las montañas de Nagano – Viaje a Japón 2024](https://www.quicoto.com/en-las-montanas-de-nagano-viaje-a-japon-2024/)
+- [De tren en tren – Viaje a Japón 2024](https://www.quicoto.com/de-tren-en-tren-viaje-a-japon-2024/)
