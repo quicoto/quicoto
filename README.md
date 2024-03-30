@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [De tren en tren – Viaje a Japón 2024](https://www.quicoto.com/de-tren-en-tren-viaje-a-japon-2024/)
+- [Suben las temperaturas – Viaje a Japón 2024](https://www.quicoto.com/suben-las-temperaturas-viaje-a-japon-2024/)
