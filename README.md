@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Suben las temperaturas – Viaje a Japón 2024](https://www.quicoto.com/suben-las-temperaturas-viaje-a-japon-2024/)
+- [Anime en Sendai – Viaje a Japón 2024](https://www.quicoto.com/anime-en-sendai-viaje-a-japon-2024/)
