@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Anime en Sendai – Viaje a Japón 2024](https://www.quicoto.com/anime-en-sendai-viaje-a-japon-2024/)
+- [Castillos y flores – Viaje a Japón 2024](https://www.quicoto.com/castillos-y-flores-viaje-a-japon-2024/)
