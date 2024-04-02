@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mashle 1x22](https://quicoto.github.io/reviews/tv-shows/mashle/1x22)
+- [Sousou no Frieren 1x4](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Castillos y flores – Viaje a Japón 2024](https://www.quicoto.com/castillos-y-flores-viaje-a-japon-2024/)
+- [Demasiado rural – Viaje a Japón 2024](https://www.quicoto.com/demasiado-rural-viaje-a-japon-2024/)
