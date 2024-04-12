@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ace of Diamond 1x40](https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x40)
+- [Sousou no Frieren 1x28](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x28)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Cerezos en Tokio – Viaje a Japón 2024](https://www.quicoto.com/cerezos-en-tokio-viaje-a-japon-2024/)
+- [Ginza, el Manhattan de Tokio – Viaje a Japón 2024](https://www.quicoto.com/ginza-el-manhattan-de-tokio-viaje-a-japon-2024/)
