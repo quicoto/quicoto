@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sousou no Frieren 1x28](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x28)
+- [Spy x Family 1x15](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
