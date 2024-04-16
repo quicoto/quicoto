@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Spy x Family 1x15](https://quicoto.github.io/reviews/tv-shows/spy-x-family/1x15)
+- [Ace of Diamond 1x44](https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x44)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
