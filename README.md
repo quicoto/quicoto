@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Japan Mission: get anime t-shirts](https://ricard.blog/other/japan-mission-get-anime-t-shirts/)
+- [Pixel Watch 2: thoughts after 2 months](https://ricard.blog/other/pixel-watch-2-thoughts-after-2-months/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
