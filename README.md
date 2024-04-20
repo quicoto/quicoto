@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fallout 1x1](https://quicoto.github.io/reviews/tv-shows/fallout/1x1)
+- [Ace of Diamond 1x47](https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x47)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
