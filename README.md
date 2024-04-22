@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Sasaki to Miyano - Volume 6](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/6/)
+- [Jujutsu Kaisen - Volume 2](https://manga.ricard.blog/reviews/jujutsu-kaisen/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Ginza, el Manhattan de Tokio – Viaje a Japón 2024](https://www.quicoto.com/ginza-el-manhattan-de-tokio-viaje-a-japon-2024/)
+- [¿Cómo fué el Viaje a Japón 2024?](https://www.quicoto.com/como-fue-el-viaje-a-japon-2024/)
