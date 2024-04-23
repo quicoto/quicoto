@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ace of Diamond 1x47](https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x47)
+- [Fresh Off The Boat 1x2](https://quicoto.github.io/reviews/tv-shows/fresh-off-the-boat/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
