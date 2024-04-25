@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fresh Off The Boat 1x2](https://quicoto.github.io/reviews/tv-shows/fresh-off-the-boat/1x2)
+- [Tokyo Vice 2x9](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
