@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Jujutsu Kaisen - Volume 2](https://manga.ricard.blog/reviews/jujutsu-kaisen/volume/2/)
+- [Naruto - Volume 16](https://manga.ricard.blog/reviews/naruto/volume/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 2x9](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x9)
+- [Tokyo Vice 2x10](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
