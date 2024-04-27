@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Pixel Watch 2: thoughts after 2 months](https://ricard.blog/other/pixel-watch-2-thoughts-after-2-months/)
+- [Weeknote 17 (2024)](https://ricard.blog/weeknote/week-17-2024/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 16](https://manga.ricard.blog/reviews/naruto/volume/16/)
+- [Dragon Ball - Volume 2](https://manga.ricard.blog/reviews/dragon-ball/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
