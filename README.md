@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland: Season 1](https://anime.ricard.blog/reviews/the-promised-neverland-season-1/)
+- [Solo Leveling: Season 1](https://anime.ricard.blog/reviews/solo-leveling-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
