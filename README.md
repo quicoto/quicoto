@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Solo Leveling: Season 1](https://anime.ricard.blog/reviews/solo-leveling-season-1/)
+- [Haikyu!! Movie: Battle of the Garbage Dump](https://anime.ricard.blog/reviews/haikyu-movie-battle-garbage-dump/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tokyo Vice 2x10](https://quicoto.github.io/reviews/tv-shows/tokyo-vice/2x10)
+- [Kaiju No. 8 1x3](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
