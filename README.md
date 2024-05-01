@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Haikyu!! Movie: Battle of the Garbage Dump](https://anime.ricard.blog/reviews/haikyu-movie-battle-garbage-dump/)
+- [Frieren: Beyond Journey&#39;s End (Season 1)](https://anime.ricard.blog/reviews/frieren-beyond-journeys-end-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Dragon Ball - Volume 2](https://manga.ricard.blog/reviews/dragon-ball/volume/2/)
+- [The Promised Neverland - Volume 1](https://manga.ricard.blog/reviews/the-promised-neverland/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaiju No. 8 1x3](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x3)
+- [Kyuujitsu no Warumono-san 1x2](https://quicoto.github.io/reviews/tv-shows/kyuujitsu-no-warumono-san/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
