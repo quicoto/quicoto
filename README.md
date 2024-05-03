@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 2](https://manga.ricard.blog/reviews/the-promised-neverland/volume/2/)
+- [Wind Breaker - Volume 5](https://manga.ricard.blog/reviews/wind-breaker/volume/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ace of Diamond 1x54](https://quicoto.github.io/reviews/tv-shows/ace-of-diamond/1x54)
+- [Kyuujitsu no Warumono-san 1x4](https://quicoto.github.io/reviews/tv-shows/kyuujitsu-no-warumono-san/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
