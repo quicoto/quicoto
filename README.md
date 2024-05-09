@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wind Breaker 1x5](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x5)
+- [Fallout 1x4](https://quicoto.github.io/reviews/tv-shows/fallout/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
