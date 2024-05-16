@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Wind Breaker - Volume 5](https://manga.ricard.blog/reviews/wind-breaker/volume/5/)
+- [The Promised Neverland - Volume 3](https://manga.ricard.blog/reviews/the-promised-neverland/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
