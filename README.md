@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fallout 1x4](https://quicoto.github.io/reviews/tv-shows/fallout/1x4)
+- [Kaiju No. 8 1x5](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
