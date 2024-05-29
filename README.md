@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #28: Chucho loves Single Page Apps](https://share.transistor.fm/s/ed4f6502)
+- [Ep. #30: Accessibility Month](https://share.transistor.fm/s/a4921250)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
