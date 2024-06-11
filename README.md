@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #30: Accessibility Month](https://share.transistor.fm/s/a4921250)
+- [Ep. #31: How we started 2 frontend podcasts](https://share.transistor.fm/s/468b5b23)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
