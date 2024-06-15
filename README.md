@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 17 (2024)](https://ricard.blog/weeknote/week-17-2024/)
+- [Rewatching Game of Thrones](https://ricard.blog/other/rewatching-game-of-thrones/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
