@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #31: How we started 2 frontend podcasts](https://share.transistor.fm/s/468b5b23)
+- [Ep. #32: Knowledge Sharing in your Team](https://share.transistor.fm/s/f61a9653)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
