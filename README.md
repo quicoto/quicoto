@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaiju No. 8 1x5](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x5)
+- [Boku no Hero Academia 7x1](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/7x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
