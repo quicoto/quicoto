@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #32: Knowledge Sharing in your Team](https://share.transistor.fm/s/f61a9653)
+- [Ep. #33: How to write quality and maintainable code?](https://share.transistor.fm/s/0a9ffc12)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 7x1](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/7x1)
+- [Boku no Hero Academia 7x2](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/7x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
