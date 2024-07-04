@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Frieren: Beyond Journey&#39;s End (Season 1)](https://anime.ricard.blog/reviews/frieren-beyond-journeys-end-season-1/)
+- [Kaiju No. 8 (Season 1)](https://anime.ricard.blog/reviews/kaiju-no-8-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 7x2](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/7x2)
+- [Kaiju No. 8 1x12](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
