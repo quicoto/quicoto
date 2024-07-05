@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Rewatching Game of Thrones](https://ricard.blog/other/rewatching-game-of-thrones/)
+- [ANBERNIC RG35XX Plus](https://ricard.blog/review/anbernic-rg35xx-plus/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaiju No. 8 1x12](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x12)
+- [Oshi No Ko 1x12](https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
