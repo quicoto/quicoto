@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Oshi No Ko 1x12](https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x12)
+- [Kimetsu no Yaiba 5x3](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
