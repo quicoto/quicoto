@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Kaiju No. 8 (Season 1)](https://anime.ricard.blog/reviews/kaiju-no-8-season-1/)
+- [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anime.ricard.blog/reviews/demon-slayer-kimetsu-no-yaiba-hashira-training-arc/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
