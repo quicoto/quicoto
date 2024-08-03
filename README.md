@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kimetsu no Yaiba 5x8](https://quicoto.github.io/reviews/tv-shows/kimetsu-no-yaiba/5x8)
+- [Wind Breaker 1x8](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [¿Cómo fué el Viaje a Japón 2024?](https://www.quicoto.com/como-fue-el-viaje-a-japon-2024/)
+- [Berlín, primeras impresiones 2024](https://www.quicoto.com/berlin-primeras-impresiones-2024/)
