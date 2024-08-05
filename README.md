@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Berlín, primeras impresiones 2024](https://www.quicoto.com/berlin-primeras-impresiones-2024/)
+- [Volviendo a Atenas, Grecia 2024](https://www.quicoto.com/volviendo-a-atenas-grecia-2024/)
