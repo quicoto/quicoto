@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Daily workout with GitHub Actions](https://ricard.dev/daily-workout-with-github-actions/)
+- [Server upgrade for less money](https://ricard.dev/server-upgrade-for-less-money/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wind Breaker 1x8](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x8)
+- [VTuber Legend 1x2](https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Volviendo a Atenas, Grecia 2024](https://www.quicoto.com/volviendo-a-atenas-grecia-2024/)
+- [Viendo a los Red Sox en Boston 2023](https://www.quicoto.com/viendo-a-los-red-sox-en-boston-2023/)
