@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [VTuber Legend 1x2](https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x2)
+- [VTuber Legend 1x3](https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
