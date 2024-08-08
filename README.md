@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 7](https://manga.ricard.blog/reviews/the-promised-neverland/volume/7/)
+- [Attack on Titan - Volumes 10](https://manga.ricard.blog/reviews/attack-on-titan/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [VTuber Legend 1x3](https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x3)
+- [VTuber Legend 1x4](https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -38,8 +38,8 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [With Grimm Resolve (Grimm&#39;s War, #2)](https://www.goodreads.com/review/show/6053793038?utm_medium=api&amp;utm_source=rss)
+- [Liquid Leadership: From Woodstock to Wikipedia -- Multigenerational Management Ideas That Are Changing the Way We Run Things](https://www.goodreads.com/review/show/3162744847?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Viendo a los Red Sox en Boston 2023](https://www.quicoto.com/viendo-a-los-red-sox-en-boston-2023/)
+- [Últimas fotografías del Viaje a Corea del Sur 2022](https://www.quicoto.com/ultimas-fotografias-del-viaje-a-corea-del-sur-2022/)
