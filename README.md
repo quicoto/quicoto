@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [VTuber Legend 1x4](https://quicoto.github.io/reviews/tv-shows/v-tuber-legend/1x4)
+- [Wind Breaker 1x9](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
