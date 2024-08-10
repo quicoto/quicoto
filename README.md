@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Demon Slayer: Kimetsu no Yaiba Hashira Training Arc](https://anime.ricard.blog/reviews/demon-slayer-kimetsu-no-yaiba-hashira-training-arc/)
+- [Wind Breaker (Season 1)](https://anime.ricard.blog/reviews/wind-breaker-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wind Breaker 1x9](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x9)
+- [Wind Breaker 1x12](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
