@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Últimas fotografías del Viaje a Corea del Sur 2022](https://www.quicoto.com/ultimas-fotografias-del-viaje-a-corea-del-sur-2022/)
+- [Castillo y baños en Atami – Viaje a Japón 2023](https://www.quicoto.com/castillo-y-banos-en-atami-viaje-a-japon-2023/)
