@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ted Lasso 2x4](https://quicoto.github.io/reviews/tv-shows/ted-lasso/2x4)
+- [Ted Lasso 2x7](https://quicoto.github.io/reviews/tv-shows/ted-lasso/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Castillo y baños en Atami – Viaje a Japón 2023](https://www.quicoto.com/castillo-y-banos-en-atami-viaje-a-japon-2023/)
+- [28 de diciembre 2023, Barcelona](https://www.quicoto.com/28-de-diciembre-2023-barcelona/)
