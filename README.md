@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ted Lasso 2x7](https://quicoto.github.io/reviews/tv-shows/ted-lasso/2x7)
+- [Ted Lasso 2x12](https://quicoto.github.io/reviews/tv-shows/ted-lasso/2x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
