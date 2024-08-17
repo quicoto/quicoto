@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [28 de diciembre 2023, Barcelona](https://www.quicoto.com/28-de-diciembre-2023-barcelona/)
+- [Navidad en Marienplatz – Viaje a Munich 2023](https://www.quicoto.com/navidad-en-marienplatz-viaje-a-munich-2023/)
