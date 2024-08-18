@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Server upgrade for less money](https://ricard.dev/server-upgrade-for-less-money/)
+- [How to turn off thumbnail generation in WordPress](https://ricard.dev/how-to-turn-off-thumbnail-generation-in-wordpress/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Navidad en Marienplatz – Viaje a Munich 2023](https://www.quicoto.com/navidad-en-marienplatz-viaje-a-munich-2023/)
+- [Pancakes, policía y bolos – Viaje a USA 2023](https://www.quicoto.com/pancakes-policia-y-bolos-viaje-a-usa-2023/)
