@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Pancakes, policía y bolos – Viaje a USA 2023](https://www.quicoto.com/pancakes-policia-y-bolos-viaje-a-usa-2023/)
+- [Acrópolis de Atenas – Viaje a Grecia 2024](https://www.quicoto.com/acropolis-de-atenas-viaje-a-grecia-2024/)
