@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ted Lasso 3x9](https://quicoto.github.io/reviews/tv-shows/ted-lasso/3x9)
+- [Run with the Wind 1x2](https://quicoto.github.io/reviews/tv-shows/run-with-the-wind/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
