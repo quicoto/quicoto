@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Run with the Wind 1x5](https://quicoto.github.io/reviews/tv-shows/run-with-the-wind/1x5)
+- [The Bear 1x4](https://quicoto.github.io/reviews/tv-shows/the-bear/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
