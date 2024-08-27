@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Bear 1x4](https://quicoto.github.io/reviews/tv-shows/the-bear/1x4)
+- [Black Knight 1x1](https://quicoto.github.io/reviews/tv-shows/black-knight/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
