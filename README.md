@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Attack on Titan - Volumes 10](https://manga.ricard.blog/reviews/attack-on-titan/volume/10/)
+- [The Promised Neverland - Volume 8](https://manga.ricard.blog/reviews/the-promised-neverland/volume/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Lord of the Rings: The Rings of Power 2x3](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x3)
+- [The Lord of the Rings: The Rings of Power 2x4](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
