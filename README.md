@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Run with the Wind 1x8](https://quicoto.github.io/reviews/tv-shows/run-with-the-wind/1x8)
+- [The Lord of the Rings: The Rings of Power 2x5](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
