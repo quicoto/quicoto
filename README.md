@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Lord of the Rings: The Rings of Power 2x5](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x5)
+- [Prision Break 1x15](https://quicoto.github.io/reviews/tv-shows/prision-break/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
