@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #33: How to write quality and maintainable code?](https://share.transistor.fm/s/0a9ffc12)
+- [Ep. #34: Development conferences. Worth it?](https://share.transistor.fm/s/b59c6ff1)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Prision Break 1x15](https://quicoto.github.io/reviews/tv-shows/prision-break/1x15)
+- [Prision Break 1x17](https://quicoto.github.io/reviews/tv-shows/prision-break/1x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Acrópolis de Atenas – Viaje a Grecia 2024](https://www.quicoto.com/acropolis-de-atenas-viaje-a-grecia-2024/)
+- [Día 1 en Kawaguchiko – Viaje a Japón 2024](https://www.quicoto.com/dia-1-en-kawaguchiko-viaje-a-japon-2024/)
