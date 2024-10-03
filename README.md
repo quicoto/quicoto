@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Run with the Wind 1x11](https://quicoto.github.io/reviews/tv-shows/run-with-the-wind/1x11)
+- [Prision Break 1x20](https://quicoto.github.io/reviews/tv-shows/prision-break/1x20)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
