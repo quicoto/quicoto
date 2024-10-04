@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Prision Break 1x20](https://quicoto.github.io/reviews/tv-shows/prision-break/1x20)
+- [The Lord of the Rings: The Rings of Power 2x7](https://quicoto.github.io/reviews/tv-shows/the-lord-of-the-rings-the-rings-of-power/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -38,7 +38,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Liquid Leadership: From Woodstock to Wikipedia -- Multigenerational Management Ideas That Are Changing the Way We Run Things](https://www.goodreads.com/review/show/3162744847?utm_medium=api&amp;utm_source=rss)
+- [One Decisive Victory (Grimm&#39;s War, #3)](https://www.goodreads.com/review/show/6304575342?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
