@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [ANBERNIC RG35XX Plus](https://ricard.blog/review/anbernic-rg35xx-plus/)
+- [My first full season of baseball](https://ricard.blog/rant/my-first-full-season-of-baseball/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #34: Development conferences. Worth it?](https://share.transistor.fm/s/b59c6ff1)
+- [Ep. #35: Patterns, anti-patterns and dark patterns](https://share.transistor.fm/s/b4800215)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
