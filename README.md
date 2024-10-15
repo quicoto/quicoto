@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [My first full season of baseball](https://ricard.blog/rant/my-first-full-season-of-baseball/)
+- [3 days in Venice, Italy](https://ricard.blog/personal/3-days-in-venice-italy/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
