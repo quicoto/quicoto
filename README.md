@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Prision Break 1x22](https://quicoto.github.io/reviews/tv-shows/prision-break/1x22)
+- [Prision Break 2x14](https://quicoto.github.io/reviews/tv-shows/prision-break/2x14)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
