@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [3 days in Venice, Italy](https://ricard.blog/personal/3-days-in-venice-italy/)
+- [Re-Reading my old posts](https://ricard.blog/other/re-reading-my-old-posts/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Prision Break 2x14](https://quicoto.github.io/reviews/tv-shows/prision-break/2x14)
+- [Prision Break 2x17](https://quicoto.github.io/reviews/tv-shows/prision-break/2x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
