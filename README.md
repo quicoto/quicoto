@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Re-Reading my old posts](https://ricard.blog/other/re-reading-my-old-posts/)
+- [37](https://ricard.blog/personal/37/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
