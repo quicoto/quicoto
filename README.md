@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #35: Patterns, anti-patterns and dark patterns](https://share.transistor.fm/s/b4800215)
+- [Ep. #36: How to keep up to date with FE?](https://share.transistor.fm/s/9b4121f5)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Prision Break 2x17](https://quicoto.github.io/reviews/tv-shows/prision-break/2x17)
+- [Run with the Wind 1x12](https://quicoto.github.io/reviews/tv-shows/run-with-the-wind/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
