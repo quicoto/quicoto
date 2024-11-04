@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 1 en Kawaguchiko – Viaje a Japón 2024](https://www.quicoto.com/dia-1-en-kawaguchiko-viaje-a-japon-2024/)
+- [3 días por Venecia, Italia](https://www.quicoto.com/3-dias-por-venecia-italia/)
