@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [3 días por Venecia, Italia](https://www.quicoto.com/3-dias-por-venecia-italia/)
+- [Currywurst, museos y lluvía – Viaje a Berlín 2024](https://www.quicoto.com/currywurst-museos-y-lluvia-viaje-a-berlin-2024/)
