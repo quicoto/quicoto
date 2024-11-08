@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Wind Breaker (Season 1)](https://anime.ricard.blog/reviews/wind-breaker-season-1/)
+- [Run with the Wind](https://anime.ricard.blog/reviews/run-with-the-wind/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
