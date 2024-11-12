@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Run with the Wind](https://anime.ricard.blog/reviews/run-with-the-wind/)
+- [Blue Lock: Episode Nagi](https://anime.ricard.blog/reviews/blue-lock-episode-nagi/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
