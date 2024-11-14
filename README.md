@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Run with the Wind 1x19](https://quicoto.github.io/reviews/tv-shows/run-with-the-wind/1x19)
+- [Blue Lock 1x25](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x25)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
