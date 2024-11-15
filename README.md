@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x25](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x25)
+- [Blue Lock 1x27](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x27)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
