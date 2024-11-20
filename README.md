@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Lock 1x31](https://quicoto.github.io/reviews/tv-shows/blue-lock/1x31)
+- [Silo 2x1](https://quicoto.github.io/reviews/tv-shows/silo/2x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -38,7 +38,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [One Decisive Victory (Grimm&#39;s War, #3)](https://www.goodreads.com/review/show/6304575342?utm_medium=api&amp;utm_source=rss)
+- [A Grimm Sacrifice (Grimm&#39;s War, #4)](https://www.goodreads.com/review/show/6900384693?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
