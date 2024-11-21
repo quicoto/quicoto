@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Silo 2x1](https://quicoto.github.io/reviews/tv-shows/silo/2x1)
+- [Star Trek: Lower Decks 5x2](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
