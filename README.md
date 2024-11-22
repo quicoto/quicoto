@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 5x2](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x2)
+- [Oblivion Battery 1x3](https://quicoto.github.io/reviews/tv-shows/oblivion-battery/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
