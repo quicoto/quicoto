@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Oblivion Battery 1x3](https://quicoto.github.io/reviews/tv-shows/oblivion-battery/1x3)
+- [Oblivion Battery 1x5](https://quicoto.github.io/reviews/tv-shows/oblivion-battery/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
