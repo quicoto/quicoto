@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #36: How to keep up to date with FE?](https://share.transistor.fm/s/9b4121f5)
+- [Ep. #38: Morals, ethics and being eco-friendly as a FE Developer](https://share.transistor.fm/s/f9261f8b)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Blue Lock: Episode Nagi](https://anime.ricard.blog/reviews/blue-lock-episode-nagi/)
+- [Oblivion Battery](https://anime.ricard.blog/reviews/oblivion-battery/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Oblivion Battery 1x5](https://quicoto.github.io/reviews/tv-shows/oblivion-battery/1x5)
+- [Oblivion Battery 1x11](https://quicoto.github.io/reviews/tv-shows/oblivion-battery/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
