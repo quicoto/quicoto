@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #38: Morals, ethics and being eco-friendly as a FE Developer](https://share.transistor.fm/s/f9261f8b)
+- [Ep. #37: Lessons learned as FE Developers](https://share.transistor.fm/s/97e54f12)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
