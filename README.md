@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Currywurst, museos y lluvía – Viaje a Berlín 2024](https://www.quicoto.com/currywurst-museos-y-lluvia-viaje-a-berlin-2024/)
+- [Domingo por la capital francesa – Viaje a París 2024](https://www.quicoto.com/domingo-por-la-capital-francesa-viaje-a-paris-2024/)
