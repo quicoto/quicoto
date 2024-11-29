@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Oblivion Battery 1x11](https://quicoto.github.io/reviews/tv-shows/oblivion-battery/1x11)
+- [Dan Da Dan 1x4](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
