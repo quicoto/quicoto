@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [37](https://ricard.blog/personal/37/)
+- [You have pretty teeth](https://ricard.blog/story/you-have-pretty-teeth/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 1x4](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x4)
+- [Special Ops: Lioness 2x4](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/2x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
