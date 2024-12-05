@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 2x5](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/2x5)
+- [Special Ops: Lioness 2x6](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/2x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
