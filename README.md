@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #37: Lessons learned as FE Developers](https://share.transistor.fm/s/97e54f12)
+- [Ep. #38: Morals, ethics and being eco-friendly as a FE Developer](https://share.transistor.fm/s/f9261f8b)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 10](https://manga.ricard.blog/reviews/the-promised-neverland/volume/10/)
+- [Haikyu - Volume 10](https://manga.ricard.blog/reviews/haikyuu/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 2x6](https://quicoto.github.io/reviews/tv-shows/special-ops-lioness/2x6)
+- [Star Trek: Lower Decks 5x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
