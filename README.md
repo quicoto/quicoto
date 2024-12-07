@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 5x5](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x5)
+- [Beastars 3x3](https://quicoto.github.io/reviews/tv-shows/beastars/3x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
