@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Domingo por la capital francesa – Viaje a París 2024](https://www.quicoto.com/domingo-por-la-capital-francesa-viaje-a-paris-2024/)
+- [Paseo matutino por Shinjuku, Tokio](https://www.quicoto.com/paseo-matutino-por-shinjuku-tokio/)
