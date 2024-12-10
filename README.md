@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Oblivion Battery](https://anime.ricard.blog/reviews/oblivion-battery/)
+- [Beastars Final Season (Part 1)](https://anime.ricard.blog/rants/beastars-final-season-part-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Beastars 3x3](https://quicoto.github.io/reviews/tv-shows/beastars/3x3)
+- [Beastars 3x12](https://quicoto.github.io/reviews/tv-shows/beastars/3x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Paseo matutino por Shinjuku, Tokio](https://www.quicoto.com/paseo-matutino-por-shinjuku-tokio/)
+- [Vacaciones de verano 2024](https://www.quicoto.com/vacaciones-de-verano-2024/)
