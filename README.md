@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 10](https://manga.ricard.blog/reviews/haikyuu/volume/10/)
+- [Blue Exorcist - Volume 6](https://manga.ricard.blog/reviews/blue-exorcist/volume/6/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Star Trek: Lower Decks 5x7](https://quicoto.github.io/reviews/tv-shows/star-trek-lower-decks/5x7)
+- [Dan Da Dan 1x9](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Vacaciones de verano 2024](https://www.quicoto.com/vacaciones-de-verano-2024/)
+- [Barcelona, diciembre 2024](https://www.quicoto.com/barcelona-diciembre-2024/)
