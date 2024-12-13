@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 6](https://manga.ricard.blog/reviews/blue-exorcist/volume/6/)
+- [Kimetsu no Yaiba - Volume 5](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/5/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
