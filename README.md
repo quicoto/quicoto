@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 1x9](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x9)
+- [Loner Life in Another World 1x1](https://quicoto.github.io/reviews/tv-shows/loner-life-in-another-world/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
