@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Loner Life in Another World 1x1](https://quicoto.github.io/reviews/tv-shows/loner-life-in-another-world/1x1)
+- [Oshi No Ko 1x15](https://quicoto.github.io/reviews/tv-shows/oshi-no-ko/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
