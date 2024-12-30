@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Beastars Final Season (Part 1)](https://anime.ricard.blog/rants/beastars-final-season-part-1/)
+- [Blue Lock: Season 2](https://anime.ricard.blog/reviews/blue-lock-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
