@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Loner Life in Another World 1x4](https://quicoto.github.io/reviews/tv-shows/loner-life-in-another-world/1x4)
+- [Squid Game 2x4](https://quicoto.github.io/reviews/tv-shows/squid-game/2x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
