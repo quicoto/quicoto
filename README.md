@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Squid Game 2x4](https://quicoto.github.io/reviews/tv-shows/squid-game/2x4)
+- [Family by Choice 1x1](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
