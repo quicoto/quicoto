@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [You have pretty teeth](https://ricard.blog/story/you-have-pretty-teeth/)
+- [Squid Game Season 2 park in Seoul](https://ricard.blog/rant/squid-game-season-2-park-in-seoul/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Barcelona, diciembre 2024](https://www.quicoto.com/barcelona-diciembre-2024/)
+- [Viaje a Praga por Navidad](https://www.quicoto.com/viaje-a-praga-por-navidad/)
