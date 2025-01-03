@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Squid Game Season 2 park in Seoul](https://ricard.blog/rant/squid-game-season-2-park-in-seoul/)
+- [2025 goal: 10K daily steps](https://ricard.blog/personal/2025-goal-10k-daily-steps/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 5](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/5/)
+- [The Promised Neverland - Volume 11](https://manga.ricard.blog/reviews/the-promised-neverland/volume/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Family by Choice 1x1](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x1)
+- [Squid Game 2x7](https://quicoto.github.io/reviews/tv-shows/squid-game/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Viaje a Praga por Navidad](https://www.quicoto.com/viaje-a-praga-por-navidad/)
+- [Beacon Hill, Boston – USA 2023](https://www.quicoto.com/beacon-hill-boston-usa-2023/)
