@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Family by Choice 1x2](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x2)
+- [Family by Choice 1x7](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
