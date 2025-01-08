@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [2025 goal: 10K daily steps](https://ricard.blog/personal/2025-goal-10k-daily-steps/)
+- [Is Japanese railroad complicated?](https://ricard.blog/story/is-japanese-railroad-complicated/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Family by Choice 1x7](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x7)
+- [Family by Choice 1x8](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
