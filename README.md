@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 11](https://manga.ricard.blog/reviews/the-promised-neverland/volume/11/)
+- [Jujutsu Kaisen - Volume 3](https://manga.ricard.blog/reviews/jujutsu-kaisen/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
