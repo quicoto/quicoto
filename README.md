@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Beacon Hill, Boston – USA 2023](https://www.quicoto.com/beacon-hill-boston-usa-2023/)
+- [Yates, ruinas y un gato negro – Atenas 2024](https://www.quicoto.com/yates-ruinas-y-un-gato-negro-atenas-2024/)
