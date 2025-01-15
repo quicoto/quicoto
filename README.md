@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Family by Choice 1x10](https://quicoto.github.io/reviews/tv-shows/family-by-choice/1x10)
+- [Itaewon Class 1x1](https://quicoto.github.io/reviews/tv-shows/itaewon-class/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
