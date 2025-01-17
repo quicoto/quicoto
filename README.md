@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Itaewon Class 1x1](https://quicoto.github.io/reviews/tv-shows/itaewon-class/1x1)
+- [Itaewon Class 1x3](https://quicoto.github.io/reviews/tv-shows/itaewon-class/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
