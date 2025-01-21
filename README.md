@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #38: Morals, ethics and being eco-friendly as a FE Developer](https://share.transistor.fm/s/f9261f8b)
+- [Ep. #39: Best practices, standards and guidelines](https://share.transistor.fm/s/85ed9005)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Itaewon Class 1x3](https://quicoto.github.io/reviews/tv-shows/itaewon-class/1x3)
+- [Solo Leveling 1x15](https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
