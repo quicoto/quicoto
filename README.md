@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Is Japanese railroad complicated?](https://ricard.blog/story/is-japanese-railroad-complicated/)
+- [What would it take to care?](https://ricard.blog/rant/what-would-it-take-to-care/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #39: Best practices, standards and guidelines](https://share.transistor.fm/s/85ed9005)
+- [Ep. #40: CSS in 2024 was fun](https://share.transistor.fm/s/7ba5fa87)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Leveling 1x15](https://quicoto.github.io/reviews/tv-shows/solo-leveling/1x15)
+- [Itaewon Class 1x9](https://quicoto.github.io/reviews/tv-shows/itaewon-class/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
