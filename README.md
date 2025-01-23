@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [What would it take to care?](https://ricard.blog/rant/what-would-it-take-to-care/)
+- [South Korea for the 6th time (2025)](https://ricard.blog/personal/south-korea-2025/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
