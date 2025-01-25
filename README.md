@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Yates, ruinas y un gato negro – Atenas 2024](https://www.quicoto.com/yates-ruinas-y-un-gato-negro-atenas-2024/)
+- [Corea del Sur por 6ª vez (2025)](https://www.quicoto.com/corea-del-sur-por-6a-vez-2025/)
