@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 1 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-1-viaje-a-corea-2025/)
+- [Día 2 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-2-viaje-a-corea-del-sur-2025/)
