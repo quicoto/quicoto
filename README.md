@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Itaewon Class 1x9](https://quicoto.github.io/reviews/tv-shows/itaewon-class/1x9)
+- [Dan Da Dan 1x12](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 2 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-2-viaje-a-corea-del-sur-2025/)
+- [Día 3 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-3-viaje-a-corea-del-sur-2025/)
