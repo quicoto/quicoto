@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #40: CSS in 2024 was fun](https://share.transistor.fm/s/7ba5fa87)
+- [Ep. #41: How we manage stress in the FE world](https://share.transistor.fm/s/8e78e642)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 1x12](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x12)
+- [The Night Agent 2x3](https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 3 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-3-viaje-a-corea-del-sur-2025/)
+- [Día 4 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-4-viaje-a-corea-del-sur-2025/)
