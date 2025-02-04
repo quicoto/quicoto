@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 2x6](https://quicoto.github.io/reviews/tv-shows/the-night-agent/2x6)
+- [The Recruit 2x3](https://quicoto.github.io/reviews/tv-shows/the-recruit/2x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 9 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-9-viaje-a-corea-del-sur-2025/)
+- [Día 10 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-10-viaje-a-corea-del-sur-2025/)
