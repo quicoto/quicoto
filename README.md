@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Recruit 2x3](https://quicoto.github.io/reviews/tv-shows/the-recruit/2x3)
+- [The Recruit 2x4](https://quicoto.github.io/reviews/tv-shows/the-recruit/2x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
