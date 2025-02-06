@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Recruit 2x4](https://quicoto.github.io/reviews/tv-shows/the-recruit/2x4)
+- [I Have a Crush at Work 1x3](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 10 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-10-viaje-a-corea-del-sur-2025/)
+- [Día 12 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-12-viaje-a-corea-del-sur-2025/)
