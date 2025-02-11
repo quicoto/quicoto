@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [I Have a Crush at Work 1x5](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x5)
+- [Sakamoto Days 1x5](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 16 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-16-viaje-a-corea-del-sur-2025/)
+- [Día 17 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-17-viaje-a-corea-del-sur-2025/)
