@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sakamoto Days 1x5](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x5)
+- [Stove League 1x8](https://quicoto.github.io/reviews/tv-shows/stove-league/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 17 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-17-viaje-a-corea-del-sur-2025/)
+- [Día 18 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-18-viaje-a-corea-del-sur-2025/)
