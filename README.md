@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Blue Lock: Season 2](https://anime.ricard.blog/reviews/blue-lock-season-2/)
+- [Dandadan: wasted good animation](https://anime.ricard.blog/rants/dandadan/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stove League 1x8](https://quicoto.github.io/reviews/tv-shows/stove-league/1x8)
+- [Stove League 1x9](https://quicoto.github.io/reviews/tv-shows/stove-league/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 18 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-18-viaje-a-corea-del-sur-2025/)
+- [Día 19 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-19-viaje-a-corea-del-sur-2025/)
