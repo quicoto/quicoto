@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stove League 1x9](https://quicoto.github.io/reviews/tv-shows/stove-league/1x9)
+- [I Have a Crush at Work 1x6](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 19 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-19-viaje-a-corea-del-sur-2025/)
+- [Día 20 – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-20-viaje-a-corea-del-sur-2025/)
