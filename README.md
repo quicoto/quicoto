@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [I Have a Crush at Work 1x6](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x6)
+- [Boku no Hero Academia 7x6](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/7x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
