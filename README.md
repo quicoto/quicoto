@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Jujutsu Kaisen - Volume 3](https://manga.ricard.blog/reviews/jujutsu-kaisen/volume/3/)
+- [Naruto - Volume 17](https://manga.ricard.blog/reviews/naruto/volume/17/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 7x15](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/7x15)
+- [I Have a Crush at Work 1x7](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
