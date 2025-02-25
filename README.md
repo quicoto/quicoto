@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Dandadan: wasted good animation](https://anime.ricard.blog/rants/dandadan/)
+- [Boku no Hero Academia (Season 7) was not brave enough](https://anime.ricard.blog/rants/boku-no-hero-academia-season-7/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [I Have a Crush at Work 1x7](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x7)
+- [Blue Exorcist 1x1](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
