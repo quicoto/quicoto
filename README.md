@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Back from South Korea (2025)](https://ricard.blog/personal/back-from-south-korea-2025/)
+- [Tapgol Park, Seoul (2025)](https://ricard.blog/other/tapgol-park-seoul-2025/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 1x14](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x14)
+- [Blue Exorcist 1x16](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x16)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
