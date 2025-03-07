@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 1x16](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x16)
+- [I Have a Crush at Work 1x9](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 22 (final) – Viaje a Corea del Sur 2025](https://www.quicoto.com/dia-22-final-viaje-a-corea-del-sur-2025/)
+- [Bulguksa – Corea del Sur 2022](https://www.quicoto.com/bulguksa-corea-del-sur-2022/)
