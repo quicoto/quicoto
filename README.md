@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 19](https://manga.ricard.blog/reviews/naruto/volume/19/)
+- [Kimetsu no Yaiba - Volume 6](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/6/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [I Have a Crush at Work 1x9](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x9)
+- [Reacher 3x5](https://quicoto.github.io/reviews/tv-shows/reacher/3x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
