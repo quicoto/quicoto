@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Tapgol Park, Seoul (2025)](https://ricard.blog/other/tapgol-park-seoul-2025/)
+- [The office is for networking](https://ricard.blog/personal/the-office-is-for-networking/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 1x19](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x19)
+- [Severance 2x1](https://quicoto.github.io/reviews/tv-shows/severance/2x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
