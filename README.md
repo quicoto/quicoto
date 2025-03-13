@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 7](https://manga.ricard.blog/reviews/blue-exorcist/volume/7/)
+- [Kimetsu no Yaiba - Volume 7](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Severance 2x1](https://quicoto.github.io/reviews/tv-shows/severance/2x1)
+- [Blue Exorcist 1x23](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x23)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
