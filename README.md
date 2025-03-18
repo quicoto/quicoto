@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 1x25](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x25)
+- [Sakamoto Days 1x10](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Bulguksa – Corea del Sur 2022](https://www.quicoto.com/bulguksa-corea-del-sur-2022/)
+- [Despertando en Praga y subida al castillo (2024)](https://www.quicoto.com/despertando-en-praga-y-subida-al-castillo-2024/)
