@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x5](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x5)
+- [Kusuriya no Hitorigoto 1x6](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
