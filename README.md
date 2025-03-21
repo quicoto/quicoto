@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Boku no Hero Academia (Season 7) was not brave enough](https://anime.ricard.blog/rants/boku-no-hero-academia-season-7/)
+- [What happened to Blue Exorcist Season 1?](https://anime.ricard.blog/rants/blue-exorcist-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x6](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x6)
+- [Kusuriya no Hitorigoto 1x8](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
