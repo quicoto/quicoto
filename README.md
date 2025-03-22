@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 8](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/8/)
+- [Kimetsu no Yaiba - Volume 9](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/9/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x8](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x8)
+- [Reacher 6x7](https://quicoto.github.io/reviews/tv-shows/reacher/6x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
