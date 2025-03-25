@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 9](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/9/)
+- [Kimetsu no Yaiba - Volume 10](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 6x7](https://quicoto.github.io/reviews/tv-shows/reacher/6x7)
+- [Blue Exorcist 2x6](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
