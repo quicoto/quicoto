@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 10](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/10/)
+- [Kimetsu no Yaiba - Volume 11](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Severance 2x6](https://quicoto.github.io/reviews/tv-shows/severance/2x6)
+- [The Residence 1x2](https://quicoto.github.io/reviews/tv-shows/the-residence/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
