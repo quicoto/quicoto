@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [What happened to Blue Exorcist Season 1?](https://anime.ricard.blog/rants/blue-exorcist-season-1/)
+- [The Apothecary Diaries (Season 1)](https://anime.ricard.blog/reviews/the-apothecary-diaries-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Residence 1x2](https://quicoto.github.io/reviews/tv-shows/the-residence/1x2)
+- [Blue Exorcist 2x7](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
