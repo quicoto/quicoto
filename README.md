@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 2x7](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x7)
+- [Blue Exorcist 2x9](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
