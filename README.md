@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Apothecary Diaries (Season 1)](https://anime.ricard.blog/reviews/the-apothecary-diaries-season-1/)
+- [Solo Leveling: Season 2](https://anime.ricard.blog/reviews/solo-leveling-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 11](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/11/)
+- [Blue Lock - Volume 7](https://manga.ricard.blog/reviews/blue-lock/volume/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 2x9](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x9)
+- [Blue Exorcist 2x12](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
