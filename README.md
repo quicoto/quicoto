@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Solo Leveling: Season 2](https://anime.ricard.blog/reviews/solo-leveling-season-2/)
+- [I Have a Crush at Work](https://anime.ricard.blog/reviews/i-have-a-crush-at-work/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 2x12](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/2x12)
+- [I Have a Crush at Work 1x12](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
