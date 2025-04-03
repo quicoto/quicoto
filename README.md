@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 7](https://manga.ricard.blog/reviews/blue-lock/volume/7/)
+- [Blue Lock - Volume 8](https://manga.ricard.blog/reviews/blue-lock/volume/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [I Have a Crush at Work 1x12](https://quicoto.github.io/reviews/tv-shows/i-have-a-crush-at-work/1x12)
+- [Kusuriya no Hitorigoto 1x27](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x27)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Despertando en Praga y subida al castillo (2024)](https://www.quicoto.com/despertando-en-praga-y-subida-al-castillo-2024/)
+- [Ciudad y castillo de Kumamoto – Viaje a Japón 2023](https://www.quicoto.com/ciudad-y-castillo-de-kumamoto-viaje-a-japon-2023/)
