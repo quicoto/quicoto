@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 8](https://manga.ricard.blog/reviews/blue-lock/volume/8/)
+- [Blue Lock - Volume 9](https://manga.ricard.blog/reviews/blue-lock/volume/9/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
