@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [American Primeval 1x1](https://quicoto.github.io/reviews/tv-shows/american-primeval/1x1)
+- [Kusuriya no Hitorigoto 2x30](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/2x30)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
