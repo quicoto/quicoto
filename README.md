@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 9](https://manga.ricard.blog/reviews/blue-lock/volume/9/)
+- [Blue Lock - Volume 10](https://manga.ricard.blog/reviews/blue-lock/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 2x30](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/2x30)
+- [Kusuriya no Hitorigoto 1x31](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x31)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
