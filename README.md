@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Ciudad y castillo de Kumamoto – Viaje a Japón 2023](https://www.quicoto.com/ciudad-y-castillo-de-kumamoto-viaje-a-japon-2023/)
+- [Puerta de Brandeburgo y agujeros de bala – Berlin 2024](https://www.quicoto.com/puerta-de-brandeburgo-y-agujeros-de-bala-berlin-2024/)
