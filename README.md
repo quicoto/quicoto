@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x31](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x31)
+- [Enen no Shouboutai 3x2](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
