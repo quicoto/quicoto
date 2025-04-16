@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 3x2](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x2)
+- [Black Mirror 7x2](https://quicoto.github.io/reviews/tv-shows/black-mirror/7x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
