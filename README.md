@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 10](https://manga.ricard.blog/reviews/blue-lock/volume/10/)
+- [Blue Lock - Volume 11](https://manga.ricard.blog/reviews/blue-lock/volume/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Mirror 7x2](https://quicoto.github.io/reviews/tv-shows/black-mirror/7x2)
+- [Wind Breaker 1x15](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x15)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
