@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 12](https://manga.ricard.blog/reviews/blue-lock/volume/12/)
+- [Blue Lock - Volume 13](https://manga.ricard.blog/reviews/blue-lock/volume/13/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Puerta de Brandeburgo y agujeros de bala – Berlin 2024](https://www.quicoto.com/puerta-de-brandeburgo-y-agujeros-de-bala-berlin-2024/)
+- [Espíritu tradicional en Kanazawa, Japón (2023)](https://www.quicoto.com/espiritu-tradicional-en-kanazawa-japon-2023/)
