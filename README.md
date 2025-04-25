@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #41: How we manage stress in the FE world](https://share.transistor.fm/s/8e78e642)
+- [Ep. #43: Mobile First in 2025: Why Are We Still Getting It Wrong?](https://share.transistor.fm/s/4e26c264)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Last of Us 2x2](https://quicoto.github.io/reviews/tv-shows/the-last-of-us/2x2)
+- [Kamonohashi Ron no Kindan Suiri 1x6](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
