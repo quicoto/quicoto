@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [The office is for networking](https://ricard.blog/personal/the-office-is-for-networking/)
+- [A power outage like never before](https://ricard.blog/other/a-power-outage-like-never-before/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kamonohashi Ron no Kindan Suiri 1x6](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x6)
+- [Kamonohashi Ron no Kindan Suiri 1x7](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
