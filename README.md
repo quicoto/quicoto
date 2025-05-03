@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [I Have a Crush at Work](https://anime.ricard.blog/reviews/i-have-a-crush-at-work/)
+- [Ron Kamonohashi&#39;s Forbidden Deductions (Season 1)](https://anime.ricard.blog/reviews/ron-kamonohashi-forbidden-deductions-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kamonohashi Ron no Kindan Suiri 1x11](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x11)
+- [Kamonohashi Ron no Kindan Suiri 1x13](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x13)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
