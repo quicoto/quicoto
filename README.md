@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #43: Mobile First in 2025: Why Are We Still Getting It Wrong?](https://share.transistor.fm/s/4e26c264)
+- [Ep. #44: Technical Interviews in the age of AI](https://share.transistor.fm/s/7e529a1f)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kamonohashi Ron no Kindan Suiri 1x14](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x14)
+- [Kamonohashi Ron no Kindan Suiri 1x20](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x20)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
