@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kamonohashi Ron no Kindan Suiri 1x20](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x20)
+- [Kamonohashi Ron no Kindan Suiri 1x21](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x21)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
