@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 15](https://manga.ricard.blog/reviews/blue-lock/volume/15/)
+- [Blue Lock - Volume 16](https://manga.ricard.blog/reviews/blue-lock/volume/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kamonohashi Ron no Kindan Suiri 1x21](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x21)
+- [Kamonohashi Ron no Kindan Suiri 1x24](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x24)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
