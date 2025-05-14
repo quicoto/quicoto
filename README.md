@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kamonohashi Ron no Kindan Suiri 1x24](https://quicoto.github.io/reviews/tv-shows/kamonohashi-ron-no-kindan-suiri/1x24)
+- [Enen no Shouboutai 3x6](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
