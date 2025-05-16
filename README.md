@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Ron Kamonohashi&#39;s Forbidden Deductions (Season 1)](https://anime.ricard.blog/reviews/ron-kamonohashi-forbidden-deductions-season-1/)
+- [Ron Kamonohashi&#39;s Forbidden Deductions (Season 2)](https://anime.ricard.blog/reviews/ron-kamonohashi-forbidden-deductions-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
