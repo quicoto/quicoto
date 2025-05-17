@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x42](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x42)
+- [Wind Breaker 1x20](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x20)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
