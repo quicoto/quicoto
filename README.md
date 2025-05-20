@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wind Breaker 1x20](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x20)
+- [Blue Box 1x6](https://quicoto.github.io/reviews/tv-shows/blue-box/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
