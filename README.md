@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Lock - Volume 16](https://manga.ricard.blog/reviews/blue-lock/volume/16/)
+- [Haikyu - Volume 11](https://manga.ricard.blog/reviews/haikyuu/volume/11/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 1x6](https://quicoto.github.io/reviews/tv-shows/blue-box/1x6)
+- [Blue Box 1x11](https://quicoto.github.io/reviews/tv-shows/blue-box/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
