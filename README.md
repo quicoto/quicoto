@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 1x11](https://quicoto.github.io/reviews/tv-shows/blue-box/1x11)
+- [Blue Box 1x12](https://quicoto.github.io/reviews/tv-shows/blue-box/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
