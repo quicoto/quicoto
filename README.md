@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wind Breaker 4x21](https://quicoto.github.io/reviews/tv-shows/wind-breaker/4x21)
+- [Kusuriya no Hitorigoto 1x43](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x43)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Espíritu tradicional en Kanazawa, Japón (2023)](https://www.quicoto.com/espiritu-tradicional-en-kanazawa-japon-2023/)
+- [Aterrizando en Venecia, Italia (2024)](https://www.quicoto.com/aterrizando-en-venecia-italia-2024/)
