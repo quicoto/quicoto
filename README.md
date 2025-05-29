@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x43](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x43)
+- [Blue Exorcist 1x17](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Aterrizando en Venecia, Italia (2024)](https://www.quicoto.com/aterrizando-en-venecia-italia-2024/)
+- [Nueva York desde el Empire State](https://www.quicoto.com/nueva-york-desde-el-empire-state/)
