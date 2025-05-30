@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 11](https://manga.ricard.blog/reviews/haikyuu/volume/11/)
+- [Haikyu - Volume 12](https://manga.ricard.blog/reviews/haikyuu/volume/12/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Exorcist 1x17](https://quicoto.github.io/reviews/tv-shows/blue-exorcist/1x17)
+- [Blue Box 1x19](https://quicoto.github.io/reviews/tv-shows/blue-box/1x19)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
