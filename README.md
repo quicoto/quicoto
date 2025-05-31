@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 1x19](https://quicoto.github.io/reviews/tv-shows/blue-box/1x19)
+- [Blue Box 1x21](https://quicoto.github.io/reviews/tv-shows/blue-box/1x21)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Nueva York desde el Empire State](https://www.quicoto.com/nueva-york-desde-el-empire-state/)
+- [Narai-juku en la ruta Nakasendō – Japon 2024](https://www.quicoto.com/narai-juku-en-la-ruta-nakasendo-japon-2024/)
