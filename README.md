@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [A power outage like never before](https://ricard.blog/other/a-power-outage-like-never-before/)
+- [Being good but being boring](https://ricard.blog/personal/being-good-but-being-boring/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
