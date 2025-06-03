@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 1x21](https://quicoto.github.io/reviews/tv-shows/blue-box/1x21)
+- [Kusuriya no Hitorigoto 1x44](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x44)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
