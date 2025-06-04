@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Ron Kamonohashi&#39;s Forbidden Deductions (Season 2)](https://anime.ricard.blog/reviews/ron-kamonohashi-forbidden-deductions-season-2/)
+- [Blue Box (Season 1)](https://anime.ricard.blog/reviews/blue-box-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x44](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x44)
+- [Blue Box 1x25](https://quicoto.github.io/reviews/tv-shows/blue-box/1x25)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
