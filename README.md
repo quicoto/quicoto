@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 12](https://manga.ricard.blog/reviews/haikyuu/volume/12/)
+- [Haikyu - Volume 13](https://manga.ricard.blog/reviews/haikyuu/volume/13/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
