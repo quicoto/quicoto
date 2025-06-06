@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 1x25](https://quicoto.github.io/reviews/tv-shows/blue-box/1x25)
+- [Enen no Shouboutai 3x9](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x9)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Narai-juku en la ruta Nakasendō – Japon 2024](https://www.quicoto.com/narai-juku-en-la-ruta-nakasendo-japon-2024/)
+- [Goulash, frío y carne en Praga (2024)](https://www.quicoto.com/goulash-frio-y-carne-en-praga-2024/)
