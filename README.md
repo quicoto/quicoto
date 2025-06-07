@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Enen no Shouboutai 3x9](https://quicoto.github.io/reviews/tv-shows/enen-no-shouboutai/3x9)
+- [Campfire Cooking in Another World with My Absurd Skill 1x3](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
