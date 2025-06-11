@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #44: Technical Interviews in the age of AI](https://share.transistor.fm/s/7e529a1f)
+- [Ep. #45: Storybook, Web Components and Figma Tokens](https://share.transistor.fm/s/1179efce)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
