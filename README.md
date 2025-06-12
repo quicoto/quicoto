@@ -6,11 +6,11 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Being good but being boring](https://ricard.blog/personal/being-good-but-being-boring/)
+- [3 days in Rome, Italy](https://ricard.blog/personal/3-days-in-rome-italy/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #45: Storybook, Web Components and Figma Tokens](https://share.transistor.fm/s/1179efce)
+- [Ep. #46: Are Frontend Developers going away?](https://share.transistor.fm/s/5278ac89)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 13](https://manga.ricard.blog/reviews/haikyuu/volume/13/)
+- [Haikyu - Volume 14](https://manga.ricard.blog/reviews/haikyuu/volume/14/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
