@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Campfire Cooking in Another World with My Absurd Skill 1x3](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/1x3)
+- [Rick and Morty 8x3](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/8x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
