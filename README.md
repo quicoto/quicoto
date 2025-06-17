@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Rick and Morty 8x3](https://quicoto.github.io/reviews/tv-shows/rick-and-morty/8x3)
+- [Mercy for None 1x1](https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Goulash, frío y carne en Praga (2024)](https://www.quicoto.com/goulash-frio-y-carne-en-praga-2024/)
+- [Coliseo Romano – Viaje a Roma 2025](https://www.quicoto.com/coliseo-romano-viaje-a-roma-2025/)
