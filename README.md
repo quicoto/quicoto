@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 20](https://manga.ricard.blog/reviews/naruto/volume/20/)
+- [Naruto - Volume 21](https://manga.ricard.blog/reviews/naruto/volume/21/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mercy for None 1x1](https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x1)
+- [Mercy for None 1x2](https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
