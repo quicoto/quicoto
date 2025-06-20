@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mercy for None 1x2](https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x2)
+- [Mercy for None 1x4](https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
