@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Blue Box (Season 1)](https://anime.ricard.blog/reviews/blue-box-season-1/)
+- [Wind Breaker Season 2: not good](https://anime.ricard.blog/rants/wind-breaker-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 21](https://manga.ricard.blog/reviews/naruto/volume/21/)
+- [Naruto - Volume 22](https://manga.ricard.blog/reviews/naruto/volume/22/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mercy for None 1x4](https://quicoto.github.io/reviews/tv-shows/mercy-for-none/1x4)
+- [Wind Breaker 1x25](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x25)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
