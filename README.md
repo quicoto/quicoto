@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wind Breaker 1x25](https://quicoto.github.io/reviews/tv-shows/wind-breaker/1x25)
+- [Duster 1x6](https://quicoto.github.io/reviews/tv-shows/duster/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Coliseo Romano – Viaje a Roma 2025](https://www.quicoto.com/coliseo-romano-viaje-a-roma-2025/)
+- [Fushimi Inari – Viaje a Japón 2023](https://www.quicoto.com/fushimi-inari-viaje-a-japon-2023/)
