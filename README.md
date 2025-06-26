@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Duster 1x6](https://quicoto.github.io/reviews/tv-shows/duster/1x6)
+- [Kusuriya no Hitorigoto 1x46](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x46)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Fushimi Inari – Viaje a Japón 2023](https://www.quicoto.com/fushimi-inari-viaje-a-japon-2023/)
+- [Despertando en Venecia (2024)](https://www.quicoto.com/despertando-en-venecia-2024/)
