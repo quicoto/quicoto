@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x46](https://quicoto.github.io/reviews/tv-shows/kusuriya-no-hitorigoto/1x46)
+- [Boku no Hero Academia: Vigilantes 1x3](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x3)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
