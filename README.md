@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia: Vigilantes 1x3](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x3)
+- [Catch Me at the Ballpark! 1x1](https://quicoto.github.io/reviews/tv-shows/catch-me-at-the-ballpark/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
