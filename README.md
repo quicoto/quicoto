@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Catch Me at the Ballpark! 1x1](https://quicoto.github.io/reviews/tv-shows/catch-me-at-the-ballpark/1x1)
+- [Squid Game 3x1](https://quicoto.github.io/reviews/tv-shows/squid-game/3x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
