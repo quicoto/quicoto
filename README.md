@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 22](https://manga.ricard.blog/reviews/naruto/volume/22/)
+- [Naruto - Volume 23](https://manga.ricard.blog/reviews/naruto/volume/23/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Squid Game 3x1](https://quicoto.github.io/reviews/tv-shows/squid-game/3x1)
+- [Squid Game 3x4](https://quicoto.github.io/reviews/tv-shows/squid-game/3x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
