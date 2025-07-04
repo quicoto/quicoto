@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Squid Game 3x4](https://quicoto.github.io/reviews/tv-shows/squid-game/3x4)
+- [Boku no Hero Academia: Vigilantes 1x5](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
