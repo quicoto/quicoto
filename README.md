@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia: Vigilantes 1x5](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x5)
+- [Adolescence 1x4](https://quicoto.github.io/reviews/tv-shows/adolescence/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
