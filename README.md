@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Adolescence 1x4](https://quicoto.github.io/reviews/tv-shows/adolescence/1x4)
+- [Duster 1x8](https://quicoto.github.io/reviews/tv-shows/duster/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
