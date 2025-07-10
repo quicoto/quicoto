@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 23](https://manga.ricard.blog/reviews/naruto/volume/23/)
+- [Haikyu - Volume 15](https://manga.ricard.blog/reviews/haikyuu/volume/15/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Despertando en Venecia (2024)](https://www.quicoto.com/despertando-en-venecia-2024/)
+- [Grafitis, salchichas y cerveza en Berlín (2024)](https://www.quicoto.com/grafitis-salchichas-y-cerveza-en-berlin-2024/)
