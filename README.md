@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 15](https://manga.ricard.blog/reviews/haikyuu/volume/15/)
+- [Naruto - Volume 24](https://manga.ricard.blog/reviews/naruto/volume/24/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Duster 1x8](https://quicoto.github.io/reviews/tv-shows/duster/1x8)
+- [Dan Da Dan 2x2](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
