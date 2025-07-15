@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 2x2](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x2)
+- [Free! 1x8](https://quicoto.github.io/reviews/tv-shows/free/1x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
