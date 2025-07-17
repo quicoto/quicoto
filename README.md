@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #46: Are Frontend Developers going away?](https://share.transistor.fm/s/5278ac89)
+- [Ep. #47: What motivates FE Developers?](https://share.transistor.fm/s/77049065)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 24](https://manga.ricard.blog/reviews/naruto/volume/24/)
+- [Naruto - Volume 25](https://manga.ricard.blog/reviews/naruto/volume/25/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 1x10](https://quicoto.github.io/reviews/tv-shows/free/1x10)
+- [Boku no Hero Academia: Vigilantes 1x7](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
