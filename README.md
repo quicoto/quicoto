@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [3 days in Rome, Italy](https://ricard.blog/personal/3-days-in-rome-italy/)
+- [Ads for buying homes in Japan](https://ricard.blog/other/ads-for-buying-homes-in-japan/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 2x2](https://quicoto.github.io/reviews/tv-shows/free/2x2)
+- [Free! 2x5](https://quicoto.github.io/reviews/tv-shows/free/2x5)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
