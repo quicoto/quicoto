@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Ads for buying homes in Japan](https://ricard.blog/other/ads-for-buying-homes-in-japan/)
+- [Asking AI everything](https://ricard.blog/rant/asking-ai-everything/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 25](https://manga.ricard.blog/reviews/naruto/volume/25/)
+- [Naruto - Volume 26](https://manga.ricard.blog/reviews/naruto/volume/26/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 2x5](https://quicoto.github.io/reviews/tv-shows/free/2x5)
+- [Free! 2x7](https://quicoto.github.io/reviews/tv-shows/free/2x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
