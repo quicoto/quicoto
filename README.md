@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 2x7](https://quicoto.github.io/reviews/tv-shows/free/2x7)
+- [Free! 2x8](https://quicoto.github.io/reviews/tv-shows/free/2x8)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
