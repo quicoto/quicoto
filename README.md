@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 26](https://manga.ricard.blog/reviews/naruto/volume/26/)
+- [Naruto - Volume 27](https://manga.ricard.blog/reviews/naruto/volume/27/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 2x8](https://quicoto.github.io/reviews/tv-shows/free/2x8)
+- [Dan Da Dan 2x4](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Grafitis, salchichas y cerveza en Berlín (2024)](https://www.quicoto.com/grafitis-salchichas-y-cerveza-en-berlin-2024/)
+- [Universidad de Harvard y MIT, Boston (2023)](https://www.quicoto.com/universidad-de-harvard-y-mit-boston/)
