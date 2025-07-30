@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 2x4](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/2x4)
+- [The Winning Try 1x2](https://quicoto.github.io/reviews/tv-shows/the-winning-try/1x2)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
