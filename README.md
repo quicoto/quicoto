@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Winning Try 1x2](https://quicoto.github.io/reviews/tv-shows/the-winning-try/1x2)
+- [Free! 2x10](https://quicoto.github.io/reviews/tv-shows/free/2x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Universidad de Harvard y MIT, Boston (2023)](https://www.quicoto.com/universidad-de-harvard-y-mit-boston/)
+- [Asakusa de noche – Japón 2024](https://www.quicoto.com/asakusa-de-noche-japon-2024/)
