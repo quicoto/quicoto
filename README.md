@@ -10,7 +10,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
-- [Ep. #47: What motivates FE Developers?](https://share.transistor.fm/s/77049065)
+- [Ep. #49: FE is complex, can we make it simpler?](https://share.transistor.fm/s/af48bff2)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 2x10](https://quicoto.github.io/reviews/tv-shows/free/2x10)
+- [Sakamoto Days 1x14](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x14)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
