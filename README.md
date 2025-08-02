@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 27](https://manga.ricard.blog/reviews/naruto/volume/27/)
+- [Kaiju No. 8 - Volume 1](https://manga.ricard.blog/reviews/kaiju-8/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
