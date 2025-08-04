@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Wind Breaker Season 2: not good](https://anime.ricard.blog/rants/wind-breaker-season-2/)
+- [Free (Season 1)](https://anime.ricard.blog/reviews/free-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Asakusa de noche – Japón 2024](https://www.quicoto.com/asakusa-de-noche-japon-2024/)
+- [Castillo de Karlštejn, Praga (2024)](https://www.quicoto.com/castillo-de-karlstejn-praga-2024/)
