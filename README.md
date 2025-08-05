@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Free (Season 1)](https://anime.ricard.blog/reviews/free-season-1/)
+- [Free (Season 2)](https://anime.ricard.blog/reviews/free-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kaiju No. 8 - Volume 1](https://manga.ricard.blog/reviews/kaiju-8/volume/1/)
+- [Death Note - Volume 1](https://manga.ricard.blog/reviews/death-note/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sakamoto Days 1x14](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x14)
+- [My Demon 1x1](https://quicoto.github.io/reviews/tv-shows/my-demon/1x1)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
