@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Free (Season 2)](https://anime.ricard.blog/reviews/free-season-2/)
+- [The Apothecary Diaries (Season 2)](https://anime.ricard.blog/reviews/the-apothecary-diaries-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Free! 2x13](https://quicoto.github.io/reviews/tv-shows/free/2x13)
+- [My Demon 1x4](https://quicoto.github.io/reviews/tv-shows/my-demon/1x4)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Castillo de Karlštejn, Praga (2024)](https://www.quicoto.com/castillo-de-karlstejn-praga-2024/)
+- [Pasta, cerveza y helados en Roma (2025)](https://www.quicoto.com/pasta-cerveza-y-helados-en-roma-2025/)
