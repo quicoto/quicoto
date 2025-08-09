@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Demon 1x6](https://quicoto.github.io/reviews/tv-shows/my-demon/1x6)
+- [My Demon 1x7](https://quicoto.github.io/reviews/tv-shows/my-demon/1x7)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Pasta, cerveza y helados en Roma (2025)](https://www.quicoto.com/pasta-cerveza-y-helados-en-roma-2025/)
+- [Ikebukuro, Shinjuku y Ginza Yanaka – Tokio (2023)](https://www.quicoto.com/ikebukuro-shinjuku-y-ginza-yanaka-tokio-2023/)
