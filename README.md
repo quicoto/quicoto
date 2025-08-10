@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Apothecary Diaries (Season 2)](https://anime.ricard.blog/reviews/the-apothecary-diaries-season-2/)
+- [Vigilante: Boku no Hero Academia Illegals (season 1)](https://anime.ricard.blog/reviews/vigilante-boku-no-hero-academia-illegals-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
