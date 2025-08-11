@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Ikebukuro, Shinjuku y Ginza Yanaka – Tokio (2023)](https://www.quicoto.com/ikebukuro-shinjuku-y-ginza-yanaka-tokio-2023/)
+- [Paseo de película en Venecia (2024)](https://www.quicoto.com/paseo-de-pelicula-en-venecia-2024/)
