@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Demon 1x7](https://quicoto.github.io/reviews/tv-shows/my-demon/1x7)
+- [My Demon 1x11](https://quicoto.github.io/reviews/tv-shows/my-demon/1x11)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Paseo de película en Venecia (2024)](https://www.quicoto.com/paseo-de-pelicula-en-venecia-2024/)
+- [Muro, espías y cerveza en Berlín (2024)](https://www.quicoto.com/muro-espias-y-cerveza-en-berlin-2024/)
