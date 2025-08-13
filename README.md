@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Demon 1x11](https://quicoto.github.io/reviews/tv-shows/my-demon/1x11)
+- [My Demon 1x12](https://quicoto.github.io/reviews/tv-shows/my-demon/1x12)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
