@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Vigilante: Boku no Hero Academia Illegals (season 1)](https://anime.ricard.blog/reviews/vigilante-boku-no-hero-academia-illegals-season-1/)
+- [Free: Take Your Marks](https://anime.ricard.blog/reviews/free-take-your-marks/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Demon 1x12](https://quicoto.github.io/reviews/tv-shows/my-demon/1x12)
+- [My Demon 1x13](https://quicoto.github.io/reviews/tv-shows/my-demon/1x13)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Muro, espías y cerveza en Berlín (2024)](https://www.quicoto.com/muro-espias-y-cerveza-en-berlin-2024/)
+- [Buques de guerra en Boston (2023)](https://www.quicoto.com/buques-de-guerra-en-boston-2023/)
