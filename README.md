@@ -6,7 +6,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Asking AI everything](https://ricard.blog/rant/asking-ai-everything/)
+- [Re-watching The Last Samurai](https://ricard.blog/personal/re-watching-the-last-samurai/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
 
@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Buques de guerra en Boston (2023)](https://www.quicoto.com/buques-de-guerra-en-boston-2023/)
+- [Kawaguchiko, Japón (2024)](https://www.quicoto.com/kawaguchiko-japon-2024/)
