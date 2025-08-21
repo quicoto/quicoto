@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Butterfly 1x3](https://quicoto.github.io/reviews/tv-shows/butterfly/1x3)
+- [Gachiakuta 1x6](https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x6)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
