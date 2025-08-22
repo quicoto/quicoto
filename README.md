@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Gachiakuta 1x6](https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x6)
+- [Sakamoto Days 1x17](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x17)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
