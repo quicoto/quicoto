@@ -42,4 +42,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Kawaguchiko, Japón (2024)](https://www.quicoto.com/kawaguchiko-japon-2024/)
+- [Noche de niebla en Praga (2024)](https://www.quicoto.com/noche-de-niebla-en-praga-2024/)
