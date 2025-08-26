@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sakamoto Days 1x17](https://quicoto.github.io/reviews/tv-shows/sakamoto-days/1x17)
+- [The Winning Try 1x10](https://quicoto.github.io/reviews/tv-shows/the-winning-try/1x10)
 
 #### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
 
