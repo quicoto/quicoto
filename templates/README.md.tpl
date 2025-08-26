@@ -2,20 +2,17 @@
 
 #### Fediverse / Mastodon
 
-🐘 https://ricard.social/@ricard
+- 🐘 https://ricard.social/@ricard
+- 🇯🇵 https://ricard.social/@anime
+- ⚾️ https://ricard.social/@baseball
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 {{range rss "https://ricard.blog/feed/" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
+#### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 {{range rss "https://feeds.transistor.fm/frontend-coffee-break" 1}}
-- [{{.Title}}]({{.URL}})
-{{- end}}
-
-#### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
-{{range rss "https://anchor.fm/s/67fb8abc/podcast/rss" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
@@ -36,11 +33,6 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 {{range rss "https://quicoto.github.io/reviews/rss-all-shows.xml" 1}}
-- [{{.Title}}]({{.URL}})
-{{- end}}
-
-#### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
-{{range rss "https://quicoto.github.io/reviews/rss-all-movies.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
