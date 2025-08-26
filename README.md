@@ -2,19 +2,17 @@
 
 #### Fediverse / Mastodon
 
-🐘 https://ricard.social/@ricard
+- 🐘 https://ricard.social/@ricard
+- 🇯🇵 https://ricard.social/@anime
+- ⚾️ https://ricard.social/@baseball
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
 - [Re-watching The Last Samurai](https://ricard.blog/personal/re-watching-the-last-samurai/)
 
-#### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontendcoffeebreak.transistor.fm/)
+#### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
 - [Ep. #49: FE is complex, can we make it simpler?](https://share.transistor.fm/s/af48bff2)
-
-#### 🎙 &nbsp;&nbsp;[Podcast - Korean Tapas](https://koreantapas.show/)
-
-- [[ES] Episodio 34: Minki por España](https://podcasters.spotify.com/pod/show/korean-tapas/episodes/ES-Episodio-34-Minki-por-Espaa-e2h7iun)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -26,15 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Death Note - Volume 1](https://manga.ricard.blog/reviews/death-note/volume/1/)
+- [Death Note - Volume 2](https://manga.ricard.blog/reviews/death-note/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Winning Try 1x10](https://quicoto.github.io/reviews/tv-shows/the-winning-try/1x10)
-
-#### 🍿 &nbsp;&nbsp;[Latest watched Movie](https://quicoto.github.io/reviews/movies/)
-
-- [The Game](https://quicoto.github.io/reviews/movies/the-game/)
+- [Stove League 1x15](https://quicoto.github.io/reviews/tv-shows/stove-league/1x15)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
