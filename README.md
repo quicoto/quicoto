@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Stove League 1x15](https://quicoto.github.io/reviews/tv-shows/stove-league/1x15)
+- [Welcome to the Outcast&#39;s Restaurant! 1x3](https://quicoto.github.io/reviews/tv-shows/welcome-to-the-outcast-s-restaurant/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
