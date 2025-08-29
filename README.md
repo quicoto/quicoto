@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Welcome to the Outcast&#39;s Restaurant! 1x3](https://quicoto.github.io/reviews/tv-shows/welcome-to-the-outcast-s-restaurant/1x3)
+- [Medaka Kuroiwa is Impervious to My Charms 1x1](https://quicoto.github.io/reviews/tv-shows/medaka-kuroiwa-is-impervious-to-my-charms/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
