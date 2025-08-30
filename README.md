@@ -16,11 +16,11 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to turn off thumbnail generation in WordPress](https://ricard.dev/how-to-turn-off-thumbnail-generation-in-wordpress/)
+- [How to include markdown files in Hugo](https://ricard.dev/how-to-include-markdown-files-in-hugo/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Free: Take Your Marks](https://anime.ricard.blog/reviews/free-take-your-marks/)
+- [Free! (Season 3)](https://anime.ricard.blog/reviews/free-season-3/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Medaka Kuroiwa is Impervious to My Charms 1x1](https://quicoto.github.io/reviews/tv-shows/medaka-kuroiwa-is-impervious-to-my-charms/1x1)
+- [Welcome to the Outcast&#39;s Restaurant! 1x6](https://quicoto.github.io/reviews/tv-shows/welcome-to-the-outcast-s-restaurant/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
