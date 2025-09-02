@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Welcome to the Outcast&#39;s Restaurant! 1x6](https://quicoto.github.io/reviews/tv-shows/welcome-to-the-outcast-s-restaurant/1x6)
+- [Butterfly 1x4](https://quicoto.github.io/reviews/tv-shows/butterfly/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
