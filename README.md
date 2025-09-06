@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Butterfly 1x5](https://quicoto.github.io/reviews/tv-shows/butterfly/1x5)
+- [Dan Da Dan 1x22](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x22)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
