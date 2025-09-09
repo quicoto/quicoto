@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 1x22](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x22)
+- [Kaiju No. 8 1x20](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x20)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
