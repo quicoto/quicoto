@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaiju No. 8 1x20](https://quicoto.github.io/reviews/tv-shows/kaiju-no-8/1x20)
+- [Gachiakuta 1x9](https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
