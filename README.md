@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaoru Hana wa Rin to Saku 1x2](https://quicoto.github.io/reviews/tv-shows/kaoru-hana-wa-rin-to-saku/1x2)
+- [Dan Da Dan 1x23](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x23)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
