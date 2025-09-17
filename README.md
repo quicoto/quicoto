@@ -12,7 +12,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #49: FE is complex, can we make it simpler?](https://share.transistor.fm/s/af48bff2)
+- [Ep. #50: How to deal with impossible deadlines](https://share.transistor.fm/s/03d6fd95)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
