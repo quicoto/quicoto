@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Free! (Season 3)](https://anime.ricard.blog/reviews/free-season-3/)
+- [Sono Bisque Doll wa Koi wo Suru (Season 2)](https://anime.ricard.blog/reviews/sono-bisque-doll-wa-koi-wo-suru-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
