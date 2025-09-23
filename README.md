@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dan Da Dan 1x23](https://quicoto.github.io/reviews/tv-shows/dan-da-dan/1x23)
+- [The Terminal List: Dark Wolf 1x4](https://quicoto.github.io/reviews/tv-shows/the-terminal-list-dark-wolf/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
