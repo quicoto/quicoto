@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Terminal List: Dark Wolf 1x6](https://quicoto.github.io/reviews/tv-shows/the-terminal-list-dark-wolf/1x6)
+- [Tougen Anki 1x11](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
