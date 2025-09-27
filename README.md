@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tougen Anki 1x11](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x11)
+- [The Masterful Cat Is Depressed Again Today 1x1](https://quicoto.github.io/reviews/tv-shows/the-masterful-cat-is-depressed-again-today/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
