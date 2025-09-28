@@ -32,7 +32,7 @@
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Know Thy Enemy (Grimm&#39;s War, #5)](https://www.goodreads.com/review/show/7019803899?utm_medium=api&amp;utm_source=rss)
+- [Artificial Condition (The Murderbot Diaries, #2)](https://www.goodreads.com/review/show/3206567106?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
