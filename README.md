@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Sono Bisque Doll wa Koi wo Suru (Season 2)](https://anime.ricard.blog/reviews/sono-bisque-doll-wa-koi-wo-suru-season-2/)
+- [Kaiju No. 8 (Season 2) was too short](https://anime.ricard.blog/rants/kaiju-no-8-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Masterful Cat Is Depressed Again Today 1x1](https://quicoto.github.io/reviews/tv-shows/the-masterful-cat-is-depressed-again-today/1x1)
+- [The Masterful Cat Is Depressed Again Today 1x4](https://quicoto.github.io/reviews/tv-shows/the-masterful-cat-is-depressed-again-today/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
