@@ -20,15 +20,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Kaiju No. 8 (Season 2) was too short](https://anime.ricard.blog/rants/kaiju-no-8-season-2/)
+- [Welcome to the Outcast&#39;s Restaurant!](https://anime.ricard.blog/reviews/welcome-to-the-outcasts-restaurant/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Death Note - Volume 2](https://manga.ricard.blog/reviews/death-note/volume/2/)
+- [Naruto - Volume 28](https://manga.ricard.blog/reviews/naruto/volume/28/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tougen Anki 1x12](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x12)
+- [Welcome to the Outcast&#39;s Restaurant! 1x11](https://quicoto.github.io/reviews/tv-shows/welcome-to-the-outcast-s-restaurant/1x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
