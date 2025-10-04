@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 28](https://manga.ricard.blog/reviews/naruto/volume/28/)
+- [Naruto - Volume 29](https://manga.ricard.blog/reviews/naruto/volume/29/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
