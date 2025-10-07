@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 29](https://manga.ricard.blog/reviews/naruto/volume/29/)
+- [Naruto - Volume 30](https://manga.ricard.blog/reviews/naruto/volume/30/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Noche de niebla en Praga (2024)](https://www.quicoto.com/noche-de-niebla-en-praga-2024/)
+- [El Panteón de Agripa, Fontana de Trevi y ñoqui – Roma 2025](https://www.quicoto.com/el-panteon-de-agripa-fontana-de-trevi-y-noqui-roma-2025/)
