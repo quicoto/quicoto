@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 30](https://manga.ricard.blog/reviews/naruto/volume/30/)
+- [Naruto - Volume 31](https://manga.ricard.blog/reviews/naruto/volume/31/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Masterful Cat Is Depressed Again Today 1x7](https://quicoto.github.io/reviews/tv-shows/the-masterful-cat-is-depressed-again-today/1x7)
+- [The Masterful Cat Is Depressed Again Today 1x11](https://quicoto.github.io/reviews/tv-shows/the-masterful-cat-is-depressed-again-today/1x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [El Panteón de Agripa, Fontana de Trevi y ñoqui – Roma 2025](https://www.quicoto.com/el-panteon-de-agripa-fontana-de-trevi-y-noqui-roma-2025/)
+- [Kawagoe – Viaje a Japón 2023](https://www.quicoto.com/kawagoe-viaje-a-japon-2023/)
