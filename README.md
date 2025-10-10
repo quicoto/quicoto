@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Welcome to the Outcast&#39;s Restaurant!](https://anime.ricard.blog/reviews/welcome-to-the-outcasts-restaurant/)
+- [The Masterful Cat Is Depressed Again Today](https://anime.ricard.blog/reviews/the-masterful-cat-is-depressed-again-today/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Masterful Cat Is Depressed Again Today 1x11](https://quicoto.github.io/reviews/tv-shows/the-masterful-cat-is-depressed-again-today/1x11)
+- [Mobland 1x1](https://quicoto.github.io/reviews/tv-shows/mobland/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
