@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mobland 1x1](https://quicoto.github.io/reviews/tv-shows/mobland/1x1)
+- [Boku no Hero Academia 8x1](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
