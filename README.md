@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 31](https://manga.ricard.blog/reviews/naruto/volume/31/)
+- [Naruto - Volume 32](https://manga.ricard.blog/reviews/naruto/volume/32/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 8x1](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x1)
+- [Tougen Anki 1x14](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x14)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
