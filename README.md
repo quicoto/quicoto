@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 32](https://manga.ricard.blog/reviews/naruto/volume/32/)
+- [Naruto - Volume 33](https://manga.ricard.blog/reviews/naruto/volume/33/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tougen Anki 1x14](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x14)
+- [Mizu Zokusei no Mahoutsukai 1x2](https://quicoto.github.io/reviews/tv-shows/mizu-zokusei-no-mahoutsukai/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
