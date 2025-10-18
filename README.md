@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 33](https://manga.ricard.blog/reviews/naruto/volume/33/)
+- [Naruto - Volume 34](https://manga.ricard.blog/reviews/naruto/volume/34/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mizu Zokusei no Mahoutsukai 1x2](https://quicoto.github.io/reviews/tv-shows/mizu-zokusei-no-mahoutsukai/1x2)
+- [The Diplomat 3x2](https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
