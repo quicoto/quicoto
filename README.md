@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Diplomat 3x2](https://quicoto.github.io/reviews/tv-shows/the-diplomat/3x2)
+- [Boots 1x6](https://quicoto.github.io/reviews/tv-shows/boots/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
