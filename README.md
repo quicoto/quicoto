@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boots 1x6](https://quicoto.github.io/reviews/tv-shows/boots/1x6)
+- [Boots 1x7](https://quicoto.github.io/reviews/tv-shows/boots/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
