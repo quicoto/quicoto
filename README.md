@@ -12,7 +12,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #50: How to deal with impossible deadlines](https://share.transistor.fm/s/03d6fd95)
+- [Ep. #51: The State of the Framework in 2025](https://share.transistor.fm/s/c8c83bae)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
