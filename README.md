@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Re-watching The Last Samurai](https://ricard.blog/personal/re-watching-the-last-samurai/)
+- [38](https://ricard.blog/personal/38/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 34](https://manga.ricard.blog/reviews/naruto/volume/34/)
+- [Blue Exorcist - Volume 8](https://manga.ricard.blog/reviews/blue-exorcist/volume/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boots 1x7](https://quicoto.github.io/reviews/tv-shows/boots/1x7)
+- [Boku no Hero Academia 8x3](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
