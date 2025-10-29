@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 8x3](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x3)
+- [Watashi wo Tabetai, Hitodenashi 1x1](https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
