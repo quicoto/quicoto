@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [38](https://ricard.blog/personal/38/)
+- [Printing photos is hard, very hard.](https://ricard.blog/rant/printing-photos-is-hard-very-hard/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 8](https://manga.ricard.blog/reviews/blue-exorcist/volume/8/)
+- [Haikyu - Volume 16](https://manga.ricard.blog/reviews/haikyuu/volume/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Watashi wo Tabetai, Hitodenashi 1x1](https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x1)
+- [Tougen Anki 1x15](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x15)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
