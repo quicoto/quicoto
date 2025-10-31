@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tougen Anki 1x15](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x15)
+- [Let&#39;s Play 1x4](https://quicoto.github.io/reviews/tv-shows/let-s-play/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
