@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Masterful Cat Is Depressed Again Today](https://anime.ricard.blog/reviews/the-masterful-cat-is-depressed-again-today/)
+- [Let&#39;s Play](https://anime.ricard.blog/rants/lets-play/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
