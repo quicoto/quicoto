@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Let&#39;s Play 1x4](https://quicoto.github.io/reviews/tv-shows/let-s-play/1x4)
+- [Watashi wo Tabetai, Hitodenashi 1x3](https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
