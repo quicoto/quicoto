@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Printing photos is hard, very hard.](https://ricard.blog/rant/printing-photos-is-hard-very-hard/)
+- [We deserve what’s coming with AI and the web](https://ricard.blog/rant/we-deserve-whats-coming-with-ai-and-the-web/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
