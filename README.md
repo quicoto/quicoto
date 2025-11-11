@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Gachiakuta 1x17](https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x17)
+- [Boku no Hero Academia 8x5](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
