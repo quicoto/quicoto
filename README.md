@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 9](https://manga.ricard.blog/reviews/blue-exorcist/volume/9/)
+- [Blue Exorcist - Volume 10](https://manga.ricard.blog/reviews/blue-exorcist/volume/10/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 8x6](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x6)
+- [Haunted Hotel 1x2](https://quicoto.github.io/reviews/tv-shows/haunted-hotel/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
