@@ -16,7 +16,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to include markdown files in Hugo](https://ricard.dev/how-to-include-markdown-files-in-hugo/)
+- [Using AI to review your code](https://ricard.dev/using-ai-to-review-your-code/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haunted Hotel 1x2](https://quicoto.github.io/reviews/tv-shows/haunted-hotel/1x2)
+- [Haunted Hotel 1x3](https://quicoto.github.io/reviews/tv-shows/haunted-hotel/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
