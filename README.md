@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Watashi wo Tabetai, Hitodenashi 1x5](https://quicoto.github.io/reviews/tv-shows/watashi-wo-tabetai-hitodenashi/1x5)
+- [Haunted Hotel 1x10](https://quicoto.github.io/reviews/tv-shows/haunted-hotel/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
