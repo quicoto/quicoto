@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Blue Exorcist - Volume 10](https://manga.ricard.blog/reviews/blue-exorcist/volume/10/)
+- [The Promised Neverland - Volume 12](https://manga.ricard.blog/reviews/the-promised-neverland/volume/12/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Kawagoe – Viaje a Japón 2023](https://www.quicoto.com/kawagoe-viaje-a-japon-2023/)
+- [Palacio Ducal de Venecia y La Fenice](https://www.quicoto.com/palacio-ducal-de-venecia-y-la-fenice/)
