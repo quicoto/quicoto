@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haunted Hotel 1x10](https://quicoto.github.io/reviews/tv-shows/haunted-hotel/1x10)
+- [Boku no Hero Academia 8x7](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
