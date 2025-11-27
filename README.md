@@ -12,7 +12,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #51: The State of the Framework in 2025](https://share.transistor.fm/s/c8c83bae)
+- [Ep. #52: The Importance of Taking Time Off](https://share.transistor.fm/s/96511adb)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 8x7](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x7)
+- [Mamahaha no Tsurego ga Motokano datta 1x3](https://quicoto.github.io/reviews/tv-shows/mamahaha-no-tsurego-ga-motokano-datta/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
