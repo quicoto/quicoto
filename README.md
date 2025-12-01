@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Let&#39;s Play](https://anime.ricard.blog/rants/lets-play/)
+- [The Stranger by the Shore](https://anime.ricard.blog/reviews/the-stranger-by-the-shore/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
