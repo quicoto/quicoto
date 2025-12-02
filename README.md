@@ -12,7 +12,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #52: The Importance of Taking Time Off](https://share.transistor.fm/s/96511adb)
+- [Ep. #53: The raise of the amateur website and AI](https://share.transistor.fm/s/c7073a1d)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mamahaha no Tsurego ga Motokano datta 1x3](https://quicoto.github.io/reviews/tv-shows/mamahaha-no-tsurego-ga-motokano-datta/1x3)
+- [Mamahaha no Tsurego ga Motokano datta 1x6](https://quicoto.github.io/reviews/tv-shows/mamahaha-no-tsurego-ga-motokano-datta/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
