@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mamahaha no Tsurego ga Motokano datta 1x6](https://quicoto.github.io/reviews/tv-shows/mamahaha-no-tsurego-ga-motokano-datta/1x6)
+- [Mamahaha no Tsurego ga Motokano datta 1x9](https://quicoto.github.io/reviews/tv-shows/mamahaha-no-tsurego-ga-motokano-datta/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
