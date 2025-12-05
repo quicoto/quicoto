@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Stranger by the Shore](https://anime.ricard.blog/reviews/the-stranger-by-the-shore/)
+- [My Stepmom&#39;s Daughter Is My Ex](https://anime.ricard.blog/reviews/my-stepmoms-daughter-is-my-ex/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mamahaha no Tsurego ga Motokano datta 1x11](https://quicoto.github.io/reviews/tv-shows/mamahaha-no-tsurego-ga-motokano-datta/1x11)
+- [Boku no Hero Academia 8x2](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Palacio Ducal de Venecia y La Fenice](https://www.quicoto.com/palacio-ducal-de-venecia-y-la-fenice/)
+- [East Side Gallery y salchichas – Berlin](https://www.quicoto.com/east-side-gallery-y-salchichas-berlin/)
