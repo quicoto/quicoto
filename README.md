@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Gachiakuta 1x19](https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x19)
+- [Last Samurai Standing 1x1](https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
