@@ -12,7 +12,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #53: The raise of the amateur website and AI](https://share.transistor.fm/s/c7073a1d)
+- [Ep. #54: From &#34;Works on Chrome&#34; to &#34;Works on Web&#34;](https://share.transistor.fm/s/818675b2)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Last Samurai Standing 1x1](https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x1)
+- [Running Point 1x3](https://quicoto.github.io/reviews/tv-shows/running-point/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
