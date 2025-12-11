@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 14](https://manga.ricard.blog/reviews/the-promised-neverland/volume/14/)
+- [The Promised Neverland - Volume 15](https://manga.ricard.blog/reviews/the-promised-neverland/volume/15/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Running Point 1x3](https://quicoto.github.io/reviews/tv-shows/running-point/1x3)
+- [Last Samurai Standing 1x3](https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [East Side Gallery y salchichas – Berlin](https://www.quicoto.com/east-side-gallery-y-salchichas-berlin/)
+- [Wall Street y el Distrito Financiero – Nueva York](https://www.quicoto.com/wall-street-y-el-distrito-financiero-nueva-york/)
