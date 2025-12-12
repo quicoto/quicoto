@@ -16,7 +16,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Using AI to review your code](https://ricard.dev/using-ai-to-review-your-code/)
+- [How to improve Matomo to bypass ad blockers](https://ricard.dev/how-to-improve-matomo-to-bypass-ad-blockers/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Last Samurai Standing 1x3](https://quicoto.github.io/reviews/tv-shows/last-samurai-standing/1x3)
+- [Boku no Hero Academia 8x10](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
