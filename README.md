@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [My Stepmom&#39;s Daughter Is My Ex](https://anime.ricard.blog/reviews/my-stepmoms-daughter-is-my-ex/)
+- [Boku no Hero Academia (Season 8)](https://anime.ricard.blog/reviews/boku-no-hero-academia-season-8/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia 8x10](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x10)
+- [Boku no Hero Academia 8x11](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia/8x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
