@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Gachiakuta 1x22](https://quicoto.github.io/reviews/tv-shows/gachiakuta/1x22)
+- [My Awkward Senpai 1x2](https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
