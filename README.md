@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Awkward Senpai 1x2](https://quicoto.github.io/reviews/tv-shows/my-awkward-senpai/1x2)
+- [Tougen Anki 1x22](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x22)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
