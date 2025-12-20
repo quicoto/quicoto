@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 15](https://manga.ricard.blog/reviews/the-promised-neverland/volume/15/)
+- [The Promised Neverland - Volume 16](https://manga.ricard.blog/reviews/the-promised-neverland/volume/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
