@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tougen Anki 1x22](https://quicoto.github.io/reviews/tv-shows/tougen-anki/1x22)
+- [Wotaku ni Koi wa Muzukashii 1x10](https://quicoto.github.io/reviews/tv-shows/wotaku-ni-koi-wa-muzukashii/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
