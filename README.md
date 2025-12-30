@@ -20,11 +20,11 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Boku no Hero Academia (Season 8)](https://anime.ricard.blog/reviews/boku-no-hero-academia-season-8/)
+- [This Monster Wants to Eat Me](https://anime.ricard.blog/rants/this-monster-wants-to-eat-me/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 16](https://manga.ricard.blog/reviews/the-promised-neverland/volume/16/)
+- [Omniscient Reader](https://manga.ricard.blog/webtoon/omniscient-reader/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
