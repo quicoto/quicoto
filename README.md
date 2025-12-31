@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [This Monster Wants to Eat Me](https://anime.ricard.blog/rants/this-monster-wants-to-eat-me/)
+- [Free! Movie 4: The Final Stroke - Zenpen](https://anime.ricard.blog/reviews/free-the-final-stroke-zenpen/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
