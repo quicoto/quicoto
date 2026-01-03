@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wotaku ni Koi wa Muzukashii 1x10](https://quicoto.github.io/reviews/tv-shows/wotaku-ni-koi-wa-muzukashii/1x10)
+- [Dive!! 1x1](https://quicoto.github.io/reviews/tv-shows/dive/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Wall Street y el Distrito Financiero – Nueva York](https://www.quicoto.com/wall-street-y-el-distrito-financiero-nueva-york/)
+- [Shibuya, Shinjuku y Akihabara – Japón 2024](https://www.quicoto.com/shibuya-shinjuku-y-akihabara-japon-2024/)
