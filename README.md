@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Free! Movie 4: The Final Stroke - Zenpen](https://anime.ricard.blog/reviews/free-the-final-stroke-zenpen/)
+- [Demon Slayer - The Movie: Infinity Castle (Part 1)](https://anime.ricard.blog/reviews/kimetsu-no-yaiba-movie-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
