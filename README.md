@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Shibuya, Shinjuku y Akihabara – Japón 2024](https://www.quicoto.com/shibuya-shinjuku-y-akihabara-japon-2024/)
+- [Ciudad del Vaticano – Roma 2025](https://www.quicoto.com/ciudad-del-vaticano-roma-2025/)
