@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Demon Slayer - The Movie: Infinity Castle (Part 1)](https://anime.ricard.blog/reviews/kimetsu-no-yaiba-movie-1/)
+- [Tougen Anki (Season 1)](https://anime.ricard.blog/reviews/tougen-anki-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dive!! 1x1](https://quicoto.github.io/reviews/tv-shows/dive/1x1)
+- [The Invisible Man and His Soon-to-Be Wife 1x1](https://quicoto.github.io/reviews/tv-shows/the-invisible-man-and-his-soon-to-be-wife/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
