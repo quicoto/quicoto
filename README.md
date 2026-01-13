@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wash It All Away 1x1](https://quicoto.github.io/reviews/tv-shows/wash-it-all-away/1x1)
+- [Inventing Anna 1x2](https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
