@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Omniscient Reader](https://manga.ricard.blog/webtoon/omniscient-reader/)
+- [Kimetsu no Yaiba - Volume 12](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/12/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Inventing Anna 1x2](https://quicoto.github.io/reviews/tv-shows/inventing-anna/1x2)
+- [Jujutsu Kaisen 1x49](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x49)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
