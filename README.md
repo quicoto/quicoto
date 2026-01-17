@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Ciudad del Vaticano – Roma 2025](https://www.quicoto.com/ciudad-del-vaticano-roma-2025/)
+- [Castillo de Odawara – Japón 2023](https://www.quicoto.com/castillo-de-odawara-japon-2023/)
