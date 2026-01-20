@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Dive!! 1x5](https://quicoto.github.io/reviews/tv-shows/dive/1x5)
+- [The Night Manager 2x1](https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
