@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Manager 2x1](https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x1)
+- [Wash It All Away 1x3](https://quicoto.github.io/reviews/tv-shows/wash-it-all-away/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
