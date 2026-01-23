@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Wash It All Away 1x3](https://quicoto.github.io/reviews/tv-shows/wash-it-all-away/1x3)
+- [Isekai no Sata wa Shachiku Shidai 1x3](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
