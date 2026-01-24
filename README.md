@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 12](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/12/)
+- [Kimetsu no Yaiba - Volume 13](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/13/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Isekai no Sata wa Shachiku Shidai 1x3](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x3)
+- [The Night Manager 2x4](https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
