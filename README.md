@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Manager 2x4](https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x4)
+- [Jujutsu Kaisen 1x51](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x51)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
