@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [We deserve what’s coming with AI and the web](https://ricard.blog/rant/we-deserve-whats-coming-with-ai-and-the-web/)
+- [Taking advantage of the weak Yen](https://ricard.blog/other/taking-advantage-of-the-weak-yen/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x51](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x51)
+- [Boku no Hero Academia: Vigilantes 2x3](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
