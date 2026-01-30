@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia: Vigilantes 2x3](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x3)
+- [Solo Camping for Two 1x1](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
