@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 13](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/13/)
+- [Kimetsu no Yaiba - Volume 14](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/14/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
