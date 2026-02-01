@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x1](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x1)
+- [Sousou no Frieren 1x31](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x31)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
