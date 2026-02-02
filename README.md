@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Gachiakuta (Season 1)](https://anime.ricard.blog/reviews/gachiakuta-season-1/)
+- [Hyakuemu](https://anime.ricard.blog/reviews/hyakuemu/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sousou no Frieren 1x31](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x31)
+- [Jujutsu Kaisen 1x52](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x52)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Castillo de Odawara – Japón 2023](https://www.quicoto.com/castillo-de-odawara-japon-2023/)
+- [Niebla matutina en Venecia (2024)](https://www.quicoto.com/niebla-matutina-en-venecia-2024/)
