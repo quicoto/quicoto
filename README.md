@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x52](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x52)
+- [Boku no Hero Academia: Vigilantes 2x4](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
