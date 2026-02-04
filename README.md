@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia: Vigilantes 2x4](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x4)
+- [The Night Manager 2x5](https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
