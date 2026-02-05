@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Manager 2x5](https://quicoto.github.io/reviews/tv-shows/the-night-manager/2x5)
+- [Isekai no Sata wa Shachiku Shidai 1x4](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
