@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Isekai no Sata wa Shachiku Shidai 1x4](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x4)
+- [Solo Camping for Two 1x3](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
