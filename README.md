@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x3](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x3)
+- [The Invisible Man and His Soon-to-Be Wife 1x5](https://quicoto.github.io/reviews/tv-shows/the-invisible-man-and-his-soon-to-be-wife/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
