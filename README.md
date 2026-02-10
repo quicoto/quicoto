@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x4](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x4)
+- [Jujutsu Kaisen 1x53](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x53)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
