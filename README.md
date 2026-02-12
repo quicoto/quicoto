@@ -12,7 +12,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #54: From &#34;Works on Chrome&#34; to &#34;Works on Web&#34;](https://share.transistor.fm/s/818675b2)
+- [Ep. #55: CSS is getting a boost in 2026](https://share.transistor.fm/s/b5cb4fb6)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Boku no Hero Academia: Vigilantes 2x5](https://quicoto.github.io/reviews/tv-shows/boku-no-hero-academia-vigilantes/2x5)
+- [You and I Are Polar Opposites 1x3](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
