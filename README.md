@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 14](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/14/)
+- [Kimetsu no Yaiba - Volume 15](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/15/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 1x3](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x3)
+- [Dive!! 1x10](https://quicoto.github.io/reviews/tv-shows/dive/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
