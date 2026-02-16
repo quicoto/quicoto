@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Invisible Man and His Soon-to-Be Wife 1x6](https://quicoto.github.io/reviews/tv-shows/the-invisible-man-and-his-soon-to-be-wife/1x6)
+- [Jujutsu Kaisen 1x54](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x54)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
