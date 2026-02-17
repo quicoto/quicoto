@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Hyakuemu](https://anime.ricard.blog/reviews/hyakuemu/)
+- [Dive!!](https://anime.ricard.blog/reviews/dive/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x54](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x54)
+- [Solo Camping for Two 1x5](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
