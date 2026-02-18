@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x5](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x5)
+- [You and I Are Polar Opposites 1x6](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
