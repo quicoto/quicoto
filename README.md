@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Kimetsu no Yaiba - Volume 15](https://manga.ricard.blog/reviews/kimetsu-no-yaiba/volume/15/)
+- [Naruto - Volume 35](https://manga.ricard.blog/reviews/naruto/volume/35/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 1x6](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x6)
+- [Isekai no Sata wa Shachiku Shidai 1x2](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
