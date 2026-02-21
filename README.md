@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Taking advantage of the weak Yen](https://ricard.blog/other/taking-advantage-of-the-weak-yen/)
+- [Trip planning vs trip improvising?](https://ricard.blog/personal/trip-planning-vs-trip-improvising/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x6](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x6)
+- [The Night Agent 3x1](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
