@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 3x2](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x2)
+- [You and I Are Polar Opposites 1x7](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
