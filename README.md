@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 1x7](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x7)
+- [The Night Agent 3x3](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Niebla matutina en Venecia (2024)](https://www.quicoto.com/niebla-matutina-en-venecia-2024/)
+- [Brooklyn, la Estatua de la Libertad y ferries – Nueva York 2023](https://www.quicoto.com/brooklyn-la-estatua-de-la-libertad-y-ferries-nueva-york-2023/)
