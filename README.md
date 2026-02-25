@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 35](https://manga.ricard.blog/reviews/naruto/volume/35/)
+- [Dragon Ball - Volume 3](https://manga.ricard.blog/reviews/dragon-ball/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 3x3](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x3)
+- [Solo Camping for Two 1x7](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
