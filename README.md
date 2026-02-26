@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Dragon Ball - Volume 3](https://manga.ricard.blog/reviews/dragon-ball/volume/3/)
+- [Naruto - Volume 36](https://manga.ricard.blog/reviews/naruto/volume/36/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
