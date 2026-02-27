@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x7](https://quicoto.github.io/reviews/tv-shows/solo-camping-for-two/1x7)
+- [The Night Agent 3x5](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
