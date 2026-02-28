@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 3x5](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x5)
+- [Jigokuraku 2x3](https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
