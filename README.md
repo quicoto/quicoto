@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Trip planning vs trip improvising?](https://ricard.blog/personal/trip-planning-vs-trip-improvising/)
+- [Free train tickets](https://ricard.blog/story/free-train-tickets/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -28,11 +28,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jigokuraku 2x3](https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x3)
+- [You and I Are Polar Opposites 1x8](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [Artificial Condition (The Murderbot Diaries, #2)](https://www.goodreads.com/review/show/3206567106?utm_medium=api&amp;utm_source=rss)
+- [The Recruit (Cherub, #1)](https://www.goodreads.com/review/show/8376067291?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
