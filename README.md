@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Free train tickets](https://ricard.blog/story/free-train-tickets/)
+- [Review: The Recruit (CHERUB, #1)](https://ricard.blog/review/review-the-recruit-cherub-1/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
