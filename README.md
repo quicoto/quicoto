@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 36](https://manga.ricard.blog/reviews/naruto/volume/36/)
+- [Haikyu - Volume 17](https://manga.ricard.blog/reviews/haikyuu/volume/17/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 1x8](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x8)
+- [Isekai no Sata wa Shachiku Shidai 1x9](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
