@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: The Recruit (CHERUB, #1)](https://ricard.blog/review/review-the-recruit-cherub-1/)
+- [Weeknote 10 (2026)](https://ricard.blog/weeknote/weeknote-10-2026/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
