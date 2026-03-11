@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Weeknote 10 (2026)](https://ricard.blog/weeknote/weeknote-10-2026/)
+- [More than 1 credit card](https://ricard.blog/story/more-than-1-credit-card/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sousou no Frieren 1x35](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x35)
+- [Jujutsu Kaisen 1x55](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x55)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
