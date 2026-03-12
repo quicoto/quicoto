@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 17](https://manga.ricard.blog/reviews/haikyuu/volume/17/)
+- [Naruto - Volume 37](https://manga.ricard.blog/reviews/naruto/volume/37/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
