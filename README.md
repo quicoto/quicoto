@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x55](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x55)
+- [Isekai no Sata wa Shachiku Shidai 1x10](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
