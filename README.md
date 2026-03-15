@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Isekai no Sata wa Shachiku Shidai 1x10](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x10)
+- [Sousou no Frieren 1x36](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x36)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
