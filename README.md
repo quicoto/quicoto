@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sousou no Frieren 1x36](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x36)
+- [Jujutsu Kaisen 1x56](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x56)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
