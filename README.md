@@ -16,7 +16,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to improve Matomo to bypass ad blockers](https://ricard.dev/how-to-improve-matomo-to-bypass-ad-blockers/)
+- [One of the best AI uses for coding is creating scripts](https://ricard.dev/one-of-the-best-ai-uses-for-coding-is-creating-scripts/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x56](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x56)
+- [The Night Agent 3x9](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
