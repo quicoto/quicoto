@@ -16,7 +16,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [One of the best AI uses for coding is creating scripts](https://ricard.dev/one-of-the-best-ai-uses-for-coding-is-creating-scripts/)
+- [How to reuse GitHub workflows](https://ricard.dev/how-to-reuse-github-workflows/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Night Agent 3x9](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x9)
+- [The Invisible Man and His Soon-to-Be Wife 1x11](https://quicoto.github.io/reviews/tv-shows/the-invisible-man-and-his-soon-to-be-wife/1x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
