@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [More than 1 credit card](https://ricard.blog/story/more-than-1-credit-card/)
+- [Going to Japan (again) 2026](https://ricard.blog/personal/going-to-japan-again-2026/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Invisible Man and His Soon-to-Be Wife 1x11](https://quicoto.github.io/reviews/tv-shows/the-invisible-man-and-his-soon-to-be-wife/1x11)
+- [Jujutsu Kaisen 1x58](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x58)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Brooklyn, la Estatua de la Libertad y ferries – Nueva York 2023](https://www.quicoto.com/brooklyn-la-estatua-de-la-libertad-y-ferries-nueva-york-2023/)
+- [Día 0 – Viaje a Japón 2026](https://www.quicoto.com/dia-0-viaje-a-japon-2026/)
