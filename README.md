@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 0 – Viaje a Japón 2026](https://www.quicoto.com/dia-0-viaje-a-japon-2026/)
+- [Día 1 – Viaje a Japón 2026](https://www.quicoto.com/dia-1-viaje-a-japon-2026/)
