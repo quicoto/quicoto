@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x58](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x58)
+- [The Night Agent 3x10](https://quicoto.github.io/reviews/tv-shows/the-night-agent/3x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 1 – Viaje a Japón 2026](https://www.quicoto.com/dia-1-viaje-a-japon-2026/)
+- [Día 2 – Viaje a Japón 2026](https://www.quicoto.com/dia-2-viaje-a-japon-2026/)
