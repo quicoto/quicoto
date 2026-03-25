@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 1x11](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x11)
+- [Sousou no Frieren 1x37](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x37)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 3 – Viaje a Japón 2026](https://www.quicoto.com/dia-3-viaje-a-japon-2026/)
+- [Día 4 – Viaje a Japón 2026](https://www.quicoto.com/dia-4-viaje-a-japon-2026/)
