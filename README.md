@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sousou no Frieren 1x37](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x37)
+- [Young Sherlock 1x2](https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 5 – Viaje a Japón 2026](https://www.quicoto.com/dia-5-viaje-a-japon-2026/)
+- [Día 6 – Viaje a Japón 2026](https://www.quicoto.com/dia-6-viaje-a-japon-2026/)
