@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Dive!!](https://anime.ricard.blog/reviews/dive/)
+- [Frieren: Beyond Journey&#39;s End (Season 2)](https://anime.ricard.blog/rants/frieren-beyond-journeys-end-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Young Sherlock 1x2](https://quicoto.github.io/reviews/tv-shows/young-sherlock/1x2)
+- [Sousou no Frieren 1x38](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x38)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 7 – Viaje a Japón 2026](https://www.quicoto.com/dia-7-viaje-a-japon-2026/)
+- [Día 8 – Viaje a Japón 2026](https://www.quicoto.com/dia-8-viaje-a-japon-2026/)
