@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Frieren: Beyond Journey&#39;s End (Season 2)](https://anime.ricard.blog/rants/frieren-beyond-journeys-end-season-2/)
+- [Isekai no Sata wa Shachiku Shidai](https://anime.ricard.blog/reviews/isekai-no-sata-wa-shachiku-shidai/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Sousou no Frieren 1x38](https://quicoto.github.io/reviews/tv-shows/sousou-no-frieren/1x38)
+- [Isekai no Sata wa Shachiku Shidai 1x12](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 8 – Viaje a Japón 2026](https://www.quicoto.com/dia-8-viaje-a-japon-2026/)
+- [Día 9 – Viaje a Japón 2026](https://www.quicoto.com/dia-9-viaje-a-japon-2026/)
