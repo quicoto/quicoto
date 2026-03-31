@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Isekai no Sata wa Shachiku Shidai](https://anime.ricard.blog/reviews/isekai-no-sata-wa-shachiku-shidai/)
+- [The Invisible Man and His Soon-to-Be Wife](https://anime.ricard.blog/reviews/invisible-man-and-his-soon-to-be-wife/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Isekai no Sata wa Shachiku Shidai 1x12](https://quicoto.github.io/reviews/tv-shows/isekai-no-sata-wa-shachiku-shidai/1x12)
+- [Tamon&#39;s B-Side 1x2](https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 9 – Viaje a Japón 2026](https://www.quicoto.com/dia-9-viaje-a-japon-2026/)
+- [Día 10 – Viaje a Japón 2026](https://www.quicoto.com/dia-10-viaje-a-japon-2026/)
