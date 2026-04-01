@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Going to Japan (again) 2026](https://ricard.blog/personal/going-to-japan-again-2026/)
+- [Webtoons coin-based subscription is bad](https://ricard.blog/rant/webtoons-coin-based-subscription-is-bad/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tamon&#39;s B-Side 1x2](https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x2)
+- [Tamon&#39;s B-Side 1x6](https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 10 – Viaje a Japón 2026](https://www.quicoto.com/dia-10-viaje-a-japon-2026/)
+- [Día 11 – Viaje a Japón 2026](https://www.quicoto.com/dia-11-viaje-a-japon-2026/)
