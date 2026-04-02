@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Invisible Man and His Soon-to-Be Wife](https://anime.ricard.blog/reviews/invisible-man-and-his-soon-to-be-wife/)
+- [You and I Are Polar Opposites (Season 1)](https://anime.ricard.blog/reviews/you-and-i-are-polar-opposites-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tamon&#39;s B-Side 1x6](https://quicoto.github.io/reviews/tv-shows/tamons-b-side/1x6)
+- [You and I Are Polar Opposites 1x12](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 11 – Viaje a Japón 2026](https://www.quicoto.com/dia-11-viaje-a-japon-2026/)
+- [Día 12 – Viaje a Japón 2026](https://www.quicoto.com/dia-12-viaje-a-japon-2026/)
