@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [You and I Are Polar Opposites (Season 1)](https://anime.ricard.blog/reviews/you-and-i-are-polar-opposites-season-1/)
+- [Tamon&#39;s B-Side](https://anime.ricard.blog/reviews/tamons-b-side/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 1x12](https://quicoto.github.io/reviews/tv-shows/you-and-i-are-polar-opposites/1x12)
+- [The Ramparts of Ice 1x1](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 13 – Viaje a Japón 2026](https://www.quicoto.com/dia-13-viaje-a-japon-2026/)
+- [Día 14 – Viaje a Japón 2026](https://www.quicoto.com/dia-14-viaje-a-japon-2026/)
