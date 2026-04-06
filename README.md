@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Tamon&#39;s B-Side](https://anime.ricard.blog/reviews/tamons-b-side/)
+- [Jujutsu Kaisen: Season 3](https://anime.ricard.blog/reviews/jujutsu-kaisen-season-3/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jujutsu Kaisen 1x59](https://quicoto.github.io/reviews/tv-shows/jujutsu-kaisen/1x59)
+- [Jigokuraku 2x10](https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 15 – Viaje a Japón 2026](https://www.quicoto.com/dia-15-viaje-a-japon-2026/)
+- [Día 16 – Viaje a Japón 2026](https://www.quicoto.com/dia-16-viaje-a-japon-2026/)
