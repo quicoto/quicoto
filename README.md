@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jigokuraku 2x10](https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x10)
+- [Buddy Daddies 1x2](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 16 – Viaje a Japón 2026](https://www.quicoto.com/dia-16-viaje-a-japon-2026/)
+- [Día 17 – Viaje a Japón 2026](https://www.quicoto.com/dia-17-viaje-a-japon-2026/)
