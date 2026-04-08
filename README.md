@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Jujutsu Kaisen: Season 3](https://anime.ricard.blog/reviews/jujutsu-kaisen-season-3/)
+- [Wash It All Away](https://anime.ricard.blog/reviews/wash-it-all-away/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Buddy Daddies 1x2](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x2)
+- [Buddy Daddies 1x3](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 17 – Viaje a Japón 2026](https://www.quicoto.com/dia-17-viaje-a-japon-2026/)
+- [Día 18 – Viaje a Japón 2026](https://www.quicoto.com/dia-18-viaje-a-japon-2026/)
