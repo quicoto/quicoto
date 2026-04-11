@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Jigokuraku 2x11](https://quicoto.github.io/reviews/tv-shows/jigokuraku/2x11)
+- [The Ramparts of Ice 1x2](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 20 – Viaje a Japón 2026](https://www.quicoto.com/dia-20-viaje-a-japon-2026/)
+- [Día 21 – Viaje a Japón 2026](https://www.quicoto.com/dia-21-viaje-a-japon-2026/)
