@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Ramparts of Ice 1x2](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x2)
+- [Kill Blue 1x1](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 21 – Viaje a Japón 2026](https://www.quicoto.com/dia-21-viaje-a-japon-2026/)
+- [Día 22 – Viaje a Japón 2026](https://www.quicoto.com/dia-22-viaje-a-japon-2026/)
