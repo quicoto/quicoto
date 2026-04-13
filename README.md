@@ -8,7 +8,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Webtoons coin-based subscription is bad](https://ricard.blog/rant/webtoons-coin-based-subscription-is-bad/)
+- [Playing Pokémon Go in Japan](https://ricard.blog/other/playing-pokemon-go-in-japan/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 22 – Viaje a Japón 2026](https://www.quicoto.com/dia-22-viaje-a-japon-2026/)
+- [Día 23 – Viaje a Japón 2026](https://www.quicoto.com/dia-23-viaje-a-japon-2026/)
