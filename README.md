@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x1](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x1)
+- [Buddy Daddies 1x4](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
