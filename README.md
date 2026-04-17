@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 38](https://manga.ricard.blog/reviews/naruto/volume/38/)
+- [Mr. Tiger&#39;s Snacks (Season 1)](https://manga.ricard.blog/webtoon/mr-tiger-snacks-season-1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
