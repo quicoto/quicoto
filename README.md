@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Buddy Daddies 1x4](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x4)
+- [Buddy Daddies 1x7](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
