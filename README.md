@@ -28,11 +28,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Buddy Daddies 1x7](https://quicoto.github.io/reviews/tv-shows/buddy-daddies/1x7)
+- [Kill Blue 1x2](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [The Recruit (Cherub, #1)](https://www.goodreads.com/review/show/8376067291?utm_medium=api&amp;utm_source=rss)
+- [The Recruit (CHERUB, #1)](https://www.goodreads.com/review/show/8376067291?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
