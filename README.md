@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Wash It All Away](https://anime.ricard.blog/reviews/wash-it-all-away/)
+- [Buddy Daddies](https://anime.ricard.blog/reviews/buddy-daddies/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
