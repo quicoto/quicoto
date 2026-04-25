@@ -20,11 +20,11 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Buddy Daddies](https://anime.ricard.blog/reviews/buddy-daddies/)
+- [Jigokuraku (Season 2)](https://anime.ricard.blog/reviews/jigokuraku-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Mr. Tiger&#39;s Snacks (Season 1)](https://manga.ricard.blog/webtoon/mr-tiger-snacks-season-1/)
+- [Naruto - Volume 40](https://manga.ricard.blog/reviews/naruto/volume/40/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
