@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Ramparts of Ice 1x3](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x3)
+- [Ganbare! Nakamura-kun!! 1x1](https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
