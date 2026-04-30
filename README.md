@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 40](https://manga.ricard.blog/reviews/naruto/volume/40/)
+- [Hirano to Kagiura - Volume 1](https://manga.ricard.blog/reviews/hirano-to-kagiura/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
