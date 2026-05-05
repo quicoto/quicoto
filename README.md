@@ -20,15 +20,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Jigokuraku (Season 2)](https://anime.ricard.blog/reviews/jigokuraku-season-2/)
+- [Boku no Hero Academia: More](https://anime.ricard.blog/rants/boku-no-hero-academia-more/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Hirano to Kagiura - Volume 1](https://manga.ricard.blog/reviews/hirano-to-kagiura/volume/1/)
+- [Naruto - Volume 41](https://manga.ricard.blog/reviews/naruto/volume/41/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ganbare! Nakamura-kun!! 1x4](https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x4)
+- [Ramparts Of Ice 1x5](https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
