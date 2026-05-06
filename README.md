@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ramparts Of Ice 1x5](https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x5)
+- [Kaoru Hana wa Rin to Saku 1x4](https://quicoto.github.io/reviews/tv-shows/kaoru-hana-wa-rin-to-saku/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
