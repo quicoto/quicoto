@@ -24,11 +24,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 41](https://manga.ricard.blog/reviews/naruto/volume/41/)
+- [Naruto - Volume 42](https://manga.ricard.blog/reviews/naruto/volume/42/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kaoru Hana wa Rin to Saku 1x4](https://quicoto.github.io/reviews/tv-shows/kaoru-hana-wa-rin-to-saku/1x4)
+- [My New Boss Is Goofy 1x1](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
