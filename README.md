@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ganbare! Nakamura-kun!! 1x7](https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x7)
+- [My New Boss Is Goofy 1x3](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
