@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My New Boss Is Goofy 1x2](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x2)
+- [Go! Go! Loser Ranger! 1x1](https://quicoto.github.io/reviews/tv-shows/go-go-loser-ranger/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 24 – Viaje a Japón 2026](https://www.quicoto.com/dia-24-viaje-a-japon-2026/)
+- [Primera noche en Torquay, Inglaterra (2025)](https://www.quicoto.com/primera-noche-en-torquay-inglaterra-2025/)
