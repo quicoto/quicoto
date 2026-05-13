@@ -16,7 +16,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to reuse GitHub workflows](https://ricard.dev/how-to-reuse-github-workflows/)
+- [How to set WordPress block default values](https://ricard.dev/how-to-set-wordpress-block-default-values/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Go! Go! Loser Ranger! 1x1](https://quicoto.github.io/reviews/tv-shows/go-go-loser-ranger/1x1)
+- [My New Boss Is Goofy 1x9](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
