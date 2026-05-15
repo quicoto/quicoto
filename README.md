@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My New Boss Is Goofy 1x10](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x10)
+- [Ramparts Of Ice 1x6](https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
