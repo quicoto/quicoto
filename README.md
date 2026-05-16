@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Naruto - Volume 42](https://manga.ricard.blog/reviews/naruto/volume/42/)
+- [Servamp - Volume 4](https://manga.ricard.blog/reviews/servamp/volume/4/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
