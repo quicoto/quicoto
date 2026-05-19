@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x6](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x6)
+- [My New Boss Is Goofy 1x11](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
