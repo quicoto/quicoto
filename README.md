@@ -20,7 +20,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Boku no Hero Academia: More](https://anime.ricard.blog/rants/boku-no-hero-academia-more/)
+- [My New Boss Is Goofy](https://anime.ricard.blog/reviews/my-new-boss-is-goofy/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My New Boss Is Goofy 1x11](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x11)
+- [My New Boss Is Goofy 1x12](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
