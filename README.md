@@ -16,7 +16,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to set WordPress block default values](https://ricard.dev/how-to-set-wordpress-block-default-values/)
+- [WordPress 7.0 demands themes to define an editor font](https://ricard.dev/wordpress-7-0-demands-themes-to-define-an-editor-font/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My New Boss Is Goofy 1x12](https://quicoto.github.io/reviews/tv-shows/my-new-boss-is-goofy/1x12)
+- [Ganbare! Nakamura-kun!! 1x9](https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
