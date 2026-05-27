@@ -36,4 +36,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Primera noche en Torquay, Inglaterra (2025)](https://www.quicoto.com/primera-noche-en-torquay-inglaterra-2025/)
+- [Día nevado en Seúl – Corea del Sur 2025](https://www.quicoto.com/dia-nevado-en-seul-corea-del-sur-2025/)
