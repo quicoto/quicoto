@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x7](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x7)
+- [Ganbare! Nakamura-kun!! 1x10](https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
