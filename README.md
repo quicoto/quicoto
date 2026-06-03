@@ -28,7 +28,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x5](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x5)
+- [Mating Season 1x1](https://quicoto.github.io/reviews/tv-shows/mating-season/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
