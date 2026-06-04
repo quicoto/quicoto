@@ -2,7 +2,8 @@
 
 #### Fediverse / Mastodon
 
-- 🐘 https://ricard.social/@ricard
+- 📸 https://ricard.social/@ricard
+- 🧑‍💻 https://ricard.social/@ricard
 - 🇯🇵 https://ricard.social/@anime
 - ⚾️ https://ricard.social/@baseball
 
