@@ -24,7 +24,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Servamp - Volume 5](https://manga.ricard.blog/reviews/servamp/volume/5/)
+- [Servamp - Volume 6](https://manga.ricard.blog/reviews/servamp/volume/6/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
