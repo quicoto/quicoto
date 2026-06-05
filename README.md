@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Mating Season 1x1](https://quicoto.github.io/reviews/tv-shows/mating-season/1x1)
+- [Ramparts Of Ice 1x10](https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
