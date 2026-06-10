@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [WordPress 7.0 demands themes to define an editor font](https://ricard.dev/wordpress-7-0-demands-themes-to-define-an-editor-font/)
+- [Migrating Mastodon to Docker](https://ricard.dev/migrating-mastodon-to-docker/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
