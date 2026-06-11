@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ramparts Of Ice 1x10](https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x10)
+- [Ganbare! Nakamura-kun!! 1x12](https://quicoto.github.io/reviews/tv-shows/ganbare-nakamura-kun/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
