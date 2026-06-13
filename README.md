@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Servamp - Volume 6](https://manga.ricard.blog/reviews/servamp/volume/6/)
+- [The Promised Neverland - Volume 17](https://manga.ricard.blog/reviews/the-promised-neverland/volume/17/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
