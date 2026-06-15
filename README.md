@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ramparts Of Ice 1x11](https://quicoto.github.io/reviews/tv-shows/ramparts-of-ice/1x11)
+- [Kill Blue 1x10](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
