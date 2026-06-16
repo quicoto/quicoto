@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [My New Boss Is Goofy](https://anime.ricard.blog/reviews/my-new-boss-is-goofy/)
+- [Saint Oniisan](https://anime.ricard.blog/reviews/saint-oniisan/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
