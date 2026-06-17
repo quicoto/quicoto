@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x10](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x10)
+- [Go! Go! Loser Ranger! 1x6](https://quicoto.github.io/reviews/tv-shows/go-go-loser-ranger/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
