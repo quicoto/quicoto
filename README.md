@@ -13,7 +13,7 @@
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
-- [Ep. #55: CSS is getting a boost in 2026](https://share.transistor.fm/s/b5cb4fb6)
+- [Ep. #56: The state of coding with AI](https://share.transistor.fm/s/d488c178)
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Go! Go! Loser Ranger! 1x7](https://quicoto.github.io/reviews/tv-shows/go-go-loser-ranger/1x7)
+- [The Ramparts of Ice 1x8](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
