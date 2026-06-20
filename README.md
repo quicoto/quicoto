@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Saint Oniisan](https://anime.ricard.blog/reviews/saint-oniisan/)
+- [Go For It, Nakamura-kun!!](https://anime.ricard.blog/reviews/go-for-it-nakamura-kun/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
