@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 17](https://manga.ricard.blog/reviews/the-promised-neverland/volume/17/)
+- [Hitorijime Boyfriend - Volume 1 (complete)](https://manga.ricard.blog/reviews/hirano-to-kagiura-copy/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x11](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x11)
+- [Campfire Cooking in Another World with My Absurd Skill 1x5](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
