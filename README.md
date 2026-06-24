@@ -37,4 +37,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día nevado en Seúl – Corea del Sur 2025](https://www.quicoto.com/dia-nevado-en-seul-corea-del-sur-2025/)
+- [Aterrizando en Bruselas – Viaje a Bélgica 2026](https://www.quicoto.com/aterrizando-en-bruselas-viaje-a-belgica-2026/)
