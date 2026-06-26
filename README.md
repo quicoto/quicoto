@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Hitorijime Boyfriend - Volume 1 (complete)](https://manga.ricard.blog/reviews/hirano-to-kagiura-copy/volume/1/)
+- [Haikyu - Volume 18](https://manga.ricard.blog/reviews/haikyuu/volume/18/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
