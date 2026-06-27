@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Go For It, Nakamura-kun!!](https://anime.ricard.blog/reviews/go-for-it-nakamura-kun/)
+- [Campfire Cooking in Another World with My Absurd Skill](https://anime.ricard.blog/reviews/campfire-cooking-in-another-world-with-my-absurd-skill/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [When Life Gives You Tangerines 1x1](https://quicoto.github.io/reviews/tv-shows/when-life-gives-you-tangerines/1x1)
+- [When Life Gives You Tangerines 1x2](https://quicoto.github.io/reviews/tv-shows/when-life-gives-you-tangerines/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
