@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 18](https://manga.ricard.blog/reviews/haikyuu/volume/18/)
+- [Given - Volume 1](https://manga.ricard.blog/reviews/given/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
