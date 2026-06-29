@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Campfire Cooking in Another World with My Absurd Skill](https://anime.ricard.blog/reviews/campfire-cooking-in-another-world-with-my-absurd-skill/)
+- [Kill Blue](https://anime.ricard.blog/reviews/kill-blue/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [When Life Gives You Tangerines 1x2](https://quicoto.github.io/reviews/tv-shows/when-life-gives-you-tangerines/1x2)
+- [Kill Blue 1x12](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
