@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Given - Volume 1](https://manga.ricard.blog/reviews/given/volume/1/)
+- [Given - Volume 2](https://manga.ricard.blog/reviews/given/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
