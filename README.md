@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Kill Blue](https://anime.ricard.blog/reviews/kill-blue/)
+- [The Ramparts of Ice](https://anime.ricard.blog/reviews/ramparts-of-ice/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kill Blue 1x12](https://quicoto.github.io/reviews/tv-shows/kill-blue/1x12)
+- [The Ramparts of Ice 1x13](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x13)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
