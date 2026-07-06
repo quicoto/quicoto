@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Given - Volume 2](https://manga.ricard.blog/reviews/given/volume/2/)
+- [Given - Volume 3](https://manga.ricard.blog/reviews/given/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Ramparts of Ice 1x13](https://quicoto.github.io/reviews/tv-shows/the-ramparts-of-ice/1x13)
+- [Can This Love Be Translated? 1x1](https://quicoto.github.io/reviews/tv-shows/can-this-love-be-translated/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
