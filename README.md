@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Can This Love Be Translated? 1x1](https://quicoto.github.io/reviews/tv-shows/can-this-love-be-translated/1x1)
+- [Can This Love Be Translated? 1x2](https://quicoto.github.io/reviews/tv-shows/can-this-love-be-translated/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
