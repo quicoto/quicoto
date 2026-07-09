@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Given - Volume 3](https://manga.ricard.blog/reviews/given/volume/3/)
+- [Umibe no Étranger (complete)](https://manga.ricard.blog/reviews/umibe-no-etranger/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
