@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Playing Pokémon Go in Japan](https://ricard.blog/other/playing-pokemon-go-in-japan/)
+- [My first ever gig as a drummer](https://ricard.blog/personal/my-first-ever-gig-as-a-drummer/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Campfire Cooking in Another World with My Absurd Skill 2x4](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x4)
+- [Black Torch 1x1](https://quicoto.github.io/reviews/tv-shows/black-torch/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
