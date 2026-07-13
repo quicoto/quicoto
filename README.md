@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Torch 1x1](https://quicoto.github.io/reviews/tv-shows/black-torch/1x1)
+- [Can This Love Be Translated? 1x3](https://quicoto.github.io/reviews/tv-shows/can-this-love-be-translated/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -37,4 +37,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Aterrizando en Bruselas – Viaje a Bélgica 2026](https://www.quicoto.com/aterrizando-en-bruselas-viaje-a-belgica-2026/)
+- [Barcelona, primavera 2026](https://www.quicoto.com/barcelona-primavera-2026/)
