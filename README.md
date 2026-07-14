@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [My first ever gig as a drummer](https://ricard.blog/personal/my-first-ever-gig-as-a-drummer/)
+- [Cool night in hell](https://ricard.blog/personal/cool-night-in-hell/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Harukaze no Etranger - Volume 1](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/1/)
+- [Harukaze no Etranger - Volume 2](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Can This Love Be Translated? 1x3](https://quicoto.github.io/reviews/tv-shows/can-this-love-be-translated/1x3)
+- [Neko to Ryuu 1x2](https://quicoto.github.io/reviews/tv-shows/neko-to-ryuu/1x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
