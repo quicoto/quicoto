@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Cool night in hell](https://ricard.blog/personal/cool-night-in-hell/)
+- [Korean fried seaweed](https://ricard.blog/personal/korean-fried-seaweed/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Harukaze no Etranger - Volume 2](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/2/)
+- [Harukaze no Etranger - Volume 3](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Neko to Ryuu 1x2](https://quicoto.github.io/reviews/tv-shows/neko-to-ryuu/1x2)
+- [Smoking Behind the Supermarket with You 1x1](https://quicoto.github.io/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
