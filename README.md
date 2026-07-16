@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Korean fried seaweed](https://ricard.blog/personal/korean-fried-seaweed/)
+- [New blog design (summer 2026)](https://ricard.blog/other/new-blog-design-summer-2026/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Harukaze no Etranger - Volume 3](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/3/)
+- [The Promised Neverland - Volume 19](https://manga.ricard.blog/reviews/the-promised-neverland/volume/19/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x1](https://quicoto.github.io/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x1)
+- [Campfire Cooking in Another World with My Absurd Skill 2x7](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
