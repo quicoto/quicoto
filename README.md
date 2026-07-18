@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Soccer stops everything](https://ricard.blog/rant/soccer-stops-everything/)
+- [Time to recycle or pay the price](https://ricard.blog/rant/time-to-recycle-or-pay-the-price/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 19](https://manga.ricard.blog/reviews/the-promised-neverland/volume/19/)
+- [Harukaze no Etranger - Volume 4](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/4/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
