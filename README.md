@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Campfire Cooking in Another World with My Absurd Skill 2x8](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x8)
+- [Neko to Ryuu 1x4](https://quicoto.github.io/reviews/tv-shows/neko-to-ryuu/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
