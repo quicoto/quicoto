@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Time to recycle or pay the price](https://ricard.blog/rant/time-to-recycle-or-pay-the-price/)
+- [Great springs, terrible summers](https://ricard.blog/rant/great-springs-terrible-summers/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Neko to Ryuu 1x4](https://quicoto.github.io/reviews/tv-shows/neko-to-ryuu/1x4)
+- [Teach You a Lesson 1x4](https://quicoto.github.io/reviews/tv-shows/teach-you-a-lesson/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
