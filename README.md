@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Great springs, terrible summers](https://ricard.blog/rant/great-springs-terrible-summers/)
+- [What if AI could write perfect books for you](https://ricard.blog/personal/what-if-ai-could-write-perfect-books-for-you/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Teach You a Lesson 1x4](https://quicoto.github.io/reviews/tv-shows/teach-you-a-lesson/1x4)
+- [Teach You a Lesson 1x5](https://quicoto.github.io/reviews/tv-shows/teach-you-a-lesson/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
