@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [What if AI could write perfect books for you](https://ricard.blog/personal/what-if-ai-could-write-perfect-books-for-you/)
+- [The weight of speaking as a senior](https://ricard.blog/rant/the-weight-of-speaking-as-a-senior/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Harukaze no Etranger - Volume 4](https://manga.ricard.blog/reviews/harukaze-no-etranger/volume/4/)
+- [Hirano to Kagiura - Volume 2](https://manga.ricard.blog/reviews/hirano-to-kagiura/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Teach You a Lesson 1x5](https://quicoto.github.io/reviews/tv-shows/teach-you-a-lesson/1x5)
+- [Campfire Cooking in Another World with My Absurd Skill 2x9](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
