@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [The weight of speaking as a senior](https://ricard.blog/rant/the-weight-of-speaking-as-a-senior/)
+- [Badminton has great sportsmanship](https://ricard.blog/rant/badminton-has-great-sportsmanship/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
