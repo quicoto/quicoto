@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Migrating Mastodon to Docker](https://ricard.dev/migrating-mastodon-to-docker/)
+- [Moving away from GitHub to self hosted Gitea](https://ricard.dev/moving-away-from-github-to-self-hosted-gitea/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Campfire Cooking in Another World with My Absurd Skill 2x9](https://quicoto.github.io/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x9)
+- [Campfire Cooking in Another World with My Absurd Skill 2x9](https://ricard.blog/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
