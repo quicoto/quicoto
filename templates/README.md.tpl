@@ -33,7 +33,7 @@
 {{- end}}
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
-{{range rss "https://quicoto.github.io/reviews/rss-all-shows.xml" 1}}
+{{range rss "https://ricard.blog/reviews/rss-all-shows.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
