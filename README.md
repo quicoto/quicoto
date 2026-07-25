@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Badminton has great sportsmanship](https://ricard.blog/rant/badminton-has-great-sportsmanship/)
+- [Watching the viral The Odyssey](https://ricard.blog/other/watching-the-viral-the-odyssey/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Hirano to Kagiura - Volume 2](https://manga.ricard.blog/reviews/hirano-to-kagiura/volume/2/)
+- [The Promised Neverland - Volume 20 (finale)](https://manga.ricard.blog/reviews/the-promised-neverland/volume/20/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Campfire Cooking in Another World with My Absurd Skill 2x9](https://ricard.blog/reviews/tv-shows/campfire-cooking-in-another-world-with-my-absurd-skill/2x9)
+- [Can This Love Be Translated? 2x11](https://ricard.blog/reviews/tv-shows/can-this-love-be-translated/2x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
