@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Ramparts of Ice](https://anime.ricard.blog/reviews/ramparts-of-ice/)
+- [The Cat and the Dragon [dropped]](https://anime.ricard.blog/rants/cat-and-the-dragon/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Can This Love Be Translated? 2x11](https://ricard.blog/reviews/tv-shows/can-this-love-be-translated/2x11)
+- [Yakusoku no Neverland 2x1](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
