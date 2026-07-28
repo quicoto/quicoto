@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Watching the viral The Odyssey](https://ricard.blog/other/watching-the-viral-the-odyssey/)
+- [Stranded in South Korea](https://ricard.blog/rant/stranded-in-south-korea/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -17,11 +17,11 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Moving away from GitHub to self hosted Gitea](https://ricard.dev/moving-away-from-github-to-self-hosted-gitea/)
+- [How to generate and download Gitea backups](https://ricard.dev/how-to-generate-and-download-gitea-backups/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [The Cat and the Dragon [dropped]](https://anime.ricard.blog/rants/cat-and-the-dragon/)
+- [Beck: Mongolian Chop Squad](https://anime.ricard.blog/reviews/beck-mongolian-chop-squad/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yakusoku no Neverland 2x1](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x1)
+- [Yakusoku no Neverland 2x2](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
