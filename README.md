@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Stranded in South Korea](https://ricard.blog/rant/stranded-in-south-korea/)
+- [Hello, AI!](https://ricard.blog/rant/hello-ai/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to generate and download Gitea backups](https://ricard.dev/how-to-generate-and-download-gitea-backups/)
+- [AI token economy (July 2026)](https://ricard.dev/ai-token-economy-july-2026/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yakusoku no Neverland 2x2](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x2)
+- [Yakusoku no Neverland 2x3](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
