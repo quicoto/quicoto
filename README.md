@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Hello, AI!](https://ricard.blog/rant/hello-ai/)
+- [Clean after yourself](https://ricard.blog/rant/clean-after-yourself/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yakusoku no Neverland 2x3](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x3)
+- [Yakusoku no Neverland 2x5](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
