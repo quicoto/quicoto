@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Clean after yourself](https://ricard.blog/rant/clean-after-yourself/)
+- [My first mechanical split keyboard](https://ricard.blog/personal/my-first-mechanical-split-keyboard/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,11 +29,11 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Yakusoku no Neverland 2x5](https://ricard.blog/reviews/tv-shows/yakusoku-no-neverland/2x5)
+- [Smoking Behind the Supermarket with You 1x4](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
-- [The Recruit (CHERUB, #1)](https://www.goodreads.com/review/show/8376067291?utm_medium=api&amp;utm_source=rss)
+- [Buried Secrets (Nick Heller, #2)](https://www.goodreads.com/review/show/8415557335?utm_medium=api&amp;utm_source=rss)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
