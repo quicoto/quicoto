@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [My first mechanical split keyboard](https://ricard.blog/personal/my-first-mechanical-split-keyboard/)
+- [Review: Buried Secrets (Nick Heller #3)](https://ricard.blog/review/buried-secrets-nick-heller-3/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The Promised Neverland - Volume 20 (finale)](https://manga.ricard.blog/reviews/the-promised-neverland/volume/20/)
+- [I Hear the Sunspot - Volume 1](https://manga.ricard.blog/reviews/i-hear-the-sunspot/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
