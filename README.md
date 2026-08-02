@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: Buried Secrets (Nick Heller #3)](https://ricard.blog/review/buried-secrets-nick-heller-3/)
+- [9 years at the same company](https://ricard.blog/personal/9-years-at-the-same-company/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Beck: Mongolian Chop Squad](https://anime.ricard.blog/reviews/beck-mongolian-chop-squad/)
+- [Campfire Cooking in Another World with My Absurd Skill (Season 2)](https://anime.ricard.blog/reviews/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x4](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x4)
+- [Black Torch 1x5](https://ricard.blog/reviews/tv-shows/black-torch/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
