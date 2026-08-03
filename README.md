@@ -21,15 +21,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Campfire Cooking in Another World with My Absurd Skill (Season 2)](https://anime.ricard.blog/reviews/campfire-cooking-in-another-world-with-my-absurd-skill-season-2/)
+- [The Promised Neverland: Season 2](https://anime.ricard.blog/rants/the-promised-neverland-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [I Hear the Sunspot - Volume 1](https://manga.ricard.blog/reviews/i-hear-the-sunspot/volume/1/)
+- [I Hear the Sunspot - Volume 2](https://manga.ricard.blog/reviews/i-hear-the-sunspot/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Torch 1x5](https://ricard.blog/reviews/tv-shows/black-torch/1x5)
+- [My Awkward Senpai 1x4](https://ricard.blog/reviews/tv-shows/my-awkward-senpai/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -37,4 +37,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Barcelona, primavera 2026](https://www.quicoto.com/barcelona-primavera-2026/)
+- [Escenas de verano (2026)](https://www.quicoto.com/escenas-de-verano-2026/)
