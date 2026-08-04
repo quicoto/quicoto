@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [9 years at the same company](https://ricard.blog/personal/9-years-at-the-same-company/)
+- [August office hours](https://ricard.blog/personal/august-office-hours/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [I Hear the Sunspot - Volume 2](https://manga.ricard.blog/reviews/i-hear-the-sunspot/volume/2/)
+- [I Hear the Sunspot - Volume 3](https://manga.ricard.blog/reviews/i-hear-the-sunspot/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Awkward Senpai 1x4](https://ricard.blog/reviews/tv-shows/my-awkward-senpai/1x4)
+- [My Awkward Senpai 1x8](https://ricard.blog/reviews/tv-shows/my-awkward-senpai/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
