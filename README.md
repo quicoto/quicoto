@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [AI token economy (July 2026)](https://ricard.dev/ai-token-economy-july-2026/)
+- [How to delete old Gitea worflow runs](https://ricard.dev/how-to-delete-old-gitea-worflow-runs/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Attack on Titan - Volume 12](https://manga.ricard.blog/reviews/attack-on-titan/volume/12/)
+- [Attack on Titan - Volume 13](https://manga.ricard.blog/reviews/attack-on-titan/volume/13/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x13](https://ricard.blog/reviews/tv-shows/solo-camping-for-two/1x13)
+- [Solo Camping for Two 1x16](https://ricard.blog/reviews/tv-shows/solo-camping-for-two/1x16)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
