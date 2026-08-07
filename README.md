@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Buying digital manga](https://ricard.blog/other/buying-digital-manga/)
+- [Visually impaired coding](https://ricard.blog/other/visually-impaired-coding/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to delete old Gitea worflow runs](https://ricard.dev/how-to-delete-old-gitea-worflow-runs/)
+- [How to delete old Gitea workflow runs](https://ricard.dev/how-to-delete-old-gitea-workflow-runs/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Attack on Titan - Volume 13](https://manga.ricard.blog/reviews/attack-on-titan/volume/13/)
+- [Attack on Titan - Volume 15](https://manga.ricard.blog/reviews/attack-on-titan/volume/15/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x16](https://ricard.blog/reviews/tv-shows/solo-camping-for-two/1x16)
+- [Smoking Behind the Supermarket with You 1x5](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
