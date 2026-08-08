@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x5](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x5)
+- [Solo Camping for Two 1x24](https://ricard.blog/reviews/tv-shows/solo-camping-for-two/1x24)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
