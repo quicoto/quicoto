@@ -17,11 +17,11 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [How to delete old Gitea workflow runs](https://ricard.dev/how-to-delete-old-gitea-workflow-runs/)
+- [Migrating from WordPress to Hugo](https://ricard.dev/migrating-from-wordpress-to-hugo/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [My Awkward Senpai](https://anime.ricard.blog/reviews/my-awkward-senpai/)
+- [Solo Camping for Two](https://anime.ricard.blog/reviews/solo-camping-for-two/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Solo Camping for Two 1x24](https://ricard.blog/reviews/tv-shows/solo-camping-for-two/1x24)
+- [Black Torch 1x6](https://ricard.blog/reviews/tv-shows/black-torch/1x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
