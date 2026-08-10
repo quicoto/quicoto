@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Migrating from WordPress to Hugo](https://ricard.dev/migrating-from-wordpress-to-hugo/)
+- [Validating Frontmatter in Markdown](https://ricard.dev/validating-frontmatter-in-markdown/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Black Torch 1x6](https://ricard.blog/reviews/tv-shows/black-torch/1x6)
+- [Beastars 4x8](https://ricard.blog/reviews/tv-shows/beastars/4x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
