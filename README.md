@@ -17,11 +17,11 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Validating Frontmatter in Markdown](https://ricard.dev/validating-frontmatter-in-markdown/)
+- [Creating new Hugo posts with a bash script](https://ricard.dev/creating-new-hugo-posts-with-a-bash-script/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Solo Camping for Two](https://anime.ricard.blog/reviews/solo-camping-for-two/)
+- [Beastars Final Season (Part 2)](https://anime.ricard.blog/reviews/beastars-final-season-part-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Beastars 4x8](https://ricard.blog/reviews/tv-shows/beastars/4x8)
+- [Tune In to the Midnight Heart 1x1](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
