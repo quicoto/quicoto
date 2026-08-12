@@ -25,11 +25,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Attack on Titan - Volume 15](https://manga.ricard.blog/reviews/attack-on-titan/volume/15/)
+- [Living-Room Matsunaga-san - Volume 2](https://manga.ricard.blog/reviews/living-room-matsunaga-san/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tune In to the Midnight Heart 1x1](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x1)
+- [Tune In to the Midnight Heart 1x3](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
