@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Creating new Hugo posts with a bash script](https://ricard.dev/creating-new-hugo-posts-with-a-bash-script/)
+- [Creating an emoji picker UI](https://ricard.dev/creating-an-emoji-picker-ui/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tune In to the Midnight Heart 1x3](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x3)
+- [Tune In to the Midnight Heart 1x4](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
