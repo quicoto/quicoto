@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tune In to the Midnight Heart 1x4](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x4)
+- [Tune In to the Midnight Heart 1x8](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
