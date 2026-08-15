@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Creating an emoji picker UI](https://ricard.dev/creating-an-emoji-picker-ui/)
+- [Creating a VSCode extension for Hugo commands](https://ricard.dev/creating-a-vscode-extension-for-hugo-commands/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -25,7 +25,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Living-Room Matsunaga-san - Volume 2](https://manga.ricard.blog/reviews/living-room-matsunaga-san/volume/2/)
+- [Attack on Titan - Volume 16](https://manga.ricard.blog/reviews/attack-on-titan/volume/16/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
