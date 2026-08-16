@@ -21,15 +21,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Beastars Final Season (Part 2)](https://anime.ricard.blog/reviews/beastars-final-season-part-2/)
+- [Tune In to the Midnight Heart](https://anime.ricard.blog/reviews/tune-in-to-the-midnight-heart/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Attack on Titan - Volume 16](https://manga.ricard.blog/reviews/attack-on-titan/volume/16/)
+- [Attack on Titan - Volume 18](https://manga.ricard.blog/reviews/attack-on-titan/volume/18/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tune In to the Midnight Heart 1x8](https://ricard.blog/reviews/tv-shows/tune-in-to-the-midnight-heart/1x8)
+- [Go! Go! Loser Ranger! 1x8](https://ricard.blog/reviews/tv-shows/go-go-loser-ranger/1x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
