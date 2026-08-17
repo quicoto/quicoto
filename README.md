@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Go! Go! Loser Ranger! 1x8](https://ricard.blog/reviews/tv-shows/go-go-loser-ranger/1x8)
+- [Special Ops: Lioness 3x3](https://ricard.blog/reviews/tv-shows/special-ops-lioness/3x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
