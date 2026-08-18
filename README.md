@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Visually impaired coding](https://ricard.blog/other/visually-impaired-coding/)
+- [Losing a colleague](https://ricard.blog/personal/losing-a-colleague/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 3x3](https://ricard.blog/reviews/tv-shows/special-ops-lioness/3x3)
+- [You and I Are Polar Opposites 2x7](https://ricard.blog/reviews/tv-shows/you-and-i-are-polar-opposites/2x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
