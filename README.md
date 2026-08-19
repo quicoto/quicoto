@@ -21,7 +21,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Tune In to the Midnight Heart](https://anime.ricard.blog/reviews/tune-in-to-the-midnight-heart/)
+- [Go! Go! Loser Ranger! (Season 1)](https://anime.ricard.blog/reviews/go-go-loser-ranger/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [You and I Are Polar Opposites 2x7](https://ricard.blog/reviews/tv-shows/you-and-i-are-polar-opposites/2x7)
+- [Reacher 4x2](https://ricard.blog/reviews/tv-shows/reacher/4x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
