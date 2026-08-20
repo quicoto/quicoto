@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 4x2](https://ricard.blog/reviews/tv-shows/reacher/4x2)
+- [My Ribdiculous Reincarnation 1x1](https://ricard.blog/reviews/tv-shows/my-ribdiculous-reincarnation/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
