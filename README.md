@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Creating a VSCode extension for Hugo commands](https://ricard.dev/creating-a-vscode-extension-for-hugo-commands/)
+- [CSS Custom Highlight API in Hugo for code blocks](https://ricard.dev/css-custom-highlight-api-in-hugo-for-code-blocks/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [My Ribdiculous Reincarnation 1x1](https://ricard.blog/reviews/tv-shows/my-ribdiculous-reincarnation/1x1)
+- [Reacher 4x4](https://ricard.blog/reviews/tv-shows/reacher/4x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
