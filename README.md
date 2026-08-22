@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Losing a colleague](https://ricard.blog/personal/losing-a-colleague/)
+- [🏸 BWF World Championships 2026](https://ricard.blog/other/%f0%9f%8f%b8-bwf-world-championships-2026/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 4x4](https://ricard.blog/reviews/tv-shows/reacher/4x4)
+- [Smoking Behind the Supermarket with You 1x7](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x7)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
