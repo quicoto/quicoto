@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [CSS Custom Highlight API in Hugo for code blocks](https://ricard.dev/css-custom-highlight-api-in-hugo-for-code-blocks/)
+- [fail2ban jail to block HTTP probing](https://ricard.dev/fail2ban-jail-to-block-http-probing/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -37,4 +37,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Parque nacional de Dartmoor](https://www.quicoto.com/parque-nacional-de-dartmoor/)
+- [Canales, cannoli y casas – Venecia 2024](https://www.quicoto.com/canales-cannoli-y-casas-venecia-2024/)
