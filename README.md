@@ -17,7 +17,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [fail2ban jail to block HTTP probing](https://ricard.dev/fail2ban-jail-to-block-http-probing/)
+- [Lazy loading modules from npm packages in Hugo](https://ricard.dev/lazy-loading-modules-from-npm-packages-in-hugo/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -29,7 +29,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x7](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x7)
+- [Special Ops: Lioness 3x4](https://ricard.blog/reviews/tv-shows/special-ops-lioness/3x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
