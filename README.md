@@ -9,7 +9,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [🏸 BWF World Championships 2026](https://ricard.blog/other/%f0%9f%8f%b8-bwf-world-championships-2026/)
+- [I miss big screens when I’m away, don’t you?](https://ricard.blog/rant/i-miss-big-screens-when-im-away-dont-you/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
