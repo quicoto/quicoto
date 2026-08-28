@@ -6,10 +6,11 @@
 - 🧑‍💻 https://ricard.social/@ricard
 - 🇯🇵 https://ricard.social/@anime
 - ⚾️ https://ricard.social/@baseball
+- 📺 https://ricard.social/@tv
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [I miss big screens when I’m away, don’t you?](https://ricard.blog/rant/i-miss-big-screens-when-im-away-dont-you/)
+- [Regular TV isn&#39;t cool anymore](https://ricard.blog/other/regular-tv-isnt-cool-anymore/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -25,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Attack on Titan - Volume 18](https://manga.ricard.blog/reviews/attack-on-titan/volume/18/)
+- [Sasaki to Miyano - Volume 7](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 4x5](https://ricard.blog/reviews/tv-shows/reacher/4x5)
+- [Seal Team 1x3](https://ricard.blog/reviews/tv-shows/seal-team/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
