@@ -6,9 +6,10 @@
 - 🧑‍💻 https://ricard.social/@ricard
 - 🇯🇵 https://ricard.social/@anime
 - ⚾️ https://ricard.social/@baseball
+- 📺 https://ricard.social/@tv
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
-{{range rss "https://ricard.blog/feed/" 1}}
+{{range rss "https://ricard.blog/feed.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
@@ -18,7 +19,7 @@
 {{- end}}
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
-{{range rss "https://ricard.dev/feed/" 1}}
+{{range rss "https://ricard.dev/feed.xml" 1}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
