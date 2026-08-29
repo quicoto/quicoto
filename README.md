@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Lazy loading modules from npm packages in Hugo](https://ricard.dev/lazy-loading-modules-from-npm-packages-in-hugo/)
+- [Building a Git comment system for Hugo](https://ricard.dev/building-a-git-comment-system-for-hugo/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x3](https://ricard.blog/reviews/tv-shows/seal-team/1x3)
+- [Seal Team 1x5](https://ricard.blog/reviews/tv-shows/seal-team/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
