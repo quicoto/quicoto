@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [One Room Jogyo-nim 1x3](https://ricard.blog/reviews/tv-shows/one-room-jogyo-nim/1x3)
+- [Seal Team 1x9](https://ricard.blog/reviews/tv-shows/seal-team/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
