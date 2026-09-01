@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Building a Git comment system for Hugo](https://ricard.dev/building-a-git-comment-system-for-hugo/)
+- [Cache breaking with package.json versions in Hugo](https://ricard.dev/cache-breaking-with-packagejson-versions-in-hugo/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Sasaki to Miyano - Volume 7](https://manga.ricard.blog/reviews/sasaki-to-miyano/volume/7/)
+- [Servamp - Volume 7](https://manga.ricard.blog/reviews/servamp/volume/7/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x9](https://ricard.blog/reviews/tv-shows/seal-team/1x9)
+- [Seal Team 1x10](https://ricard.blog/reviews/tv-shows/seal-team/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
