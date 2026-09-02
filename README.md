@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Cache breaking with package.json versions in Hugo](https://ricard.dev/cache-breaking-with-packagejson-versions-in-hugo/)
+- [Setting up Anubis bot protection](https://ricard.dev/setting-up-anubis-bot-protection/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x10](https://ricard.blog/reviews/tv-shows/seal-team/1x10)
+- [Seal Team 1x12](https://ricard.blog/reviews/tv-shows/seal-team/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
