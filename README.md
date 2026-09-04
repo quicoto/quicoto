@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Regular TV isn&#39;t cool anymore](https://ricard.blog/other/regular-tv-isnt-cool-anymore/)
+- [Working from home is still nice in 2026](https://ricard.blog/personal/working-from-home-is-still-nice-in-2026/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Servamp - Volume 7](https://manga.ricard.blog/reviews/servamp/volume/7/)
+- [Servamp - Volume 8](https://manga.ricard.blog/reviews/servamp/volume/8/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x12](https://ricard.blog/reviews/tv-shows/seal-team/1x12)
+- [Smoking Behind the Supermarket with You 1x9](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x9)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
