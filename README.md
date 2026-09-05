@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x9](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x9)
+- [One Room Jogyo-nim 1x5](https://ricard.blog/reviews/tv-shows/one-room-jogyo-nim/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
