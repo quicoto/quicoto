@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Servamp - Volume 8](https://manga.ricard.blog/reviews/servamp/volume/8/)
+- [Qualia Under the Snow (Complete)](https://manga.ricard.blog/reviews/qualia-under-the-snow/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x14](https://ricard.blog/reviews/tv-shows/seal-team/1x14)
+- [Seal Team 1x15](https://ricard.blog/reviews/tv-shows/seal-team/1x15)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
