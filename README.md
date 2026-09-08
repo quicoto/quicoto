@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x15](https://ricard.blog/reviews/tv-shows/seal-team/1x15)
+- [Special Ops: Lioness 3x6](https://ricard.blog/reviews/tv-shows/special-ops-lioness/3x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
