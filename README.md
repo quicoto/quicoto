@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Special Ops: Lioness 3x6](https://ricard.blog/reviews/tv-shows/special-ops-lioness/3x6)
+- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! 1x3](https://ricard.blog/reviews/tv-shows/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/1x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
