@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Working from home is still nice in 2026](https://ricard.blog/personal/working-from-home-is-still-nice-in-2026/)
+- [Can we trust anything we see online anymore?](https://ricard.blog/rant/can-we-trust-anything-we-see-online-anymore/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! 1x3](https://ricard.blog/reviews/tv-shows/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/1x3)
+- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! 1x5](https://ricard.blog/reviews/tv-shows/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/1x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
