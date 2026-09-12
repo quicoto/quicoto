@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 4x7](https://ricard.blog/reviews/tv-shows/reacher/4x7)
+- [Smoking Behind the Supermarket with You 1x10](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
