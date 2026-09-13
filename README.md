@@ -22,15 +22,15 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Go! Go! Loser Ranger! (Season 1)](https://anime.ricard.blog/reviews/go-go-loser-ranger/)
+- [My Ribdiculous Reincarnation](https://anime.ricard.blog/rants/my-ribdiculous-reincarnation/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Qualia Under the Snow (Complete)](https://manga.ricard.blog/reviews/qualia-under-the-snow/volume/1/)
+- [Nomi x Shiba - Volume 1](https://manga.ricard.blog/reviews/nomi-x-shiba/volume/1/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x10](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x10)
+- [Seal Team 1x16](https://ricard.blog/reviews/tv-shows/seal-team/1x16)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
