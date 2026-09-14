@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Can we trust anything we see online anymore?](https://ricard.blog/rant/can-we-trust-anything-we-see-online-anymore/)
+- [I look like a software developer](https://ricard.blog/story/i-look-like-a-software-developer/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -26,7 +26,7 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Nomi x Shiba - Volume 1](https://manga.ricard.blog/reviews/nomi-x-shiba/volume/1/)
+- [Nomi x Shiba - Volume 2](https://manga.ricard.blog/reviews/nomi-x-shiba/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
