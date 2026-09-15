@@ -18,11 +18,11 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [Setting up Anubis bot protection](https://ricard.dev/setting-up-anubis-bot-protection/)
+- [AI token economy (September 2026)](https://ricard.dev/ai-token-economy-september-2026/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [My Ribdiculous Reincarnation](https://anime.ricard.blog/rants/my-ribdiculous-reincarnation/)
+- [One-Room TA (Season 1)](https://anime.ricard.blog/reviews/one-room-ta-season-1/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x16](https://ricard.blog/reviews/tv-shows/seal-team/1x16)
+- [Seal Team 1x20](https://ricard.blog/reviews/tv-shows/seal-team/1x20)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
