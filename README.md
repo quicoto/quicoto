@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Seal Team 1x20](https://ricard.blog/reviews/tv-shows/seal-team/1x20)
+- [Our Sticky Love 1x1](https://ricard.blog/reviews/tv-shows/our-sticky-love/1x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
