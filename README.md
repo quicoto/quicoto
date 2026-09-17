@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Our Sticky Love 1x1](https://ricard.blog/reviews/tv-shows/our-sticky-love/1x1)
+- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! 1x10](https://ricard.blog/reviews/tv-shows/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/1x10)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
