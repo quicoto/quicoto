@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! 1x10](https://ricard.blog/reviews/tv-shows/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/1x10)
+- [Reacher 4x8](https://ricard.blog/reviews/tv-shows/reacher/4x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
