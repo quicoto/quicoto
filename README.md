@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Reacher 4x8](https://ricard.blog/reviews/tv-shows/reacher/4x8)
+- [Special Ops: Lioness 3x8](https://ricard.blog/reviews/tv-shows/special-ops-lioness/3x8)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
