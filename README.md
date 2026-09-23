@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [I look like a software developer](https://ricard.blog/story/i-look-like-a-software-developer/)
+- [Review: Reacher (Season 4)](https://ricard.blog/review/review-reacher-season-4/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
