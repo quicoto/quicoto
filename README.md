@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Review: Reacher (Season 4)](https://ricard.blog/review/review-reacher-season-4/)
+- [Being stood up is infuriating](https://ricard.blog/rant/being-stood-up-is-infuriating/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
