@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Being stood up is infuriating](https://ricard.blog/rant/being-stood-up-is-infuriating/)
+- [Replacing suitcase wheels is expensive](https://ricard.blog/rant/replacing-suitcase-wheels-is-expensive/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
