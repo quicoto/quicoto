@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Replacing suitcase wheels is expensive](https://ricard.blog/rant/replacing-suitcase-wheels-is-expensive/)
+- [1 movie or 2 manga volumes?](https://ricard.blog/rant/1-movie-or-2-manga-volumes/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [One-Room TA (Season 1)](https://anime.ricard.blog/reviews/one-room-ta-season-1/)
+- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!](https://anime.ricard.blog/reviews/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?! 1x12](https://ricard.blog/reviews/tv-shows/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/1x12)
+- [Smoking Behind the Supermarket with You 1x12](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
