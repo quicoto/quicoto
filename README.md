@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!](https://anime.ricard.blog/reviews/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard/)
+- [Smoking Behind the Supermarket with You](https://anime.ricard.blog/reviews/smoking-behind-the-supermarket-with-you/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x12](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x12)
+- [Smoking Behind the Supermarket with You 1x11](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x11)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
