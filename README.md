@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Smoking Behind the Supermarket with You 1x11](https://ricard.blog/reviews/tv-shows/smoking-behind-the-supermarket-with-you/1x11)
+- [Ted Lasso 4x1](https://ricard.blog/reviews/tv-shows/ted-lasso/4x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
