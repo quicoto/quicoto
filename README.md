@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [1 movie or 2 manga volumes?](https://ricard.blog/rant/1-movie-or-2-manga-volumes/)
+- [Back to the office, no thanks](https://ricard.blog/personal/back-to-the-office-no-thanks/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
