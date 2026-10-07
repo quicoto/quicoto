@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Nomi x Shiba - Volume 2](https://manga.ricard.blog/reviews/nomi-x-shiba/volume/2/)
+- [The blue summer and you - Volume 2](https://manga.ricard.blog/reviews/the-summer-of-you/volume/2/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ted Lasso 4x4](https://ricard.blog/reviews/tv-shows/ted-lasso/4x4)
+- [The Ramparts of Ice 2x1](https://ricard.blog/reviews/tv-shows/the-ramparts-of-ice/2x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
