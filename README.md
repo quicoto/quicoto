@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [Back to the office, no thanks](https://ricard.blog/personal/back-to-the-office-no-thanks/)
+- [Expecting excellence](https://ricard.blog/rant/expecting-excellence/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -38,4 +38,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Canales, cannoli y casas – Venecia 2024](https://www.quicoto.com/canales-cannoli-y-casas-venecia-2024/)
+- [Primera noche en Kioto – Viaje a Japón 2023](https://www.quicoto.com/primera-noche-en-kioto-viaje-a-japon-2023/)
