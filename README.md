@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [Smoking Behind the Supermarket with You](https://anime.ricard.blog/reviews/smoking-behind-the-supermarket-with-you/)
+- [You and I Are Polar Opposites (Season 2)](https://anime.ricard.blog/reviews/you-and-i-are-polar-opposites-season-2/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
