@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ao Ashi 2x1](https://ricard.blog/reviews/tv-shows/ao-ashi/2x1)
+- [Haunted Hotel 2x1](https://ricard.blog/reviews/tv-shows/haunted-hotel/2x1)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
