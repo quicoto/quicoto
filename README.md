@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haunted Hotel 2x1](https://ricard.blog/reviews/tv-shows/haunted-hotel/2x1)
+- [Blue Box 2x2](https://ricard.blog/reviews/tv-shows/blue-box/2x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
@@ -38,4 +38,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Primera noche en Kioto – Viaje a Japón 2023](https://www.quicoto.com/primera-noche-en-kioto-viaje-a-japon-2023/)
+- [Lluvia, Chinatown y Puente de Brooklyn – Viaje a Nueva York 2023](https://www.quicoto.com/lluvia-chinatown-y-puente-de-brooklyn-viaje-a-nueva-york-2023/)
