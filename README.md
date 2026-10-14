@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 2x2](https://ricard.blog/reviews/tv-shows/blue-box/2x2)
+- [Haunted Hotel 2x5](https://ricard.blog/reviews/tv-shows/haunted-hotel/2x5)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
