@@ -22,7 +22,7 @@
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
-- [You and I Are Polar Opposites (Season 2)](https://anime.ricard.blog/reviews/you-and-i-are-polar-opposites-season-2/)
+- [Black Torch](https://anime.ricard.blog/reviews/black-torch/)
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Haunted Hotel 2x5](https://ricard.blog/reviews/tv-shows/haunted-hotel/2x5)
+- [Black Torch 1x12](https://ricard.blog/reviews/tv-shows/black-torch/1x12)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
