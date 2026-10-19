@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Diplomat 4x2](https://ricard.blog/reviews/tv-shows/the-diplomat/4x2)
+- [The Diplomat 4x4](https://ricard.blog/reviews/tv-shows/the-diplomat/4x4)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
