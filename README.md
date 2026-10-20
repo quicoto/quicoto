@@ -26,11 +26,11 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [The blue summer and you - Volume 2](https://manga.ricard.blog/reviews/the-summer-of-you/volume/2/)
+- [The blue summer and you - Volume 3](https://manga.ricard.blog/reviews/the-summer-of-you/volume/3/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Diplomat 4x4](https://ricard.blog/reviews/tv-shows/the-diplomat/4x4)
+- [The Diplomat 4x6](https://ricard.blog/reviews/tv-shows/the-diplomat/4x6)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
