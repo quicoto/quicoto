@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 &nbsp;&nbsp;[Code](https://ricard.dev)
 
-- [AI token economy (September 2026)](https://ricard.dev/ai-token-economy-september-2026/)
+- [Seniors can&#39;t speak freely?](https://ricard.dev/seniors-cant-speak-freely/)
 
 #### 📺 &nbsp;&nbsp;[Anime reviews](https://anime.ricard.blog)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Diplomat 4x8](https://ricard.blog/reviews/tv-shows/the-diplomat/4x8)
+- [Tougen Anki 2x3](https://ricard.blog/reviews/tv-shows/tougen-anki/2x3)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
