@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Tougen Anki 2x3](https://ricard.blog/reviews/tv-shows/tougen-anki/2x3)
+- [The Terminal List 2x2](https://ricard.blog/reviews/tv-shows/the-terminal-list/2x2)
 
 #### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
 
