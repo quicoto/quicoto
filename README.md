@@ -38,4 +38,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Lluvia, Chinatown y Puente de Brooklyn – Viaje a Nueva York 2023](https://www.quicoto.com/lluvia-chinatown-y-puente-de-brooklyn-viaje-a-nueva-york-2023/)
+- [Primeros gofres belgas – Viaje a Bélgica 2026](https://www.quicoto.com/primeros-gofres-belgas-viaje-a-belgica-2026/)
