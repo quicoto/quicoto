@@ -38,11 +38,6 @@
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
-{{range rss "https://www.goodreads.com/review/list_rss/104159625?key=&shelf=read" 1}}
-- [{{.Title}}]({{.URL}})
-{{- end}}
-
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 {{range rss "https://www.quicoto.com/feed/" 1}}
 - [{{.Title}}]({{.URL}})
