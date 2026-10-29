@@ -30,11 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Terminal List 2x4](https://ricard.blog/reviews/tv-shows/the-terminal-list/2x4)
-
-#### 📚 &nbsp;&nbsp;[Latest read Book](https://ricard.blog/books/)
-
-- [Buried Secrets (Nick Heller, #2)](https://www.goodreads.com/review/show/8415557335?utm_medium=api&amp;utm_source=rss)
+- [Kusuriya no Hitorigoto 3x4](https://ricard.blog/reviews/tv-shows/kusuriya-no-hitorigoto/3x4)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
