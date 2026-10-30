@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [39](https://ricard.blog/personal/39/)
+- [Review: The Devotion of Suspect X](https://ricard.blog/review/the-devotion-of-suspect-x/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 3x4](https://ricard.blog/reviews/tv-shows/kusuriya-no-hitorigoto/3x4)
+- [The Terminal List 2x5](https://ricard.blog/reviews/tv-shows/the-terminal-list/2x5)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
