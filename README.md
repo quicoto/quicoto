@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Terminal List 2x5](https://ricard.blog/reviews/tv-shows/the-terminal-list/2x5)
+- [The Terminal List 2x6](https://ricard.blog/reviews/tv-shows/the-terminal-list/2x6)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
