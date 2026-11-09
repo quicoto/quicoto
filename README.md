@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x49](https://ricard.blog/reviews/tv-shows/kusuriya-no-hitorigoto/1x49)
+- [Ted Lasso 4x7](https://ricard.blog/reviews/tv-shows/ted-lasso/4x7)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
