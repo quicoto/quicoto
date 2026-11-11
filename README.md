@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Kusuriya no Hitorigoto 1x54](https://ricard.blog/reviews/tv-shows/kusuriya-no-hitorigoto/1x54)
+- [Lupin 3x5](https://ricard.blog/reviews/tv-shows/lupin/3x5)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
