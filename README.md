@@ -30,7 +30,7 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lupin 3x7](https://ricard.blog/reviews/tv-shows/lupin/3x7)
+- [Ao Ashi 2x6](https://ricard.blog/reviews/tv-shows/ao-ashi/2x6)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
