@@ -10,7 +10,7 @@
 
 #### 📝 &nbsp;&nbsp;[Blog](https://ricard.blog)
 
-- [New second hand books](https://ricard.blog/other/new-second-hand-books/)
+- [Flying to South Korea 2026](https://ricard.blog/personal/flying-to-south-korea-2026/)
 
 #### 🎙 &nbsp;&nbsp;[Podcast - FE Coffee Break](https://frontend.coffee)
 
@@ -34,4 +34,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Primeros gofres belgas – Viaje a Bélgica 2026](https://www.quicoto.com/primeros-gofres-belgas-viaje-a-belgica-2026/)
+- [Día 0 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-0-viaje-a-corea-del-sur-2026/)
