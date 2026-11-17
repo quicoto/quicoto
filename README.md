@@ -30,8 +30,8 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Ramparts of Ice 2x7](https://ricard.blog/reviews/tv-shows/the-ramparts-of-ice/2x7)
+- [Lupin 4x3](https://ricard.blog/reviews/tv-shows/lupin/4x3)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 1 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-1-viaje-a-corea-del-sur-2026/)
+- [Día 3 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-3-viaje-a-corea-del-sur-2026/)
