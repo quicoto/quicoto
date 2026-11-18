@@ -30,8 +30,8 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lupin 4x3](https://ricard.blog/reviews/tv-shows/lupin/4x3)
+- [Lupin 4x4](https://ricard.blog/reviews/tv-shows/lupin/4x4)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 3 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-3-viaje-a-corea-del-sur-2026/)
+- [Día 4 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-4-viaje-a-corea-del-sur-2026/)
