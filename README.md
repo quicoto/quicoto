@@ -26,12 +26,12 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [Haikyu - Volume 19](https://manga.ricard.blog/reviews/haikyuu/volume/19/)
+- [HAZESHIFT](https://manga.ricard.blog/webtoon/hazeshift/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Lupin 4x4](https://ricard.blog/reviews/tv-shows/lupin/4x4)
+- [Lupin 4x5](https://ricard.blog/reviews/tv-shows/lupin/4x5)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 4 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-4-viaje-a-corea-del-sur-2026/)
+- [Día 5 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-5-viaje-a-corea-del-sur-2026/)
