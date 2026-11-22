@@ -34,4 +34,4 @@
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 7 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-7-viaje-a-corea-del-sur-2026/)
+- [Día 8 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-8-viaje-a-corea-del-sur-2026/)
