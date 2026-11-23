@@ -26,12 +26,12 @@
 
 #### 📚 &nbsp;&nbsp;[Manga reviews](https://anime.ricard.blog)
 
-- [HAZESHIFT](https://manga.ricard.blog/webtoon/hazeshift/)
+- [Here U Are](https://manga.ricard.blog/webtoon/here-u-are/)
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [The Ramparts of Ice 2x8](https://ricard.blog/reviews/tv-shows/the-ramparts-of-ice/2x8)
+- [Blue Box 2x6](https://ricard.blog/reviews/tv-shows/blue-box/2x6)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 8 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-8-viaje-a-corea-del-sur-2026/)
+- [Día 9 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-9-viaje-a-corea-del-sur-2026/)
