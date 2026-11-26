@@ -30,8 +30,8 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Blue Box 2x6](https://ricard.blog/reviews/tv-shows/blue-box/2x6)
+- [Ao Ashi 2x8](https://ricard.blog/reviews/tv-shows/ao-ashi/2x8)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 11 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-11-viaje-a-corea-del-sur-2026/)
+- [Día 12 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-12-viaje-a-corea-del-sur-2026/)
