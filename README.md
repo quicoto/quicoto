@@ -30,8 +30,8 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Ao Ashi 2x8](https://ricard.blog/reviews/tv-shows/ao-ashi/2x8)
+- [Fool Night 1x1](https://ricard.blog/reviews/tv-shows/fool-night/1x1)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 12 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-12-viaje-a-corea-del-sur-2026/)
+- [Día 13 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-13-viaje-a-corea-del-sur-2026/)
