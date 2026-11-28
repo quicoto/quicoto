@@ -30,8 +30,8 @@
 
 #### 📺 &nbsp;&nbsp;[Latest watched TV Show](https://quicoto.github.io/reviews/tv-shows)
 
-- [Fool Night 1x1](https://ricard.blog/reviews/tv-shows/fool-night/1x1)
+- [The Ramparts of Ice 2x9](https://ricard.blog/reviews/tv-shows/the-ramparts-of-ice/2x9)
 
 #### ✈️ &nbsp;&nbsp;[Travel Blog](https://www.quicoto.com/)
 
-- [Día 13 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-13-viaje-a-corea-del-sur-2026/)
+- [Día 14 – Viaje a Corea del Sur 2026](https://www.quicoto.com/dia-14-viaje-a-corea-del-sur-2026/)
